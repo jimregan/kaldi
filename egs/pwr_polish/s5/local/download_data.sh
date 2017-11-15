@@ -30,7 +30,8 @@ download_file() {
 
 mkdir -p $data
 
-for i in "AM_Train_sng_male" "SWD" "VIUs"; do
+#for i in "AM_Train_sng_male" "SWD" "VIUs"; do
+for i in "VIUs"; do
   filename=$i.zip
   
   if [ -f $data/$filename ]; then
