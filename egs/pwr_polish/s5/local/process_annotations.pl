@@ -10,9 +10,9 @@ my $input = $ARGV[0];
 my $base = $input;
 $base =~ s![^/]*$!!;
 
-my @raw_duplicates = qw(305846 305363 305278 306094 305982 305685 305838 305672
-                    305943 305686 305114 305960 305166 306012 306030 305989
-                    305534);
+my @raw_duplicates = qw(305846 305363 305278 306094 305982 305685 305838
+                        305672 305943 305686 305114 305960 305166 306012
+                        306030 305989 305534);
 my %duplicates = map { $_ => 1 } @raw_duplicates;
 
 open(IN, '<', $input) or die "$!";
@@ -27,7 +27,7 @@ while(<IN>) {
         
         open(OUT, '>', "$base/$filename.txt");
         binmode(OUT, ":utf8");
-        print OUT $annotation;
+        print OUT lc($annotation);
         close OUT;
     }
 }
