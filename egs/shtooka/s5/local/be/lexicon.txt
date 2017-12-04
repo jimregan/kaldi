@@ -1,20 +1,36 @@
 аазіс	a a zʲ i s
 абабіць	a b a bʲ i tsʲ
+абавязак	a b a vʲ a z a k
+абавязкова	a b a vʲ a z k ɔ v a
 абагачальнік	a b a ɣ a tʂ a lʲ nʲ i k
 абагуліць	a b a ɣ u lʲ i tsʲ
+абадранец	a b a d r a nʲ ɛ ts
 абакрасці	a b a k r a sʲ tsʲ i
+абалона	a b a ɫ ɔ n a
+абалонка	a b a ɫ ɔ n k a
 абанкруціцца	a b a n k r u tsʲ i tsː a
 абаперці	a b a pʲ ɛ r tsʲ i
+абаранак	a b a r a n a k
 абараніць	a b a r a nʲ i tsʲ
+абарачэнне	a b a r a tʂ ɛ nʲː ɛ
+абарона	a b a r ɔ n a
+абаронца	a b a r ɔ n ts a
+абарочваць	a b a r ɔ tʂ v a tsʲ
 абачлівасць	a b a tʂ lʲ i v a sʲ tsʲ
 абваліць	a b v a lʲ i tsʲ
+абвергнуць	a b vʲ ɛ r ɣ n u tsʲ
+абвестка	a b vʲ ɛ s t k a
 абвесці	a b vʲ ɛ sʲ tsʲ i
 абвінаваўца	a b vʲ i n a v a w ts a
 абвінаваціць	a b vʲ i n a v a tsʲ i tsʲ
 абвінуць	a b vʲ i n u tsʲ
 абвясціць	a b vʲ a sʲ tsʲ i tsʲ
+абвяць	a b vʲ a tsʲ
 абвяшчальнік	a b vʲ a ʂ tʂ a lʲ nʲ i k
+абгаварыць	a b ɣ a v a r ɨ tsʲ
+абгарнуць	a b ɣ a r n u tsʲ
 абгінаць	a b ɣʲ i n a tsʲ
+абгрунтаваць	a b ɣ r u n t a v a tsʲ
 абдзяўбці	a b dzʲ a w b tsʲ i
 абезнадзеіць	a bʲ ɛ z n a dzʲ ɛ j i tsʲ
 абзеляніць	a b zʲ ɛ lʲ a nʲ i tsʲ
@@ -37,34 +53,55 @@
 аблупіць	a b ɫ u pʲ i tsʲ
 аблямоўка	a b lʲ a m ɔ w k a
 абмалёўка	a b m a lʲ ɔ w k a
+абмацаць	a b m a ts a tsʲ
 абмежавальнік	a b mʲ ɛ ʐ a v a lʲ nʲ i k
+абмежаваць	a b mʲ ɛ ʐ a v a tsʲ
+абмеркаваць	a b mʲ ɛ r k a v a tsʲ
 абмінуць	a b mʲ i n u tsʲ
 абмоўка	a b m ɔ w k a
 абнімкі	a b nʲ i m kʲ i
 абняславіць	a b nʲ a s ɫ a vʲ i tsʲ
 абплысці	a b p ɫ ɨ sʲ tsʲ i
+абрабаваць	a b r a b a v a tsʲ
 абражальнік	a b r a ʐ a lʲ nʲ i k
+абраз	a b r a z
+абраза	a b r a z a
 абразіць	a b r a zʲ i tsʲ
 абразкі	a b r a z kʲ i
 абрасіць	a b r a sʲ i tsʲ
 абрахманіць	a b r a x m a nʲ i tsʲ
+аброжак	a b r ɔ ʐ a k
+аброць	a b r ɔ tsʲ
+абрыдзець	a b r ɨ dzʲ ɛ tsʲ
 абсівераць	a b sʲ i vʲ ɛ r a tsʲ
 абсініць	a b sʲ i nʲ i tsʲ
 абскардзіць	a b s k a r dzʲ i tsʲ
 абставіны	a b s t a vʲ i n ɨ
+абсяг	a b sʲ a ɣ
 абудзіць	a b u dzʲ i tsʲ
 абумовіць	a b u m ɔ vʲ i tsʲ
+абутак	a b u t a k
 абхапіць	a b x a pʲ i tsʲ
+абцас	a b ts a s
 абцерабіць	a b tsʲ ɛ r a bʲ i tsʲ
 абцінак	a b tsʲ i n a k
 абцугі	a b ts u ɣʲ i
 абцякальнік	a b tsʲ a k a lʲ nʲ i k
 абшалёўка	a b ʂ a lʲ ɔ w k a
+абшар	a b ʂ a r
+абшукаць	a b ʂ u k a tsʲ
 абшэўка	a b ʂ ɛ w k a
+абыякавасць	a b ɨ j a k a v a sʲ tsʲ
 абяззброіць	a bʲ a z z b r ɔ j i tsʲ
+абярэмак	a bʲ a r ɛ m a k
 абяссэнсіць	a bʲ a s s ɛ n sʲ i tsʲ
 абястлусціць	a bʲ a s t ɫ u sʲ tsʲ i tsʲ
 абясшкодзіць	a bʲ a s ʂ k ɔ dzʲ i tsʲ
+абяцанка	a bʲ a ts a n k a
+абяцаць	a bʲ a ts a tsʲ
+авадзень	a v a dzʲ ɛ nʲ
+авалодаць	a v a ɫ ɔ d a tsʲ
+авечка	a vʲ ɛ tʂ k a
 авечкагадоўля	a vʲ ɛ tʂ k a ɣ a d ɔ w lʲ a
 авечнік	a vʲ ɛ tʂ nʲ i k
 авіяздымка	a vʲ i j a z d ɨ m k a
@@ -73,19 +110,32 @@
 авысакародзіць	a v ɨ s a k a r ɔ dzʲ i tsʲ
 агаласоўка	a ɣ a ɫ a s ɔ w k a
 агаліць	a ɣ a lʲ i tsʲ
+аганьбаваць	a ɣ a nʲ b a v a tsʲ
+агарнуць	a ɣ a r n u tsʲ
+агароджа	a ɣ a r ɔ d ʐ a
 агародніна	a ɣ a r ɔ d nʲ i n a
 агіда	a ɣʲ i d a
 агідлівасць	a ɣʲ i d lʲ i v a sʲ tsʲ
 агледзіны	a ɣ lʲ ɛ dzʲ i n ɨ
+агляд	a ɣ lʲ a d
 аглядальнік	a ɣ lʲ a d a lʲ nʲ i k
+аглядны	a ɣ lʲ a d n ɨ
 агністы	a ɣ nʲ i s t ɨ
 аграмадзіць	a ɣ r a m a dzʲ i tsʲ
+агрэст	a ɣ r ɛ s t
+агульнапрыняты	a ɣ u lʲ n a p r ɨ nʲ a t ɨ
 агульнаўжывальнасць	a ɣ u lʲ n a w ʐ ɨ v a lʲ n a sʲ tsʲ
+агульны	a ɣ u lʲ n ɨ
+адаптаваць	a d a p t a v a tsʲ
 адасобіць	a d a s ɔ bʲ i tsʲ
 адбітак	a d bʲ i t a k
+адбыцца	a d b ɨ tsː a
 адвабіць	a d v a bʲ i tsʲ
+адвага	a d v a ɣ a
+адваротны	a d v a r ɔ t n ɨ
 адведзіны	a d vʲ ɛ dzʲ i n ɨ
 адвесці	a d vʲ ɛ sʲ tsʲ i
+адвольны	a d v ɔ lʲ n ɨ
 адгадзіць	a d ɣ a dzʲ i tsʲ
 адгалінаваны	a d ɣ a lʲ i n a v a n ɨ
 адгаманіць	a d ɣ a m a nʲ i tsʲ
@@ -93,17 +143,22 @@
 адгладзіць	a d ɣ ɫ a dzʲ i tsʲ
 адгрэбці	a d ɣ r ɛ b tsʲ i
 аджгір	a d ʐ ɣʲ i r
+адзёр	a dzʲ ɔ r
 адзімак	a dzʲ i m a k
 адзінка	a dzʲ i n k a
 адзінота	a dzʲ i n ɔ t a
 адзіны	a dzʲ i n ɨ
 адзіхацець	a dzʲ i x a tsʲ ɛ tsʲ
+адзнака	a dz n a k a
+адказ	a d k a z
+адказаць	a d k a z a tsʲ
 адквітаць	a d k vʲ i t a tsʲ
 адкінуць	a d kʲ i n u tsʲ
 адкласці	a d k ɫ a sʲ tsʲ i
 адклікаць	a d k lʲ i k a tsʲ
 адкруціць	a d k r u tsʲ i tsʲ
 адкрэсліць	a d k r ɛ sʲ lʲ i tsʲ
+адлегласць	a d lʲ ɛ ɣ ɫ a sʲ tsʲ
 адліваны	a d lʲ i v a n ɨ
 адліга	a d lʲ i ɣ a
 адлік	a d lʲ i k
@@ -111,28 +166,34 @@
 адлінуць	a d lʲ i n u tsʲ
 адлічыць	a d lʲ i tʂ ɨ tsʲ
 адмільгаць	a d mʲ i lʲ ɣ a tsʲ
+адмова	a d m ɔ v a
 адмовіцца	a d m ɔ vʲ i tsː a
 адмоўе	a d m ɔ w j ɛ
 адмоўны	a d m ɔ w n ɨ
 аднавіць	a d n a vʲ i tsʲ
 аднавокі	a d n a v ɔ kʲ i
+аднадумец	a d n a d u mʲ ɛ ts
 аднамоўны	a d n a m ɔ w n ɨ
 аднарадкоўе	a d n a r a d k ɔ w j ɛ
 аднасхільны	a d n a s xʲ i lʲ n ɨ
 аднаўленне	a d n a w lʲ ɛ nʲː ɛ
 аднаўленчы	a d n a w lʲ ɛ n tʂ ɨ
 адносіны	a d n ɔ sʲ i n ɨ
+адносны	a d n ɔ s n ɨ
 адноўнік	a d n ɔ w nʲ i k
 адпаведнік	a d p a vʲ ɛ d nʲ i k
+адпаведны	a d p a vʲ ɛ d n ɨ
 адпаліць	a d p a lʲ i tsʲ
 адпомсціць	a d p ɔ m sʲ tsʲ i tsʲ
 адправадзіць	a d p r a v a dzʲ i tsʲ
 адпрацоўка	a d p r a ts ɔ w k a
 адпудзіць	a d p u dzʲ i tsʲ
 адрабіць	a d r a bʲ i tsʲ
+адраджэнне	a d r a d ʐ ɛ nʲː ɛ
 адрадзіць	a d r a dzʲ i tsʲ
 адраіць	a d r a j i tsʲ
 адрозніць	a d r ɔ zʲ nʲ i tsʲ
+адрына	a d r ɨ n a
 адсапціся	a d s a p tsʲ i sʲ a
 адскародзіць	a d s k a r ɔ dzʲ i tsʲ
 адскрэбці	a d s k r ɛ b tsʲ i
@@ -140,53 +201,92 @@
 адтуліна	a d t u lʲ i n a
 адтэрмінаваць	a d t ɛ r mʲ i n a v a tsʲ
 адтэрміноўка	a d t ɛ r mʲ i n ɔ w k a
+адукаваны	a d u k a v a n ɨ
+адукаваць	a d u k a v a tsʲ
+адукацыя	a d u k a ts ɨ j a
 адухаўленне	a d u x a w lʲ ɛ nʲː ɛ
 адхіліць	a d xʲ i lʲ i tsʲ
 адхінуць	a d xʲ i n u tsʲ
+адхон	a d x ɔ n
 адцінак	a d tsʲ i n a k
 адцінаць	a d tsʲ i n a tsʲ
+адцурацца	a d ts u r a tsː a
+адчувальны	a tʂː u v a lʲ n ɨ
+адчуць	a tʂː u tsʲ
 адчыніць	a tʂː ɨ nʲ i tsʲ
 адшпіліць	a d ʂ pʲ i lʲ i tsʲ
+адштурхнуць	a d ʂ t u r x n u tsʲ
 адшчапіць	a d ʂ tʂ a pʲ i tsʲ
+ажына	a ʐ ɨ n a
 ажыннік	a ʐ ɨ nʲː i k
 ажыццявіць	a ʐ ɨ tsʲː a vʲ i tsʲ
 азагаловіць	a z a ɣ a ɫ ɔ vʲ i tsʲ
 аздараўленчы	a z d a r a w lʲ ɛ n tʂ ɨ
+аздоба	a z d ɔ b a
 аздобіць	a z d ɔ bʲ i tsʲ
 азіраць	a zʲ i r a tsʲ
 азірнуцца	a zʲ i r n u tsː a
 азнаёміць	a z n a j ɔ mʲ i tsʲ
 акалічнасць	a k a lʲ i tʂ n a sʲ tsʲ
 аканіца	a k a nʲ i ts a
+аканом	a k a n ɔ m
+акардэон	a k a r d ɛ ɔ n
 акісляльнік	a kʲ i sʲ lʲ a lʲ nʲ i k
+акравак	a k r a v a k
+акрамя	a k r a mʲ a
+акруга	a k r u ɣ a
 акрэсліць	a k r ɛ sʲ lʲ i tsʲ
 аксаміт	a k s a mʲ i t
 аксамітка	a k s a mʲ i t k a
 аксамітнік	a k s a mʲ i t nʲ i k
 аксаміцісты	a k s a mʲ i tsʲ i s t ɨ
+акуляры	a k u lʲ a r ɨ
+аладка	a ɫ a d k a
+але	a lʲ ɛ
 алеістасць	a lʲ ɛ j i s t a sʲ tsʲ
+алей	a lʲ ɛ j
 аленегадоўля	a lʲ ɛ nʲ ɛ ɣ a d ɔ w lʲ a
 алешнік	a lʲ ɛ ʂ nʲ i k
+алешына	a lʲ ɛ ʂ ɨ n a
 аліва	a lʲ i v a
+аловак	a ɫ ɔ v a k
+амаль	a m a lʲ
+аматар	a m a t a r
+анёл	a nʲ ɔ ɫ
 антыграмадскі	a n t ɨ ɣ r a m a d s kʲ i
+ануча	a n u tʂ a
 апавядальнік	a p a vʲ a d a lʲ nʲ i k
+апавяданне	a p a vʲ a d a nʲː ɛ
+апавядаць	a p a vʲ a d a tsʲ
 апавясціць	a p a vʲ a sʲ tsʲ i tsʲ
 ападкі	a p a d kʲ i
 апазніцца	a p a zʲ nʲ i tsː a
 апаліць	a p a lʲ i tsʲ
+апальшчык	a p a lʲ ʂ tʂ ɨ k
+апанаванасць	a p a n a v a n a sʲ tsʲ
+апанаваць	a p a n a v a tsʲ
+апантанасць	a p a n t a n a sʲ tsʲ
+апантаны	a p a n t a n ɨ
 апладніць	a p ɫ a d nʲ i tsʲ
 апоўзень	a p ɔ w zʲ ɛ nʲ
 апошні	a p ɔ ʂ nʲ i
 апраменіць	a p r a mʲ ɛ nʲ i tsʲ
+апраметная	a p r a mʲ ɛ t n a j a
 апрацоўка	a p r a ts ɔ w k a
+апрача	a p r a tʂ a
 апыляльнік	a p ɨ lʲ a lʲ nʲ i k
 аржанішча	a r ʐ a nʲ i ʂ tʂ a
+арфа	a r f a
+арышт	a r ɨ ʂ t
+арыштаваць	a r ɨ ʂ t a v a tsʲ
 арэлі	a r ɛ lʲ i
 асабісты	a s a bʲ i s t ɨ
 асабліва	a s a b lʲ i v a
 асаблівасць	a s a b lʲ i v a sʲ tsʲ
 асаблівы	a s a b lʲ i v ɨ
+асабовы	a s a b ɔ v ɨ
 асавік	a s a vʲ i k
+асалода	a s a ɫ ɔ d a
 асветнік	a sʲ vʲ ɛ t nʲ i k
 асвятліць	a sʲ vʲ a t lʲ i tsʲ
 аселіца	a sʲ ɛ lʲ i ts a
@@ -194,19 +294,27 @@
 аскрэбці	a s k r ɛ b tsʲ i
 аскубці	a s k u b tsʲ i
 асмаліць	a s m a lʲ i tsʲ
+асоба	a s ɔ b a
 асобнік	a s ɔ b nʲ i k
+асобны	a s ɔ b n ɨ
 астатні	a s t a t nʲ i
 астойлівасць	a s t ɔ j lʲ i v a sʲ tsʲ
 астудзіць	a s t u dzʲ i tsʲ
 аступіць	a s t u pʲ i tsʲ
 асучасніць	a s u tʂ a sʲ nʲ i tsʲ
+асцярога	a sʲ tsʲ a r ɔ ɣ a
 асьміна	a sʲ mʲ i n a
+асяроддзе	a sʲ a r ɔ dzʲː ɛ
 атаясаміць	a t a j a s a mʲ i tsʲ
 атаясамліванне	a t a j a s a m lʲ i v a nʲː ɛ
 атлуміць	a t ɫ u mʲ i tsʲ
 атоесніць	a t ɔ j ɛ sʲ nʲ i tsʲ
+атожылак	a t ɔ ʐ ɨ ɫ a k
+атрута	a t r u t a
+атрутны	a t r u t n ɨ
 атруціць	a t r u tsʲ i tsʲ
 атрымальнік	a t r ɨ m a lʲ nʲ i k
+атрымаць	a t r ɨ m a tsʲ
 атрэсці	a t r ɛ sʲ tsʲ i
 атуліць	a t u lʲ i tsʲ
 аўсюк	a w sʲ u k
@@ -220,13 +328,20 @@
 аўтамабілебудаўнік	a w t a m a bʲ i lʲ ɛ b u d a w nʲ i k
 аўтамастэрня	a w t a m a s t ɛ r nʲ a
 аўтарухавік	a w t a r u x a vʲ i k
+ахайны	a x a j n ɨ
 ахаладжальнік	a x a ɫ a d ʐ a lʲ nʲ i k
+ахапак	a x a p a k
 ахапіць	a x a pʲ i tsʲ
+ахвота	a x v ɔ t a
+ахвотна	a x v ɔ t n a
 ахвотнік	a x v ɔ t nʲ i k
+ахвяра	a x vʲ a r a
+ахвяраваць	a x vʲ a r a v a tsʲ
 ахвярадаўца	a x vʲ a r a d a w ts a
 ахвярнік	a x vʲ a r nʲ i k
 ахінуць	a xʲ i n u tsʲ
 ахмістрыня	a x mʲ i s t r ɨ nʲ a
+ахова	a x ɔ v a
 ахоўнік	a x ɔ w nʲ i k
 ахоўны	a x ɔ w n ɨ
 ахрысціць	a x r ɨ sʲ tsʲ i tsʲ
@@ -240,12 +355,18 @@
 ачапіць	a tʂ a pʲ i tsʲ
 ачарніць	a tʂ a r nʲ i tsʲ
 ачмуціць	a tʂ m u tsʲ i tsʲ
+ашалелы	a ʂ a lʲ ɛ ɫ ɨ
 ашалёўка	a ʂ a lʲ ɔ w k a
 ашкліць	a ʂ k lʲ i tsʲ
+ашуканец	a ʂ u k a nʲ ɛ ts
+ашуканства	a ʂ u k a n s t v a
+ашукаць	a ʂ u k a tsʲ
 ашчадлівасць	a ʂ tʂ a d lʲ i v a sʲ tsʲ
+ашчадны	a ʂ tʂ a d n ɨ
 аякасціць	a j a k a sʲ tsʲ i tsʲ
 бабіна	b a bʲ i n a
 бабінец	b a bʲ i nʲ ɛ ts
+бабка	b a b k a
 бабовішча	b a b ɔ vʲ i ʂ tʂ a
 бабравіна	b a b r a vʲ i n a
 бабровіна	b a b r ɔ vʲ i n a
@@ -262,50 +383,84 @@
 багністы	b a ɣ nʲ i s t ɨ
 багнішча	b a ɣ nʲ i ʂ tʂ a
 багноўка	b a ɣ n ɔ w k a
+бадзёры	b a dzʲ ɔ r ɨ
 бадзяжніцтва	b a dzʲ a ʐ nʲ i ts t v a
+бадзяцца	b a dzʲ a tsː a
 баечнік	b a j ɛ tʂ nʲ i k
+байка	b a j k a
 байкапісец	b a j k a pʲ i sʲ ɛ ts
 бакавіна	b a k a vʲ i n a
 бакавіца	b a k a vʲ i ts a
 бакоўка	b a k ɔ w k a
 балацянік	b a ɫ a tsʲ a nʲ i k
+балбатаць	b a ɫ b a t a tsʲ
 балбатлівасць	b a ɫ b a t lʲ i v a sʲ tsʲ
+балесны	b a lʲ ɛ s n ɨ
+балея	b a lʲ ɛ j a
+баль	b a lʲ
+баляваць	b a lʲ a v a tsʲ
 бамбасховішча	b a m b a s x ɔ vʲ i ʂ tʂ a
 баравік	b a r a vʲ i k
+баразна	b a r a z n a
 барацьбіт	b a r a tsʲ bʲ i t
+барвенак	b a r vʲ ɛ n a k
 барліна	b a r lʲ i n a
 бародаўка	b a r ɔ d a w k a
 баршчэўнік	b a r ʂ tʂ ɛ w nʲ i k
 бацвінне	b a tsʲ vʲ i nʲː ɛ
+бацька	b a tsʲ k a
 бацькаўшчына	b a tsʲ k a w ʂ tʂ ɨ n a
 бацькоўства	b a tsʲ k ɔ w s t v a
+бачыць	b a tʂ ɨ tsʲ
 баязлівец	b a j a zʲ lʲ i vʲ ɛ ts
+бегчы	bʲ ɛ ɣ tʂ ɨ
+бедаваць	bʲ ɛ d a v a tsʲ
+бедства	bʲ ɛ d s t v a
 безаблічнасць	bʲ ɛ z a b lʲ i tʂ n a sʲ tsʲ
 безадмоўны	bʲ ɛ z a d m ɔ w n ɨ
 безвыніковасць	bʲ ɛ z v ɨ nʲ i k ɔ v a sʲ tsʲ
 безвыніковы	bʲ ɛ z v ɨ nʲ i k ɔ v ɨ
 безгаспадарлівы	bʲ ɛ z ɣ a s p a d a r lʲ i v ɨ
 безгаспадбрлівасць	bʲ ɛ z ɣ a s p a d b r lʲ i v a sʲ tsʲ
+безграшовы	bʲ ɛ z ɣ r a ʂ ɔ v ɨ
 безгрунтоўны	bʲ ɛ z ɣ r u n t ɔ w n ɨ
 безгустоўнасць	bʲ ɛ z ɣ u s t ɔ w n a sʲ tsʲ
+бездакорны	bʲ ɛ z d a k ɔ r n ɨ
+бездань	bʲ ɛ z d a nʲ
+бездапаможны	bʲ ɛ z d a p a m ɔ ʐ n ɨ
+безжыццёвы	bʲ ɛ z ʐ ɨ tsʲː ɔ v ɨ
 беззмястоўнасць	bʲ ɛ zʲː mʲ a s t ɔ w n a sʲ tsʲ
 безліч	bʲ ɛ zʲ lʲ i tʂ
 безназоўны	bʲ ɛ z n a z ɔ w n ɨ
 безнаяўны	bʲ ɛ z n a j a w n ɨ
+безразважны	bʲ ɛ z r a z v a ʐ n ɨ
+безуважны	bʲ ɛ z u v a ʐ n ɨ
 безумоўны	bʲ ɛ z u m ɔ w n ɨ
+безупынны	bʲ ɛ z u p ɨ nː ɨ
 беларусазнаўства	bʲ ɛ ɫ a r u s a z n a w s t v a
 беларускамоўны	bʲ ɛ ɫ a r u s k a m ɔ w n ɨ
 бензасховішча	bʲ ɛ n z a s x ɔ vʲ i ʂ tʂ a
+бервяно	bʲ ɛ r vʲ a n ɔ
+бескарысны	bʲ ɛ s k a r ɨ s n ɨ
+бесклапотны	bʲ ɛ s k ɫ a p ɔ t n ɨ
 беспадстаўны	bʲ ɛ s p a d s t a w n ɨ
+беспаспяховы	bʲ ɛ s p a sʲ pʲ a x ɔ v ɨ
+бесперапынны	bʲ ɛ sʲ pʲ ɛ r a p ɨ nː ɨ
 беспрацоўе	bʲ ɛ s p r a ts ɔ w j ɛ
+беспрыбытковы	bʲ ɛ s p r ɨ b ɨ t k ɔ v ɨ
+бессаромны	bʲ ɛ s s a r ɔ m n ɨ
+бессвядомы	bʲ ɛ sʲː vʲ a d ɔ m ɨ
 бесстаронні	bʲ ɛ s s t a r ɔ nʲː i
 бессядзібны	bʲ ɛ sʲː a dzʲ i b n ɨ
+бестурботны	bʲ ɛ s t u r b ɔ t n ɨ
 бестэрміновы	bʲ ɛ s t ɛ r mʲ i n ɔ v ɨ
 бізун	bʲ i z u n
 біскуп	bʲ i s k u p
 бітон	bʲ i t ɔ n
+блазан	b ɫ a z a n
 блакіт	b ɫ a kʲ i t
 блакітны	b ɫ a kʲ i t n ɨ
+блёкат	b lʲ ɔ k a t
 блізняты	b lʲ i zʲ nʲ a t ɨ
 бліскавіца	b lʲ i s k a vʲ i ts a
 бліскаўка	b lʲ i s k a w k a
@@ -313,66 +468,141 @@
 бліскаць	b lʲ i s k a tsʲ
 бліскуча	b lʲ i s k u tʂ a
 блудзіць	b ɫ u dzʲ i tsʲ
+блукаць	b ɫ u k a tsʲ
 блытаніна	b ɫ ɨ t a nʲ i n a
+блытаць	b ɫ ɨ t a tsʲ
+блюзнер	b lʲ u zʲ nʲ ɛ r
+блюзнерства	b lʲ u zʲ nʲ ɛ r s t v a
+бляха	b lʲ a x a
+бляшанка	b lʲ a ʂ a n k a
 богазневажальнік	b ɔ ɣ a zʲ nʲ ɛ v a ʐ a lʲ nʲ i k
 богашукальнік	b ɔ ɣ a ʂ u k a lʲ nʲ i k
+бок	b ɔ k
 болесуцішальны	b ɔ lʲ ɛ s u tsʲ i ʂ a lʲ n ɨ
+бома	b ɔ m a
+борзды	b ɔ r z d ɨ
 боскі	b ɔ s kʲ i
+бот	b ɔ t
 боцікі	b ɔ tsʲ i kʲ i
 браднік	b r a d nʲ i k
+бразгаць	b r a z ɣ a tsʲ
+бразготка	b r a z ɣ ɔ t k a
+бракароб	b r a k a r ɔ b
+брама	b r a m a
 брамнік	b r a m nʲ i k
+бранзалет	b r a n z a lʲ ɛ t
+брахаць	b r a x a tsʲ
 брахлівы	b r a x lʲ i v ɨ
+брахня	b r a x nʲ a
 брудзіць	b r u dzʲ i tsʲ
+брудны	b r u d n ɨ
+бружмель	b r u ʐ mʲ ɛ lʲ
 бруісты	b r u j i s t ɨ
 бруіцца	b r u j i tsː a
+брукаваць	b r u k a v a tsʲ
 брусніца	b r u sʲ nʲ i ts a
+бручка	b r u tʂ k a
+брыво	b r ɨ v ɔ
 брыдкаслоўе	b r ɨ d k a s ɫ ɔ w j ɛ
 брыдкі	b r ɨ d kʲ i
 брыфінг	b r ɨ fʲ i n ɣ
+бугай	b u ɣ a j
+будаваць	b u d a v a tsʲ
 будаўнік	b u d a w nʲ i k
 будаўніцтва	b u d a w nʲ i ts t v a
 будоўля	b u d ɔ w lʲ a
 будпляцоўка	b u d p lʲ a ts ɔ w k a
+будынак	b u d ɨ n a k
+буйны	b u j n ɨ
+булава	b u ɫ a v a
+булён	b u lʲ ɔ n
+бульба	b u lʲ b a
 бульбянік	b u lʲ bʲ a nʲ i k
 бульбянішча	b u lʲ bʲ a nʲ i ʂ tʂ a
+бурак	b u r a k
 бурачнік	b u r a tʂ nʲ i k
 бурачнішча	b u r a tʂ nʲ i ʂ tʂ a
+бурбалка	b u r b a ɫ k a
+буркаваць	b u r k a v a tsʲ
 бурклівы	b u r k lʲ i v ɨ
+бурчаць	b u r tʂ a tsʲ
+бурчун	b u r tʂ u n
+бурштын	b u r ʂ t ɨ n
+бусел	b u sʲ ɛ ɫ
+бутэлька	b u t ɛ lʲ k a
+буч	b u tʂ
+буяны	b u j a n ɨ
+быдла	b ɨ d ɫ a
 быльнік	b ɨ lʲ nʲ i k
 бытапісец	b ɨ t a pʲ i sʲ ɛ ts
+бэз	b ɛ z
+бэзавы	b ɛ z a v ɨ
 бэсціць	b ɛ sʲ tsʲ i tsʲ
 бязвокі	bʲ a z v ɔ kʲ i
+бязглузды	bʲ a z ɣ ɫ u z d ɨ
+бязгрэшны	bʲ a z ɣ r ɛ ʂ n ɨ
+бязгучны	bʲ a z ɣ u tʂ n ɨ
+бязладдзе	bʲ a z ɫ a dzʲː ɛ
 бязладзіца	bʲ a z ɫ a dzʲ i ts a
 бязлесіца	bʲ a zʲ lʲ ɛ sʲ i ts a
 бязлітасны	bʲ a zʲ lʲ i t a s n ɨ
+бязмежны	bʲ a zʲ mʲ ɛ ʐ n ɨ
 бязмоўны	bʲ a z m ɔ w n ɨ
+бязмэтны	bʲ a z m ɛ t n ɨ
+бялявы	bʲ a lʲ a v ɨ
+бянтэжыць	bʲ a n t ɛ ʐ ɨ tsʲ
 бярозавік	bʲ a r ɔ z a vʲ i k
+бярэмя	bʲ a r ɛ mʲ a
+бясконцы	bʲ a s k ɔ n ts ɨ
 бяскрыўдны	bʲ a s k r ɨ w d n ɨ
+бясплённы	bʲ a s p lʲ ɔ nː ɨ
+бясспрэчны	bʲ a s s p r ɛ tʂ n ɨ
 бясхібны	bʲ a s xʲ i b n ɨ
+бясшкодны	bʲ a s ʂ k ɔ d n ɨ
 вабіць	v a bʲ i tsʲ
+вабны	v a b n ɨ
+вавёрка	v a vʲ ɔ r k a
 вагаўшчык	v a ɣ a w ʂ tʂ ɨ k
 вадаёмісты	v a d a j ɔ mʲ i s t ɨ
 вадаёмішча	v a d a j ɔ mʲ i ʂ tʂ a
 вадаплаўны	v a d a p ɫ a w n ɨ
+вадаспад	v a d a s p a d
 вадасховішча	v a d a s x ɔ vʲ i ʂ tʂ a
 вадзіць	v a dzʲ i tsʲ
 вадзянік	v a dzʲ a nʲ i k
 вадкі	v a d kʲ i
 важданіна	v a ʐ d a nʲ i n a
 важкі	v a ʐ kʲ i
+важыць	v a ʐ ɨ tsʲ
 вазацкі	v a z a ts kʲ i
 вазніца	v a zʲ nʲ i ts a
 вазоўня	v a z ɔ w nʲ a
 вакацыі	v a k a ts ɨ j i
+вакол	v a k ɔ ɫ
 валаводзіцца	v a ɫ a v ɔ dzʲ i tsː a
+валадарны	v a ɫ a d a r n ɨ
+валасянка	v a ɫ a sʲ a n k a
 валатоўка	v a ɫ a t ɔ w k a
+валацуга	v a ɫ a ts u ɣ a
+валачы	v a ɫ a tʂ ɨ
+валёнак	v a lʲ ɔ n a k
 валіць	v a lʲ i tsʲ
+валлё	v a lʲ lʲ ʲ ɔ
 валоскі	v a ɫ ɔ s kʲ i
+вандраваць	v a n d r a v a tsʲ
 вандроўка	v a n d r ɔ w k a
 вандроўны	v a n d r ɔ w n ɨ
 ванітаваць	v a nʲ i t a v a tsʲ
+вантробы	v a n t r ɔ b ɨ
+вапна	v a p n a
 вапнаўка	v a p n a w k a
+варажыць	v a r a ʐ ɨ tsʲ
+варкатаць	v a r k a t a tsʲ
+вартаваць	v a r t a v a tsʲ
+вартавы	v a r t a v ɨ
 вартаўнік	v a r t a w nʲ i k
+варты	v a r t ɨ
+варштат	v a r ʂ t a t
 варыўня	v a r ɨ w nʲ a
 васьміразовы	v a sʲ mʲ i r a z ɔ v ɨ
 ватоўка	v a t ɔ w k a
@@ -382,19 +612,30 @@
 вачніца	v a tʂ nʲ i ts a
 ваяўнік	v a j a w nʲ i k
 ваяўнічы	v a j a w nʲ i tʂ ɨ
+ведаць	vʲ ɛ d a tsʲ
+веды	vʲ ɛ d ɨ
+вежа	vʲ ɛ ʐ a
 велізарны	vʲ ɛ lʲ i z a r n ɨ
 веліч	vʲ ɛ lʲ i tʂ
 велічны	vʲ ɛ lʲ i tʂ n ɨ
 велічэзны	vʲ ɛ lʲ i tʂ ɛ z n ɨ
 вельмі	vʲ ɛ lʲ mʲ i
+верагодны	vʲ ɛ r a ɣ ɔ d n ɨ
 верадзіць	vʲ ɛ r a dzʲ i tsʲ
+верас	vʲ ɛ r a s
+верасень	vʲ ɛ r a sʲ ɛ nʲ
 вербніца	vʲ ɛ r b nʲ i ts a
 верхавіна	vʲ ɛ r x a vʲ i n a
+верш	vʲ ɛ r ʂ
 вершапісанне	vʲ ɛ r ʂ a pʲ i s a nʲː ɛ
+веславаць	vʲ ɛ s ɫ a v a tsʲ
+вестка	vʲ ɛ s t k a
 ветлівасць	vʲ ɛ t lʲ i v a sʲ tsʲ
 ветлівы	vʲ ɛ t lʲ i v ɨ
+ветразь	vʲ ɛ t r a zʲ
 ветрарухавік	vʲ ɛ t r a r u x a vʲ i k
 вёрткі	vʲ ɔ r t kʲ i
+вёска	vʲ ɔ s k a
 відавочнасць	vʲ i d a v ɔ tʂ n a sʲ tsʲ
 відавочны	vʲ i d a v ɔ tʂ n ɨ
 відазменлівы	vʲ i d a zʲ mʲ ɛ n lʲ i v ɨ
@@ -429,35 +670,58 @@
 вішчаць	vʲ i ʂ tʂ a tsʲ
 вогнеўстойлівы	v ɔ ɣ nʲ ɛ w s t ɔ j lʲ i v ɨ
 вогнішча	v ɔ ɣ nʲ i ʂ tʂ a
+водападзел	v ɔ d a p a dzʲ ɛ ɫ
 водапранікальны	v ɔ d a p r a nʲ i k a lʲ n ɨ
+водар	v ɔ d a r
+водарасць	v ɔ d a r a sʲ tsʲ
 водаўстойлівы	v ɔ d a w s t ɔ j lʲ i v ɨ
 водбліск	v ɔ d b lʲ i s k
+воддаль	v ɔ d d a lʲ
 возніцтва	v ɔ zʲ nʲ i ts t v a
+вока	v ɔ k a
 вокліч	v ɔ k lʲ i tʂ
+волат	v ɔ ɫ a t
 волкі	v ɔ ɫ kʲ i
+вольны	v ɔ lʲ n ɨ
+вольха	v ɔ lʲ x a
+вонкавы	v ɔ n k a v ɨ
 вопіс	v ɔ pʲ i s
 воплескі	v ɔ p lʲ ɛ s kʲ i
+вопратка	v ɔ p r a t k a
+вораг	v ɔ r a ɣ
 ворлікі	v ɔ r lʲ i kʲ i
 воўна	v ɔ w n a
 вудзільна	v u dzʲ i lʲ n a
 вуркатлівы	v u r k a t lʲ i v ɨ
+вусень	v u sʲ ɛ nʲ
+вусны	v u s n ɨ
+вуха	v u x a
+вучань	v u tʂ a nʲ
 вучнёўства	v u tʂ nʲ ɔ w s t v a
+вушак	v u ʂ a k
 выбівачка	v ɨ bʲ i v a tʂ k a
 выбіральны	v ɨ bʲ i r a lʲ n ɨ
 выбліск	v ɨ b lʲ i s k
 выбліснуць	v ɨ b lʲ i s n u tsʲ
 выбоісты	v ɨ b ɔ j i s t ɨ
 выбраннік	v ɨ b r a nʲː i k
+выбух	v ɨ b u x
+выбухнуць	v ɨ b u x n u tsʲ
+выбуховы	v ɨ b u x ɔ v ɨ
 вываліць	v ɨ v a lʲ i tsʲ
 вывандзіць	v ɨ v a n dzʲ i tsʲ
 выгаліць	v ɨ ɣ a lʲ i tsʲ
 выгіб	v ɨ ɣʲ i b
 выгінасты	v ɨ ɣʲ i n a s t ɨ
+выгляд	v ɨ ɣ lʲ a d
 выгнаннік	v ɨ ɣ n a nʲː i k
+выгодны	v ɨ ɣ ɔ d n ɨ
 выграбці	v ɨ ɣ r a b tsʲ i
 выдаліць	v ɨ d a lʲ i tsʲ
 выдасканаліць	v ɨ d a s k a n a lʲ i tsʲ
 выдатнік	v ɨ d a t nʲ i k
+выдатны	v ɨ d a t n ɨ
+выдаць	v ɨ d a tsʲ
 выдзеўбці	v ɨ dzʲ ɛ w b tsʲ i
 выдзімаць	v ɨ dzʲ i m a tsʲ
 выдзіраць	v ɨ dzʲ i r a tsʲ
@@ -465,12 +729,17 @@
 вызваліць	v ɨ z v a lʲ i tsʲ
 вызначальнік	v ɨ z n a tʂ a lʲ nʲ i k
 вызубіць	v ɨ z u bʲ i tsʲ
+выказаць	v ɨ k a z a tsʲ
 выказнік	v ɨ k a zʲ nʲ i k
 выкалаціць	v ɨ k a ɫ a tsʲ i tsʲ
 выканальніцтва	v ɨ k a n a lʲ nʲ i ts t v a
 выканаўца	v ɨ k a n a w ts a
 выканаўчасць	v ɨ k a n a w tʂ a sʲ tsʲ
 выканаўчы	v ɨ k a n a w tʂ ɨ
+выканаць	v ɨ k a n a tsʲ
+выкапаць	v ɨ k a p a tsʲ
+выкапень	v ɨ k a pʲ ɛ nʲ
+выкапнёвы	v ɨ k a p nʲ ɔ v ɨ
 выкараніць	v ɨ k a r a nʲ i tsʲ
 выкаўзаць	v ɨ k a w z a tsʲ
 выкід	v ɨ kʲ i d
@@ -478,6 +747,7 @@
 выкідаць	v ɨ kʲ i d a tsʲ
 выкінуць	v ɨ kʲ i n u tsʲ
 выкіраваць	v ɨ kʲ i r a v a tsʲ
+выкладчык	v ɨ k ɫ a tʂː ɨ k
 выкласці	v ɨ k ɫ a sʲ tsʲ i
 выклік	v ɨ k lʲ i k
 выклікаць	v ɨ k lʲ i k a tsʲ
@@ -485,26 +755,36 @@
 выклінаць	v ɨ k lʲ i n a tsʲ
 выклічнік	v ɨ k lʲ i tʂ nʲ i k
 выключальнік	v ɨ k lʲ u tʂ a lʲ nʲ i k
+выключны	v ɨ k lʲ u tʂ n ɨ
+выключэнне	v ɨ k lʲ u tʂ ɛ nʲː ɛ
 выкпіць	v ɨ k pʲ i tsʲ
 выкрадальнік	v ɨ k r a d a lʲ nʲ i k
+выкрадаць	v ɨ k r a d a tsʲ
 выкрасіць	v ɨ k r a sʲ i tsʲ
 выкрасці	v ɨ k r a sʲ tsʲ i
+выкрут	v ɨ k r u t
 выкрутлівы	v ɨ k r u t lʲ i v ɨ
+выкручасты	v ɨ k r u tʂ a s t ɨ
 выкрывальнік	v ɨ k r ɨ v a lʲ nʲ i k
+выкрыць	v ɨ k r ɨ tsʲ
 вылік	v ɨ lʲ i k
 вымавіць	v ɨ m a vʲ i tsʲ
 вымагальнік	v ɨ m a ɣ a lʲ nʲ i k
 вымаўленчы	v ɨ m a w lʲ ɛ n tʂ ɨ
+вымерлы	v ɨ mʲ ɛ r ɫ ɨ
 вымусіць	v ɨ m u sʲ i tsʲ
 вымяральнік	v ɨ mʲ a r a lʲ nʲ i k
 вынайсці	v ɨ n a j sʲ tsʲ i
 вынаходлівы	v ɨ n a x ɔ d lʲ i v ɨ
 вынаходнік	v ɨ n a x ɔ d nʲ i k
+вынаходца	v ɨ n a x ɔ d ts a
 вынік	v ɨ nʲ i k
 вынікнуць	v ɨ nʲ i k n u tsʲ
 вынішчыць	v ɨ nʲ i ʂ tʂ ɨ tsʲ
 выносісты	v ɨ n ɔ sʲ i s t ɨ
 выпагадзіцца	v ɨ p a ɣ a dzʲ i tsː a
+выпадак	v ɨ p a d a k
+выпадковасць	v ɨ p a d k ɔ v a sʲ tsʲ
 выпаліць	v ɨ p a lʲ i tsʲ
 выпаражніць	v ɨ p a r a ʐ nʲ i tsʲ
 выпасвіць	v ɨ p a sʲ vʲ i tsʲ
@@ -513,17 +793,28 @@
 выпілаваць	v ɨ pʲ i ɫ a v a tsʲ
 выпінаць	v ɨ pʲ i n a tsʲ
 выпіхаць	v ɨ pʲ i x a tsʲ
+выпрабаванне	v ɨ p r a b a v a nʲː ɛ
+выправа	v ɨ p r a v a
 выправіць	v ɨ p r a vʲ i tsʲ
 выпраменіць	v ɨ p r a mʲ ɛ nʲ i tsʲ
 выпрасоўка	v ɨ p r a s ɔ w k a
+выпрацаваць	v ɨ p r a ts a v a tsʲ
 выпрацоўка	v ɨ p r a ts ɔ w k a
 выпукліць	v ɨ p u k lʲ i tsʲ
+выпусташыць	v ɨ p u s t a ʂ ɨ tsʲ
+выпхнуць	v ɨ p x n u tsʲ
 выпыліць	v ɨ p ɨ lʲ i tsʲ
+выраб	v ɨ r a b
 вырабіць	v ɨ r a bʲ i tsʲ
+выраз	v ɨ r a z
+выразны	v ɨ r a z n ɨ
 выраніць	v ɨ r a nʲ i tsʲ
 выратавальнік	v ɨ r a t a v a lʲ nʲ i k
+выратаваць	v ɨ r a t a v a tsʲ
+вырашальны	v ɨ r a ʂ a lʲ n ɨ
 выродлівы	v ɨ r ɔ d lʲ i v ɨ
 высакамоўны	v ɨ s a k a m ɔ w n ɨ
+высакародны	v ɨ s a k a r ɔ d n ɨ
 высвенціць	v ɨ sʲ vʲ ɛ n tsʲ i tsʲ
 высветліць	v ɨ sʲ vʲ ɛ t lʲ i tsʲ
 высвідраваць	v ɨ sʲ vʲ i d r a v a tsʲ
@@ -538,6 +829,7 @@
 выслізнуць	v ɨ sʲ lʲ i z n u tsʲ
 выслоўе	v ɨ s ɫ ɔ w j ɛ
 высмаліць	v ɨ s m a lʲ i tsʲ
+выснова	v ɨ s n ɔ v a
 высокакаштоўны	v ɨ s ɔ k a k a ʂ t ɔ w n ɨ
 высокакваліфікаваны	v ɨ s ɔ k a k v a lʲ i fʲ i k a v a n ɨ
 высокапрадуктыўны	v ɨ s ɔ k a p r a d u k t ɨ w n ɨ
@@ -546,15 +838,27 @@
 высокашаноўны	v ɨ s ɔ k a ʂ a n ɔ w n ɨ
 высоўваць	v ɨ s ɔ w v a tsʲ
 высоўны	v ɨ s ɔ w n ɨ
+высочваць	v ɨ s ɔ tʂ v a tsʲ
+выспа	v ɨ s p a
 выспеліць	v ɨ sʲ pʲ ɛ lʲ i tsʲ
+выспець	v ɨ sʲ pʲ ɛ tsʲ
+выстава	v ɨ s t a v a
 выстаўка	v ɨ s t a w k a
 выстаўны	v ɨ s t a w n ɨ
+выступ	v ɨ s t u p
+вытанчаны	v ɨ t a n tʂ a n ɨ
+вытворчасць	v ɨ t v ɔ r tʂ a sʲ tsʲ
 вытруціць	v ɨ t r u tsʲ i tsʲ
+вытрываць	v ɨ t r ɨ v a tsʲ
+вытрымка	v ɨ t r ɨ m k a
 вытупіць	v ɨ t u pʲ i tsʲ
 выфранціць	v ɨ f r a n tsʲ i tsʲ
 выхавальнік	v ɨ x a v a lʲ nʲ i k
+выхаванне	v ɨ x a v a nʲː ɛ
+выхаваць	v ɨ x a v a tsʲ
 выхаладзіць	v ɨ x a ɫ a dzʲ i tsʲ
 выхапіць	v ɨ x a pʲ i tsʲ
+выхваляцца	v ɨ x v a lʲ a tsː a
 выцверазіць	v ɨ tsʲ vʲ ɛ r a zʲ i tsʲ
 выцвілы	v ɨ tsʲ vʲ i ɫ ɨ
 выцепліць	v ɨ tsʲ ɛ p lʲ i tsʲ
@@ -564,13 +868,28 @@
 выцінанкі	v ɨ tsʲ i n a n kʲ i
 выцінаць	v ɨ tsʲ i n a tsʲ
 выціснуць	v ɨ tsʲ i s n u tsʲ
+выцурацца	v ɨ ts u r a tsː a
 вышкі	v ɨ ʂ kʲ i
+вышмараваць	v ɨ ʂ m a r a v a tsʲ
 вышыннік	v ɨ ʂ ɨ nʲː i k
+вышыня	v ɨ ʂ ɨ nʲ a
+вышэйзгаданы	v ɨ ʂ ɛ j z ɣ a d a n ɨ
+вышэйпамянёны	v ɨ ʂ ɛ j p a mʲ a nʲ ɔ n ɨ
 вышэйпералічаны	v ɨ ʂ ɛ j pʲ ɛ r a lʲ i tʂ a n ɨ
+выява	v ɨ j a v a
 выявіць	v ɨ j a vʲ i tsʲ
 выяўленчы	v ɨ j a w lʲ ɛ n tʂ ɨ
+вэксаль	v ɛ k s a lʲ
+вэлюм	v ɛ lʲ u m
 вэнджаніна	v ɛ n d ʐ a nʲ i n a
 вэндзіць	v ɛ n dzʲ i tsʲ
+вядзьмак	vʲ a d zʲ m a k
+вядзьмарства	vʲ a d zʲ m a r s t v a
+вядзьмарыць	vʲ a d zʲ m a r ɨ tsʲ
+вядома	vʲ a d ɔ m a
+вядомасць	vʲ a d ɔ m a sʲ tsʲ
+вядомы	vʲ a d ɔ m ɨ
+вязанка	vʲ a z a n k a
 вялізны	vʲ a lʲ i z n ɨ
 вялікасны	vʲ a lʲ i k a s n ɨ
 вялікасць	vʲ a lʲ i k a sʲ tsʲ
@@ -579,48 +898,97 @@
 вялікі	vʲ a lʲ i kʲ i
 вянгліна	vʲ a n ɣ lʲ i n a
 вяндліна	vʲ a n d lʲ i n a
+вянок	vʲ a n ɔ k
+вяпрук	vʲ a p r u k
+вярба	vʲ a r b a
 вяргіня	vʲ a r ɣʲ i nʲ a
 вярзці	vʲ a r zʲ tsʲ i
+вяршэнства	vʲ a r ʂ ɛ n s t v a
+вяршэнстваваць	vʲ a r ʂ ɛ n s t v a v a tsʲ
 вясельнік	vʲ a sʲ ɛ lʲ nʲ i k
+вясёлка	vʲ a sʲ ɔ ɫ k a
+вясковы	vʲ a s k ɔ v ɨ
+вястун	vʲ a s t u n
 вятроўнік	vʲ a t r ɔ w nʲ i k
 вячоркі	vʲ a tʂ ɔ r kʲ i
 вяшчальнік	vʲ a ʂ tʂ a lʲ nʲ i k
 габлёўка	ɣ a b lʲ ɔ w k a
+габлюшка	ɣ a b lʲ u ʂ k a
+габляваць	ɣ a b lʲ a v a tsʲ
 гаваркі	ɣ a v a r kʲ i
+гаворка	ɣ a v ɔ r k a
 гадавальнік	ɣ a d a v a lʲ nʲ i k
+гадаваць	ɣ a d a v a tsʲ
 гадавіна	ɣ a d a vʲ i n a
 гадзіна	ɣ a dzʲ i n a
 гадзіннік	ɣ a dzʲ i nʲː i k
 гадзіншчык	ɣ a dzʲ i n ʂ tʂ ɨ k
 гадзіць	ɣ a dzʲ i tsʲ
 гадоўля	ɣ a d ɔ w lʲ a
+газа	ɣ a z a
+газападобны	ɣ a z a p a d ɔ b n ɨ
 газасховішча	ɣ a z a s x ɔ vʲ i ʂ tʂ a
 газіфікаваць	ɣ a zʲ i fʲ i k a v a tsʲ
 газоўка	ɣ a z ɔ w k a
 гаіць	ɣ a j i tsʲ
+гай	ɣ a j
+гайдаць	ɣ a j d a tsʲ
 гайнік	ɣ a j nʲ i k
+гак	ɣ a k
 галасіць	ɣ a ɫ a sʲ i tsʲ
+галець	ɣ a lʲ ɛ tsʲ
+галеча	ɣ a lʲ ɛ tʂ a
+галёнка	ɣ a lʲ ɔ n k a
 галіна	ɣ a lʲ i n a
 галінасты	ɣ a lʲ i n a s t ɨ
 галіцца	ɣ a lʲ i tsː a
 галіць	ɣ a lʲ i tsʲ
 галоўны	ɣ a ɫ ɔ w n ɨ
 галушкі	ɣ a ɫ u ʂ kʲ i
+гальштук	ɣ a lʲ ʂ t u k
 гаманіць	ɣ a m a nʲ i tsʲ
+ганак	ɣ a n a k
 ганарлівец	ɣ a n a r lʲ i vʲ ɛ ts
 ганарлівы	ɣ a n a r lʲ i v ɨ
+ганарысты	ɣ a n a r ɨ s t ɨ
+ганарыцца	ɣ a n a r ɨ tsː a
+ганебны	ɣ a nʲ ɛ b n ɨ
+ганчак	ɣ a n tʂ a k
+ганьба	ɣ a nʲ b a
+ганьбаваць	ɣ a nʲ b a v a tsʲ
 ганьбіць	ɣ a nʲ bʲ i tsʲ
+гараваць	ɣ a r a v a tsʲ
+гарачка	ɣ a r a tʂ k a
 гарачкапаніжальны	ɣ a r a tʂ k a p a nʲ i ʐ a lʲ n ɨ
 гарачлівасць	ɣ a r a tʂ lʲ i v a sʲ tsʲ
 гарачлівы	ɣ a r a tʂ lʲ i v ɨ
+гарачыня	ɣ a r a tʂ ɨ nʲ a
+гарбата	ɣ a r b a t a
+гарбуз	ɣ a r b u z
 гарбузнік	ɣ a r b u zʲ nʲ i k
+гарлач	ɣ a r ɫ a tʂ
+гармата	ɣ a r m a t a
+гаротны	ɣ a r ɔ t n ɨ
+гарсаж	ɣ a r s a ʐ
+гарсэт	ɣ a r s ɛ t
+гартаваць	ɣ a r t a v a tsʲ
+гартаць	ɣ a r t a tsʲ
 гартоўны	ɣ a r t ɔ w n ɨ
+гаршчок	ɣ a r ʂ tʂ ɔ k
+гарышча	ɣ a r ɨ ʂ tʂ a
+гарэзаваць	ɣ a r ɛ z a v a tsʲ
 гарэзлівы	ɣ a r ɛ zʲ lʲ i v ɨ
 гарэзнічаць	ɣ a r ɛ zʲ nʲ i tʂ a tsʲ
+гарэлка	ɣ a r ɛ ɫ k a
+гаспадар	ɣ a s p a d a r
 гаспадарлівы	ɣ a s p a d a r lʲ i v ɨ
 гасцінец	ɣ a sʲ tsʲ i nʲ ɛ ts
 гасцінны	ɣ a sʲ tsʲ i nː ɨ
+гатаваць	ɣ a t a v a tsʲ
 гатоўка	ɣ a t ɔ w k a
+гатунак	ɣ a t u n a k
+гаючы	ɣ a j u tʂ ɨ
+гвалтаваць	ɣ v a ɫ t a v a tsʲ
 гвалтаўнік	ɣ v a ɫ t a w nʲ i k
 гвалтоўны	ɣ v a ɫ t ɔ w n ɨ
 гвалціць	ɣ v a ɫ tsʲ i tsʲ
@@ -634,47 +1002,97 @@
 гіпергук	ɣʲ i pʲ ɛ r ɣ u k
 гісторыя	ɣʲ i s t ɔ r ɨ j a
 гладзіць	ɣ ɫ a dzʲ i tsʲ
+глеба	ɣ lʲ ɛ b a
 глебазнаўца	ɣ lʲ ɛ b a z n a w ts a
 глебаўтварэнне	ɣ lʲ ɛ b a w t v a r ɛ nʲː ɛ
+глей	ɣ lʲ ɛ j
 глінішча	ɣ lʲ i nʲ i ʂ tʂ a
 гліцэрына	ɣ lʲ i ts ɛ r ɨ n a
 глуміць	ɣ ɫ u mʲ i tsʲ
+глупства	ɣ ɫ u p s t v a
 глыбіня	ɣ ɫ ɨ bʲ i nʲ a
+глядач	ɣ lʲ a d a tʂ
+глядзець	ɣ lʲ a dzʲ ɛ tsʲ
 гнаявік	ɣ n a j a vʲ i k
 гнездзішча	ɣ nʲ ɛ z dzʲ i ʂ tʂ a
 гніляк	ɣ nʲ i lʲ a k
 гнуткі	ɣ n u t kʲ i
 гняўлівы	ɣ nʲ a w lʲ i v ɨ
+годнасць	ɣ ɔ d n a sʲ tsʲ
+годны	ɣ ɔ d n ɨ
+гожы	ɣ ɔ ʐ ɨ
+голасны	ɣ ɔ ɫ a s n ɨ
+гоман	ɣ ɔ m a n
+гонар	ɣ ɔ n a r
+гонта	ɣ ɔ n t a
+горан	ɣ ɔ r a n
 грабежнік	ɣ r a bʲ ɛ ʐ nʲ i k
 грабільна	ɣ r a bʲ i lʲ n a
+грак	ɣ r a k
+грамада	ɣ r a m a d a
 грамадазнаўства	ɣ r a m a d a z n a w s t v a
 грамадзянін	ɣ r a m a dzʲ a nʲ i n
+грамадзянства	ɣ r a m a dzʲ a n s t v a
+грамадскасць	ɣ r a m a d s k a sʲ tsʲ
+грамадства	ɣ r a m a d s t v a
 грамніцы	ɣ r a m nʲ i ts ɨ
 гранічны	ɣ r a nʲ i tʂ n ɨ
 грачанік	ɣ r a tʂ a nʲ i k
 грачанішча	ɣ r a tʂ a nʲ i ʂ tʂ a
+грашовы	ɣ r a ʂ ɔ v ɨ
 грашоўны	ɣ r a ʂ ɔ w n ɨ
+гронка	ɣ r ɔ n k a
+грош	ɣ r ɔ ʂ
+грошы	ɣ r ɔ ʂ ɨ
 грубіянства	ɣ r u bʲ i j a n s t v a
+грубы	ɣ r u b ɨ
 грувасткі	ɣ r u v a s t kʲ i
 грувасціць	ɣ r u v a sʲ tsʲ i tsʲ
 грузаёмістасць	ɣ r u z a j ɔ mʲ i s t a sʲ tsʲ
 грузкі	ɣ r u z kʲ i
 грукатлівы	ɣ r u k a t lʲ i v ɨ
+грукаць	ɣ r u k a tsʲ
 грунтоўны	ɣ r u n t ɔ w n ɨ
 грымзоліць	ɣ r ɨ m z ɔ lʲ i tsʲ
 грымотнік	ɣ r ɨ m ɔ t nʲ i k
+грэбаваць	ɣ r ɛ b a v a tsʲ
 грэблівы	ɣ r ɛ b lʲ i v ɨ
+грэбля	ɣ r ɛ b lʲ a
 грэбці	ɣ r ɛ b tsʲ i
+грэнка	ɣ r ɛ n k a
+грэчка	ɣ r ɛ tʂ k a
+губляць	ɣ u b lʲ a tsʲ
 гузік	ɣ u zʲ i k
+гук	ɣ u k
 гуказапіс	ɣ u k a z a pʲ i s
 гуллівы	ɣ u lʲ lʲ ʲ i v ɨ
+гульня	ɣ u lʲ nʲ a
+гультай	ɣ u lʲ t a j
+гультаяваты	ɣ u lʲ t a j a v a t ɨ
+гуляць	ɣ u lʲ a tsʲ
+гумар	ɣ u m a r
+гумор	ɣ u m ɔ r
+гурт	ɣ u r t
+гуртаваць	ɣ u r t a v a tsʲ
+гурток	ɣ u r t ɔ k
 густоўны	ɣ u s t ɔ w n ɨ
 гусці	ɣ u sʲ tsʲ i
+гутарка	ɣ u t a r k a
 гутарлівы	ɣ u t a r lʲ i v ɨ
+гутарыць	ɣ u t a r ɨ tsʲ
 гутнік	ɣ u t nʲ i k
+гучаць	ɣ u tʂ a tsʲ
+гучны	ɣ u tʂ n ɨ
+гушкаць	ɣ u ʂ k a tsʲ
+гушчар	ɣ u ʂ tʂ a r
 гэтакі	ɣ ɛ t a kʲ i
+гэты	ɣ ɛ t ɨ
+дабрадзейнасць	d a b r a dzʲ ɛ j n a sʲ tsʲ
 дабратлівы	d a b r a t lʲ i v ɨ
+дабрачынец	d a b r a tʂ ɨ nʲ ɛ ts
 дабудоўка	d a b u d ɔ w k a
+даведацца	d a vʲ ɛ d a tsː a
+даведка	d a vʲ ɛ d k a
 даведнік	d a vʲ ɛ d nʲ i k
 даверлівы	d a vʲ ɛ r lʲ i v ɨ
 давернік	d a vʲ ɛ r nʲ i k
@@ -687,20 +1105,31 @@
 дагарадзіць	d a ɣ a r a dzʲ i tsʲ
 дагартоўка	d a ɣ a r t ɔ w k a
 дагладзіць	d a ɣ ɫ a dzʲ i tsʲ
+даглядчык	d a ɣ lʲ a tʂː ɨ k
 дагодлівы	d a ɣ ɔ d lʲ i v ɨ
 дагрэбці	d a ɣ r ɛ b tsʲ i
+дадатак	d a d a t a k
+дадатковы	d a d a t k ɔ v ɨ
+дадатны	d a d a t n ɨ
 дадзяўбці	d a dzʲ a w b tsʲ i
 дадрукоўка	d a d r u k ɔ w k a
 дажджоўнік	d a ʐ d ʐ ɔ w nʲ i k
+дазвол	d a z v ɔ ɫ
 дазволіць	d a z v ɔ lʲ i tsʲ
+дакараць	d a k a r a tsʲ
+дакладны	d a k ɫ a d n ɨ
 дакопкі	d a k ɔ p kʲ i
+дакор	d a k ɔ r
 дакорлівы	d a k ɔ r lʲ i v ɨ
 дакоскі	d a k ɔ s kʲ i
+дакучаць	d a k u tʂ a tsʲ
 дакучлівы	d a k u tʂ lʲ i v ɨ
 даладзіць	d a ɫ a dzʲ i tsʲ
+далей	d a lʲ ɛ j
 далікатны	d a lʲ i k a t n ɨ
 далікацтва	d a lʲ i k a ts t v a
 далічыць	d a lʲ i tʂ ɨ tsʲ
+далонь	d a ɫ ɔ nʲ
 далоў	d a ɫ ɔ w
 далупіць	d a ɫ u pʲ i tsʲ
 дамавіна	d a m a vʲ i n a
@@ -710,7 +1139,9 @@
 дамоў	d a m ɔ w
 даніна	d a nʲ i n a
 дапаліць	d a p a lʲ i tsʲ
+дапамога	d a p a m ɔ ɣ a
 дапаможнік	d a p a m ɔ ʐ nʲ i k
+дапаможны	d a p a m ɔ ʐ n ɨ
 дапасвіць	d a p a sʲ vʲ i tsʲ
 дапасці	d a p a sʲ tsʲ i
 дапільнаваць	d a pʲ i lʲ n a v a tsʲ
@@ -718,19 +1149,33 @@
 дапытлівасць	d a p ɨ t lʲ i v a sʲ tsʲ
 дапытлівы	d a p ɨ t lʲ i v ɨ
 дарабіць	d a r a bʲ i tsʲ
+дараваць	d a r a v a tsʲ
 дарадзіць	d a r a dzʲ i tsʲ
+дарма	d a r m a
+дармавы	d a r m a v ɨ
+дарослы	d a r ɔ s ɫ ɨ
 дароўны	d a r ɔ w n ɨ
 дарубіць	d a r u bʲ i tsʲ
+даручэнне	d a r u tʂ ɛ nʲː ɛ
+дарэмны	d a r ɛ m n ɨ
+дарэчы	d a r ɛ tʂ ɨ
+дасведчаны	d a sʲ vʲ ɛ tʂː a n ɨ
 дасвідраваць	d a sʲ vʲ i d r a v a tsʲ
 дасеўкі	d a sʲ ɛ w kʲ i
+дасканалы	d a s k a n a ɫ ɨ
 даскрэбці	d a s k r ɛ b tsʲ i
 даскубці	d a s k u b tsʲ i
 даследнік	d a sʲ lʲ ɛ d nʲ i k
 дасніць	d a sʲ nʲ i tsʲ
 даспяліць	d a sʲ pʲ a lʲ i tsʲ
+дастатковы	d a s t a t k ɔ v ɨ
 даступіць	d a s t u pʲ i tsʲ
 дасціпны	d a sʲ tsʲ i p n ɨ
+датаваць	d a t a v a tsʲ
 датаўчы	d a t a w tʂ ɨ
+датыкальны	d a t ɨ k a lʲ n ɨ
+датычны	d a t ɨ tʂ n ɨ
+датычыцца	d a t ɨ tʂ ɨ tsː a
 датэрміновы	d a t ɛ r mʲ i n ɔ v ɨ
 даўбешка	d a w bʲ ɛ ʂ k a
 даўгаваты	d a w ɣ a v a t ɨ
@@ -747,9 +1192,13 @@
 даўнейшы	d a w nʲ ɛ j ʂ ɨ
 даўніна	d a w nʲ i n a
 дафарбоўка	d a f a r b ɔ w k a
+дах	d a x
 даходлівы	d a x ɔ d lʲ i v ɨ
 дацерці	d a tsʲ ɛ r tsʲ i
 даціснуць	d a tsʲ i s n u tsʲ
+дачасны	d a tʂ a s n ɨ
+дбайны	d b a j n ɨ
+дбаць	d b a tsʲ
 дваісты	d v a j i s t ɨ
 двоеўладдзе	d v ɔ j ɛ w ɫ a dzʲː ɛ
 двурожнік	d v u r ɔ ʐ nʲ i k
@@ -760,14 +1209,22 @@
 двухмоўнасць	d v u x m ɔ w n a sʲ tsʲ
 двухрадкоўе	d v u x r a d k ɔ w j ɛ
 двухсхільны	d v u x s xʲ i lʲ n ɨ
+джала	d ʐ a ɫ a
 джаліць	d ʐ a lʲ i tsʲ
+дзе	dzʲ ɛ
 дзевяціразовы	dzʲ ɛ vʲ a tsʲ i r a z ɔ v ɨ
 дзедзіч	dzʲ ɛ dzʲ i tʂ
 дзеепрыметнік	dzʲ ɛ j ɛ p r ɨ mʲ ɛ t nʲ i k
 дзеепрыслоўе	dzʲ ɛ j ɛ p r ɨ s ɫ ɔ w j ɛ
+дзежка	dzʲ ɛ ʐ k a
+дзейнасць	dzʲ ɛ j n a sʲ tsʲ
 дзейнік	dzʲ ɛ j nʲ i k
 дзейнічаць	dzʲ ɛ j nʲ i tʂ a tsʲ
+дзейсны	dzʲ ɛ j s n ɨ
+дзель	dzʲ ɛ lʲ
 дзельнік	dzʲ ɛ lʲ nʲ i k
+дзеля	dzʲ ɛ lʲ a
+дзе-небудзь	dzʲ ɛ - nʲ ɛ b u d zʲ
 дзе-нідзе	dzʲ ɛ - nʲ i dzʲ ɛ
 дзерці	dzʲ ɛ r tsʲ i
 дзесьці	dzʲ ɛ sʲ tsʲ i
@@ -775,6 +1232,8 @@
 дзесяцігоддзе	dzʲ ɛ sʲ a tsʲ i ɣ ɔ dzʲː ɛ
 дзесяцігодка	dzʲ ɛ sʲ a tsʲ i ɣ ɔ d k a
 дзесяціразовы	dzʲ ɛ sʲ a tsʲ i r a z ɔ v ɨ
+дзеючы	dzʲ ɛ j u tʂ ɨ
+дзеянне	dzʲ ɛ j a nʲː ɛ
 дзеяслоў	dzʲ ɛ j a s ɫ ɔ w
 дзённік	dzʲ ɔ nʲː i k
 дзівак	dzʲ i v a k
@@ -795,10 +1254,20 @@
 дзіўны	dzʲ i w n ɨ
 дзічка	dzʲ i tʂ k a
 дзічына	dzʲ i tʂ ɨ n a
+дзьмухавец	d zʲ m u x a vʲ ɛ ts
+дзьмуць	d zʲ m u tsʲ
+дзюба	dzʲ u b a
 дзявоцкі	dzʲ a v ɔ ts kʲ i
+дзяга	dzʲ a ɣ a
 дзядзінец	dzʲ a dzʲ i nʲ ɛ ts
+дзядзька	dzʲ a d zʲ k a
 дзядоўнік	dzʲ a d ɔ w nʲ i k
+дзяжа	dzʲ a ʐ a
+дзякуй	dzʲ a k u j
+дзяржава	dzʲ a r ʐ a v a
+дзяржальна	dzʲ a r ʐ a lʲ n a
 дзяржаўнасць	dzʲ a r ʐ a w n a sʲ tsʲ
+дзяркаты	dzʲ a r k a t ɨ
 дзяўбок	dzʲ a w b ɔ k
 дзяўбці	dzʲ a w b tsʲ i
 дзяўчына	dzʲ a w tʂ ɨ n a
@@ -806,9 +1275,13 @@
 дзяцінства	dzʲ a tsʲ i n s t v a
 добраахвотнік	d ɔ b r a a x v ɔ t nʲ i k
 добразычлівы	d ɔ b r a z ɨ tʂ lʲ i v ɨ
+добрасумленны	d ɔ b r a s u m lʲ ɛ nː ɨ
 добраўпарадкаваны	d ɔ b r a w p a r a d k a v a n ɨ
+добры	d ɔ b r ɨ
 дойлід	d ɔ j lʲ i d
 дойлідства	d ɔ j lʲ i d s t v a
+доказ	d ɔ k a z
+дол	d ɔ ɫ
 дольнік	d ɔ lʲ nʲ i k
 домабудаўнік	d ɔ m a b u d a w nʲ i k
 домакіраўнік	d ɔ m a kʲ i r a w nʲ i k
@@ -818,6 +1291,7 @@
 допіс	d ɔ pʲ i s
 досвітак	d ɔ sʲ vʲ i t a k
 досціп	d ɔ sʲ tsʲ i p
+досыць	d ɔ s ɨ tsʲ
 доўгачаканы	d ɔ w ɣ a tʂ a k a n ɨ
 доўгачаранковы	d ɔ w ɣ a tʂ a r a n k ɔ v ɨ
 доўгі	d ɔ w ɣʲ i
@@ -825,6 +1299,7 @@
 драбнатраўе	d r a b n a t r a w j ɛ
 драбніца	d r a b nʲ i ts a
 драбніць	d r a b nʲ i tsʲ
+драбяза	d r a bʲ a z a
 дравяністы	d r a vʲ a nʲ i s t ɨ
 дранік	d r a nʲ i k
 драпежнік	d r a pʲ ɛ ʐ nʲ i k
@@ -833,25 +1308,49 @@
 драўняны	d r a w nʲ a n ɨ
 дробназярністы	d r ɔ b n a zʲ a r nʲ i s t ɨ
 дробнакаліберны	d r ɔ b n a k a lʲ i bʲ ɛ r n ɨ
+дробны	d r ɔ b n ɨ
+дробязны	d r ɔ bʲ a z n ɨ
+дробязь	d r ɔ bʲ a zʲ
 дрогкі	d r ɔ ɣ kʲ i
+дрот	d r ɔ t
 другагоднік	d r u ɣ a ɣ ɔ d nʲ i k
+другасны	d r u ɣ a s n ɨ
 другі	d r u ɣʲ i
+друз	d r u z
+друк	d r u k
+друкаваць	d r u k a v a tsʲ
+друкарня	d r u k a r nʲ a
+друкарства	d r u k a r s t v a
 дрывотнік	d r ɨ v ɔ t nʲ i k
 дрыгатлівы	d r ɨ ɣ a t lʲ i v ɨ
 дрыготкі	d r ɨ ɣ ɔ t kʲ i
 дрыжнік	d r ɨ ʐ nʲ i k
 дрыжыкі	d r ɨ ʐ ɨ kʲ i
+дрэва	d r ɛ v a
 дрэваапрацоўка	d r ɛ v a a p r a ts ɔ w k a
+дрэнны	d r ɛ nː ɨ
 дрэўны	d r ɛ w n ɨ
 дубальтоўка	d u b a lʲ t ɔ w k a
+дубец	d u bʲ ɛ ts
+дужы	d u ʐ ɨ
+думка	d u m k a
+дурань	d u r a nʲ
 дураслівы	d u r a sʲ lʲ i v ɨ
 дурніцы	d u r nʲ i ts ɨ
+дурны	d u r n ɨ
+душыць	d u ʂ ɨ tsʲ
 дыбачкі	d ɨ b a tʂ kʲ i
+дыван	d ɨ v a n
 дылёўка	d ɨ lʲ ɔ w k a
+дым	d ɨ m
+дысплей	d ɨ s p lʲ ɛ j
 дыхавіца	d ɨ x a vʲ i ts a
+дыхаць	d ɨ x a tsʲ
 дыхтоўны	d ɨ x t ɔ w n ɨ
+ежа	j ɛ ʐ a
 есці	j ɛ sʲ tsʲ i
 ёг	j ɔ ɣ
+ёд	j ɔ d
 ёдкі	j ɔ d kʲ i
 ёкат	j ɔ k a t
 ёлкі	j ɔ ɫ kʲ i
@@ -863,10 +1362,22 @@
 ёта	j ɔ t a
 ёўня	j ɔ w nʲ a
 жабнік	ʐ a b nʲ i k
+жабрак	ʐ a b r a k
+жаданне	ʐ a d a nʲː ɛ
+жадаць	ʐ a d a tsʲ
+жазло	ʐ a z ɫ ɔ
 жаласлівы	ʐ a ɫ a sʲ lʲ i v ɨ
+жаласны	ʐ a ɫ a s n ɨ
 жаліцца	ʐ a lʲ i tsː a
+жалоба	ʐ a ɫ ɔ b a
 жалобніца	ʐ a ɫ ɔ b nʲ i ts a
+жаль	ʐ a lʲ
+жалязяка	ʐ a lʲ a zʲ a k a
+жаночы	ʐ a n ɔ tʂ ɨ
+жанчына	ʐ a n tʂ ɨ n a
+жарало	ʐ a r a ɫ ɔ
 жардзянік	ʐ a r dzʲ a nʲ i k
+жартаваць	ʐ a r t a v a tsʲ
 жартаўлівы	ʐ a r t a w lʲ i v ɨ
 жаўлак	ʐ a w ɫ a k
 жаўна	ʐ a w n a
@@ -879,24 +1390,40 @@
 жаўтлявы	ʐ a w t lʲ a v ɨ
 жаўцяк	ʐ a w tsʲ a k
 жаўцянка	ʐ a w tsʲ a n k a
+жах	ʐ a x
+жахаць	ʐ a x a tsʲ
 жахлівы	ʐ a x lʲ i v ɨ
+жвавы	ʐ v a v ɨ
 жвір	ʐ vʲ i r
 жлукціць	ʐ ɫ u k tsʲ i tsʲ
+жменя	ʐ mʲ ɛ nʲ a
+жмут	ʐ m u t
 жнівень	ʐ nʲ i vʲ ɛ nʲ
 жніво	ʐ nʲ i v ɔ
+жолуд	ʐ ɔ ɫ u d
+жонка	ʐ ɔ n k a
 жорсткі	ʐ ɔ r s t kʲ i
 жоўцевы	ʐ ɔ w tsʲ ɛ v ɨ
 жоўць	ʐ ɔ w tsʲ
+жудасць	ʐ u d a sʲ tsʲ
 журавіны	ʐ u r a vʲ i n ɨ
+журба	ʐ u r b a
+журботны	ʐ u r b ɔ t n ɨ
 журлівы	ʐ u r lʲ i v ɨ
+журыцца	ʐ u r ɨ tsː a
 жывапіс	ʐ ɨ v a pʲ i s
 жывасілам	ʐ ɨ v a sʲ i ɫ a m
+жывёла	ʐ ɨ vʲ ɔ ɫ a
+жывёлавод	ʐ ɨ vʲ ɔ ɫ a v ɔ d
 жывёлагадоўля	ʐ ɨ vʲ ɔ ɫ a ɣ a d ɔ w lʲ a
 жывёліна	ʐ ɨ vʲ ɔ lʲ i n a
 жывіцца	ʐ ɨ vʲ i tsː a
+жыта	ʐ ɨ t a
 жытнішча	ʐ ɨ t nʲ i ʂ tʂ a
 жыўцом	ʐ ɨ w ts ɔ m
+жыхар	ʐ ɨ x a r
 жыціца	ʐ ɨ tsʲ i ts a
+жыццё	ʐ ɨ tsʲː ɔ
 жыццяпіс	ʐ ɨ tsʲː a pʲ i s
 жэўжык	ʐ ɛ w ʐ ɨ k
 заахвоціць	z a a x v ɔ tsʲ i tsʲ
@@ -914,6 +1441,7 @@
 забліскаць	z a b lʲ i s k a tsʲ
 заблішчаць	z a b lʲ i ʂ tʂ a tsʲ
 заблудзіць	z a b ɫ u dzʲ i tsʲ
+заблытаць	z a b ɫ ɨ t a tsʲ
 забоўтаць	z a b ɔ w t a tsʲ
 забрудзіць	z a b r u dzʲ i tsʲ
 забрудніць	z a b r u d nʲ i tsʲ
@@ -922,9 +1450,13 @@
 забудоўшчык	z a b u d ɔ w ʂ tʂ ɨ k
 завабіць	z a v a bʲ i tsʲ
 завадзіць	z a v a dzʲ i tsʲ
+заваёва	z a v a j ɔ v a
 заваёўнік	z a v a j ɔ w nʲ i k
+завала	z a v a ɫ a
 завалтузіцца	z a v a ɫ t u zʲ i tsː a
 завельмі	z a vʲ ɛ lʲ mʲ i
+завеса	z a vʲ ɛ s a
+завея	z a vʲ ɛ j a
 завідна	z a vʲ i d n a
 завіліна	z a vʲ i lʲ i n a
 завільгатнець	z a vʲ i lʲ ɣ a t nʲ ɛ tsʲ
@@ -935,14 +1467,26 @@
 завітаць	z a vʲ i t a tsʲ
 завіхацца	z a vʲ i x a tsː a
 завішчаць	z a vʲ i ʂ tʂ a tsʲ
+завод	z a v ɔ d
 завознік	z a v ɔ zʲ nʲ i k
 завузіць	z a v u zʲ i tsʲ
 завушніца	z a v u ʂ nʲ i ts a
 завэндзіць	z a v ɛ n dzʲ i tsʲ
+загад	z a ɣ a d
+загадаць	z a ɣ a d a tsʲ
+загадзя	z a ɣ a dzʲ a
+загадкавы	z a ɣ a d k a v ɨ
+загадчык	z a ɣ a tʂː ɨ k
 загаіць	z a ɣ a j i tsʲ
 загаманіць	z a ɣ a m a nʲ i tsʲ
+загана	z a ɣ a n a
+загарадзь	z a ɣ a r a d zʲ
+загарнуць	z a ɣ a r n u tsʲ
+загарода	z a ɣ a r ɔ d a
+загартаваць	z a ɣ a r t a v a tsʲ
 загартоўка	z a ɣ a r t ɔ w k a
 загаўкаць	z a ɣ a w k a tsʲ
+загваздка	z a ɣ v a z d k a
 загінуць	z a ɣʲ i n u tsʲ
 заглеіцца	z a ɣ lʲ ɛ j i tsː a
 заглыбіць	z a ɣ ɫ ɨ bʲ i tsʲ
@@ -953,24 +1497,37 @@
 загугнявіць	z a ɣ u ɣ nʲ a vʲ i tsʲ
 загусці	z a ɣ u sʲ tsʲ i
 загушчальнік	z a ɣ u ʂ tʂ a lʲ nʲ i k
+задавальненне	z a d a v a lʲ nʲ ɛ nʲː ɛ
 задаволіць	z a d a v ɔ lʲ i tsʲ
 задаўніць	z a d a w nʲ i tsʲ
 задзірлівы	z a dzʲ i r lʲ i v ɨ
 задзірына	z a dzʲ i r ɨ n a
+задзьмуць	z a d zʲ m u tsʲ
 задзяўбці	z a dzʲ a w b tsʲ i
 задоўгі	z a d ɔ w ɣʲ i
+задужа	z a d u ʐ a
+задыхацца	z a d ɨ x a tsː a
+задышка	z a d ɨ ʂ k a
 задышлівы	z a d ɨ ʂ lʲ i v ɨ
 зазірнуць	z a zʲ i r n u tsʲ
 зазіхацець	z a zʲ i x a tsʲ ɛ tsʲ
+зазнаць	z a z n a tsʲ
 заінець	z a j i nʲ ɛ tsʲ
+зайздрасць	z a j z d r a sʲ tsʲ
 зайздрослівы	z a j z d r ɔ sʲ lʲ i v ɨ
+зайздросны	z a j z d r ɔ s n ɨ
+займальны	z a j m a lʲ n ɨ
 займеннік	z a j mʲ ɛ nʲː i k
+займець	z a j mʲ ɛ tsʲ
+заказаць	z a k a z a tsʲ
 закаламуціць	z a k a ɫ a m u tsʲ i tsʲ
 закалаціцца	z a k a ɫ a tsʲ i tsː a
 закалаціць	z a k a ɫ a tsʲ i tsʲ
 заканадаўства	z a k a n a d a w s t v a
 заканадаўца	z a k a n a d a w ts a
+закаркаваць	z a k a r k a v a tsʲ
 закароткі	z a k a r ɔ t kʲ i
+закахацца	z a k a x a tsː a
 заквітнець	z a k vʲ i t nʲ ɛ tsʲ
 закід	z a kʲ i d
 закідаць	z a kʲ i d a tsʲ
@@ -983,6 +1540,7 @@
 заклік	z a k lʲ i k
 заклікаць	z a k lʲ i k a tsʲ
 закоскі	z a k ɔ s kʲ i
+закот	z a k ɔ t
 закоўзаць	z a k ɔ w z a tsʲ
 закруціць	z a k r u tsʲ i tsʲ
 закрыўдаваць	z a k r ɨ w d a v a tsʲ
@@ -994,6 +1552,9 @@
 заладзіць	z a ɫ a dzʲ i tsʲ
 залатоўка	z a ɫ a t ɔ w k a
 залвіца	z a ɫ vʲ i ts a
+залежаць	z a lʲ ɛ ʐ a tsʲ
+залежнасць	z a lʲ ɛ ʐ n a sʲ tsʲ
+залежны	z a lʲ ɛ ʐ n ɨ
 залёгкі	z a lʲ ɔ ɣ kʲ i
 залётнік	z a lʲ ɔ t nʲ i k
 залік	z a lʲ i k
@@ -1001,8 +1562,10 @@
 заліхвацкі	z a lʲ i x v a ts kʲ i
 залічыць	z a lʲ i tʂ ɨ tsʲ
 залішне	z a lʲ i ʂ nʲ ɛ
+залоза	z a ɫ ɔ z a
 залозніца	z a ɫ ɔ zʲ nʲ i ts a
 залысіць	z a ɫ ɨ sʲ i tsʲ
+заляцацца	z a lʲ a ts a tsː a
 замагільны	z a m a ɣʲ i lʲ n ɨ
 замалёўка	z a m a lʲ ɔ w k a
 замаркоціцца	z a m a r k ɔ tsʲ i tsː a
@@ -1010,8 +1573,10 @@
 замарудзіць	z a m a r u dzʲ i tsʲ
 замаўляць	z a m a w lʲ a tsʲ
 замгліць	z a m ɣ lʲ i tsʲ
+замежны	z a mʲ ɛ ʐ n ɨ
 заменнік	z a mʲ ɛ nʲː i k
 замерці	z a mʲ ɛ r tsʲ i
+замест	z a mʲ ɛ s t
 замігацець	z a mʲ i ɣ a tsʲ ɛ tsʲ
 замігцець	z a mʲ i ɣ tsʲ ɛ tsʲ
 замілавальны	z a mʲ i ɫ a v a lʲ n ɨ
@@ -1026,7 +1591,9 @@
 замыліць	z a m ɨ lʲ i tsʲ
 замянціць	z a mʲ a n tsʲ i tsʲ
 занадзіць	z a n a dzʲ i tsʲ
+занадта	z a n a d t a
 занаравіцца	z a n a r a vʲ i tsː a
+занатаваць	z a n a t a v a tsʲ
 занатоўка	z a n a t ɔ w k a
 занепакоіцца	z a nʲ ɛ p a k ɔ j i tsː a
 занепакоіць	z a nʲ ɛ p a k ɔ j i tsʲ
@@ -1034,17 +1601,24 @@
 занудзіцца	z a n u dzʲ i tsː a
 занудзіць	z a n u dzʲ i tsʲ
 заняволіць	z a nʲ a v ɔ lʲ i tsʲ
+занядбаць	z a nʲ a d b a tsʲ
+заняпад	z a nʲ a p a d
 заняпасці	z a nʲ a p a sʲ tsʲ i
 заняткі	z a nʲ a t kʲ i
+запавет	z a p a vʲ ɛ t
 запаволіць	z a p a v ɔ lʲ i tsʲ
 запаганіць	z a p a ɣ a nʲ i tsʲ
 западзіна	z a p a dzʲ i n a
 запазніцца	z a p a zʲ nʲ i tsː a
 запакоўка	z a p a k ɔ w k a
 запаланіць	z a p a ɫ a nʲ i tsʲ
+запаленне	z a p a lʲ ɛ nʲː ɛ
 запаліць	z a p a lʲ i tsʲ
+запалка	z a p a ɫ k a
+запалохаць	z a p a ɫ ɔ x a tsʲ
 запальніца	z a p a lʲ nʲ i ts a
 запальнічка	z a p a lʲ nʲ i tʂ k a
+запампаваць	z a p a m p a v a tsʲ
 запасвіць	z a p a sʲ vʲ i tsʲ
 запасіць	z a p a sʲ i tsʲ
 запатрабаванні	z a p a t r a b a v a nʲː i
@@ -1055,23 +1629,29 @@
 запляміць	z a p lʲ a mʲ i tsʲ
 заправадзіць	z a p r a v a dzʲ i tsʲ
 запрамяніцца	z a p r a mʲ a nʲ i tsː a
+запрапанаваць	z a p r a p a n a v a tsʲ
 запрасіць	z a p r a sʲ i tsʲ
 запрасці	z a p r a sʲ tsʲ i
 запрацівіцца	z a p r a tsʲ i vʲ i tsː a
 запрыгоніць	z a p r ɨ ɣ ɔ nʲ i tsʲ
 запыніць	z a p ɨ nʲ i tsʲ
+запытаць	z a p ɨ t a tsʲ
 запытлівы	z a p ɨ t lʲ i v ɨ
 запэўніць	z a p ɛ w nʲ i tsʲ
 запярэсціцца	z a pʲ a r ɛ sʲ tsʲ i tsː a
+запярэчыць	z a pʲ a r ɛ tʂ ɨ tsʲ
 зарабіць	z a r a bʲ i tsʲ
+зараз	z a r a z
 заразлівы	z a r a zʲ lʲ i v ɨ
 зараснік	z a r a sʲ nʲ i k
 зарніца	z a r nʲ i ts a
+зародак	z a r ɔ d a k
 зарубіць	z a r u bʲ i tsʲ
 засаладзіць	z a s a ɫ a dzʲ i tsʲ
 засароміць	z a s a r ɔ mʲ i tsʲ
 засаўка	z a s a w k a
 засваволіць	z a s v a v ɔ lʲ i tsʲ
+засведчыць	z a sʲ vʲ ɛ tʂː ɨ tsʲ
 засвідраваць	z a sʲ vʲ i d r a v a tsʲ
 засвоіць	z a s v ɔ j i tsʲ
 засеўкі	z a sʲ ɛ w kʲ i
@@ -1080,25 +1660,35 @@
 заскрэбці	z a s k r ɛ b tsʲ i
 заскуголіць	z a s k u ɣ ɔ lʲ i tsʲ
 заслізгаць	z a sʲ lʲ i z ɣ a tsʲ
+заслон	z a s ɫ ɔ n
+заслона	z a s ɫ ɔ n a
 засмеціць	z a sʲ mʲ ɛ tsʲ i tsʲ
 засмуціць	z a s m u tsʲ i tsʲ
+засмучэнне	z a s m u tʂ ɛ nʲː ɛ
 заснавальнік	z a s n a v a lʲ nʲ i k
+заснаваць	z a s n a v a tsʲ
 заспакоіць	z a s p a k ɔ j i tsʲ
 заспакойлівы	z a s p a k ɔ j lʲ i v ɨ
+заспець	z a sʲ pʲ ɛ tsʲ
 застаўка	z a s t a w k a
 застоліць	z a s t ɔ lʲ i tsʲ
 застраміць	z a s t r a mʲ i tsʲ
 заструменіць	z a s t r u mʲ ɛ nʲ i tsʲ
 заступіць	z a s t u pʲ i tsʲ
 засудзіць	z a s u dzʲ i tsʲ
+засценак	z a sʲ tsʲ ɛ n a k
 засцерагальнік	z a sʲ tsʲ ɛ r a ɣ a lʲ nʲ i k
 засцярожлівы	z a sʲ tsʲ a r ɔ ʐ lʲ i v ɨ
 засяродзіць	z a sʲ a r ɔ dzʲ i tsʲ
 затаўчы	z a t a w tʂ ɨ
 затлуміць	z a t ɫ u mʲ i tsʲ
 затлусціць	z a t ɫ u sʲ tsʲ i tsʲ
+затока	z a t ɔ k a
 затрызніць	z a t r ɨ zʲ nʲ i tsʲ
+затрымаць	z a t r ɨ m a tsʲ
+затрымка	z a t r ɨ m k a
 затуліць	z a t u lʲ i tsʲ
+затушыць	z a t u ʂ ɨ tsʲ
 заўвага	z a w v a ɣ a
 заўважыць	z a w v a ʐ ɨ tsʲ
 заўжды	z a w ʐ d ɨ
@@ -1110,14 +1700,20 @@
 заўчора	z a w tʂ ɔ r a
 зафарбоўка	z a f a r b ɔ w k a
 захавальнік	z a x a v a lʲ nʲ i k
+захаваць	z a x a v a tsʲ
+захад	z a x a d
 захапіцца	z a x a pʲ i tsː a
 захапіць	z a x a pʲ i tsʲ
+захапленне	z a x a p lʲ ɛ nʲː ɛ
+захапляльны	z a x a p lʲ a lʲ n ɨ
+захварэць	z a x v a r ɛ tsʲ
 захіліць	z a xʲ i lʲ i tsʲ
 захінуць	z a xʲ i n u tsʲ
 захістацца	z a xʲ i s t a tsː a
 захістаць	z a xʲ i s t a tsʲ
 захліпнуцца	z a x lʲ i p n u tsː a
 заходні	z a x ɔ d nʲ i
+захоплены	z a x ɔ p lʲ ɛ n ɨ
 захопнік	z a x ɔ p nʲ i k
 захопніцкі	z a x ɔ p nʲ i ts kʲ i
 захрапці	z a x r a p tsʲ i
@@ -1136,15 +1732,22 @@
 зацішак	z a tsʲ i ʂ a k
 зацішны	z a tsʲ i ʂ n ɨ
 зацішша	z a tsʲ i ʂ ʂ a
+зацяты	z a tsʲ a t ɨ
 зачапіцца	z a tʂ a pʲ i tsː a
+зачараваць	z a tʂ a r a v a tsʲ
 зачыніць	z a tʂ ɨ nʲ i tsʲ
 зачырваніць	z a tʂ ɨ r v a nʲ i tsʲ
+зачэпка	z a tʂ ɛ p k a
 зашкліць	z a ʂ k lʲ i tsʲ
 зашкодзіць	z a ʂ k ɔ dzʲ i tsʲ
 зашчапіць	z a ʂ tʂ a pʲ i tsʲ
+зашчапка	z a ʂ tʂ a p k a
+заява	z a j a v a
 заяўнік	z a j a w nʲ i k
 збавіцель	z b a vʲ i tsʲ ɛ lʲ
 збавіць	z b a vʲ i tsʲ
+збан	z b a n
+збанкрутаваць	z b a n k r u t a v a tsʲ
 збіральнік	zʲ bʲ i r a lʲ nʲ i k
 збіраць	zʲ bʲ i r a tsʲ
 зблізку	z b lʲ i z k u
@@ -1152,44 +1755,78 @@
 збоўтаць	z b ɔ w t a tsʲ
 збродлівы	z b r ɔ d lʲ i v ɨ
 збройнік	z b r ɔ j nʲ i k
+зброя	z b r ɔ j a
 збэсціць	z b ɛ sʲ tsʲ i tsʲ
+збянтэжаны	zʲ bʲ a n t ɛ ʐ a n ɨ
+збянтэжыць	zʲ bʲ a n t ɛ ʐ ɨ tsʲ
 звабіць	z v a bʲ i tsʲ
 зваднік	z v a d nʲ i k
+зварот	z v a r ɔ t
+зваротны	z v a r ɔ t n ɨ
+звацца	z v a tsː a
+зведаць	zʲ vʲ ɛ d a tsʲ
 звіліна	zʲ vʲ i lʲ i n a
 звілісты	zʲ vʲ i lʲ i s t ɨ
 звільгатнець	zʲ vʲ i lʲ ɣ a t nʲ ɛ tsʲ
 звіх	zʲ vʲ i x
 звольніць	z v ɔ lʲ nʲ i tsʲ
+звонку	z v ɔ n k u
+звыклы	z v ɨ k ɫ ɨ
+звыкнуць	z v ɨ k n u tsʲ
+звычай	z v ɨ tʂ a j
+звычайны	z v ɨ tʂ a j n ɨ
+звычка	z v ɨ tʂ k a
+звышнатуральны	z v ɨ ʂ n a t u r a lʲ n ɨ
 звыштэрміновы	z v ɨ ʂ t ɛ r mʲ i n ɔ v ɨ
 звышціск	z v ɨ ʂ tsʲ i s k
 звяглівы	zʲ vʲ a ɣ lʲ i v ɨ
+звязак	zʲ vʲ a z a k
+звялы	zʲ vʲ a ɫ ɨ
 звярзціся	zʲ vʲ a r zʲ tsʲ i sʲ a
 згадзіцца	z ɣ a dzʲ i tsː a
 згадзіць	z ɣ a dzʲ i tsʲ
 згаіць	z ɣ a j i tsʲ
 зганіць	z ɣ a nʲ i tsʲ
+зганьбаваць	z ɣ a nʲ b a v a tsʲ
 зганьбіць	z ɣ a nʲ bʲ i tsʲ
 згарбаціць	z ɣ a r b a tsʲ i tsʲ
 згвалціць	z ɣ v a ɫ tsʲ i tsʲ
 згібіна	z ɣʲ i bʲ i n a
 згінуць	z ɣʲ i n u tsʲ
+згода	z ɣ ɔ d a
 згодлівы	z ɣ ɔ d lʲ i v ɨ
+згодны	z ɣ ɔ d n ɨ
+зграбны	z ɣ r a b n ɨ
 згразіць	z ɣ r a zʲ i tsʲ
 згрувасціць	z ɣ r u v a sʲ tsʲ i tsʲ
+згрызота	z ɣ r ɨ z ɔ t a
 згрэбці	z ɣ r ɛ b tsʲ i
 згубіцель	z ɣ u bʲ i tsʲ ɛ lʲ
 згубіць	z ɣ u bʲ i tsʲ
 згушчальнік	z ɣ u ʂ tʂ a lʲ nʲ i k
+здабытак	z d a b ɨ t a k
+здабыць	z d a b ɨ tsʲ
+здабыча	z d a b ɨ tʂ a
+здавальняць	z d a v a lʲ nʲ a tsʲ
+здавацца	z d a v a tsː a
 здаволіць	z d a v ɔ lʲ i tsʲ
+здагадка	z d a ɣ a d k a
+здань	z d a nʲ
+здарэнне	z d a r ɛ nʲː ɛ
+здатнасць	z d a t n a sʲ tsʲ
+здатны	z d a t n ɨ
 здаўмецца	z d a w mʲ ɛ tsː a
 здаўна	z d a w n a
 здзейсніць	z dzʲ ɛ j sʲ nʲ i tsʲ
+здзекавацца	z dzʲ ɛ k a v a tsː a
 здзеклівы	z dzʲ ɛ k lʲ i v ɨ
 здзірванець	z dzʲ i r v a nʲ ɛ tsʲ
 здзіўленне	z dzʲ i w lʲ ɛ nʲː ɛ
 здзічэць	z dzʲ i tʂ ɛ tsʲ
 здзяўбці	z dzʲ a w b tsʲ i
 здзяцінець	z dzʲ a tsʲ i nʲ ɛ tsʲ
+здольнасць	z d ɔ lʲ n a sʲ tsʲ
+здольны	z d ɔ lʲ n ɨ
 здоўжыцца	z d ɔ w ʐ ɨ tsː a
 здрабніць	z d r a b nʲ i tsʲ
 здрадзіць	z d r a dzʲ i tsʲ
@@ -1199,39 +1836,54 @@
 з’едлівы	z j ɛ d lʲ i v ɨ
 зеляніна	zʲ ɛ lʲ a nʲ i n a
 землеўласнік	zʲ ɛ m lʲ ɛ w ɫ a sʲ nʲ i k
+земляроб	zʲ ɛ m lʲ a r ɔ b
+земляробства	zʲ ɛ m lʲ a r ɔ b s t v a
 зеўра	zʲ ɛ w r a
 зеўраць	zʲ ɛ w r a tsʲ
 зёлкі	zʲ ɔ ɫ kʲ i
 зжаўцець	z ʐ a w tsʲ ɛ tsʲ
 зжоўкнуць	z ʐ ɔ w k n u tsʲ
+з-за	z - z a
+ззянне	zʲː a nʲː ɛ
+ззяць	zʲː a tsʲ
 зімны	zʲ i m n ɨ
 зіркаты	zʲ i r k a t ɨ
 зірнуць	zʲ i r n u tsʲ
 зіхацець	zʲ i x a tsʲ ɛ tsʲ
+злаваць	z ɫ a v a tsʲ
 злавіць	z ɫ a vʲ i tsʲ
 зладзіць	z ɫ a dzʲ i tsʲ
 злазіць	z ɫ a zʲ i tsʲ
 зламоўны	z ɫ a m ɔ w n ɨ
+зламысны	z ɫ a m ɨ s n ɨ
 злараднічаць	z ɫ a r a d nʲ i tʂ a tsʲ
 зласлівы	z ɫ a sʲ lʲ i v ɨ
+злачынства	z ɫ a tʂ ɨ n s t v a
 злінеіць	zʲ lʲ i nʲ ɛ j i tsʲ
 злітавацца	zʲ lʲ i t a v a tsː a
 злітаваць	zʲ lʲ i t a v a tsʲ
 злітак	zʲ lʲ i t a k
 злічыць	zʲ lʲ i tʂ ɨ tsʲ
 злічэнне	zʲ lʲ i tʂ ɛ nʲː ɛ
+злодзей	z ɫ ɔ dzʲ ɛ j
 злозычлівы	z ɫ ɔ z ɨ tʂ lʲ i v ɨ
+злосны	z ɫ ɔ s n ɨ
 злотнік	z ɫ ɔ t nʲ i k
 злоўжыванне	z ɫ ɔ w ʐ ɨ v a nʲː ɛ
 злоўжываць	z ɫ ɔ w ʐ ɨ v a tsʲ
 злоўлены	z ɫ ɔ w lʲ ɛ n ɨ
 злучальнік	z ɫ u tʂ a lʲ nʲ i k
 злучнік	z ɫ u tʂ nʲ i k
+змаганне	z m a ɣ a nʲː ɛ
+змагацца	z m a ɣ a tsː a
 зманіць	z m a nʲ i tsʲ
 зманлівы	z m a n lʲ i v ɨ
 змаркоціцца	z m a r k ɔ tsʲ i tsː a
+змарнець	z m a r nʲ ɛ tsʲ
 змарозіць	z m a r ɔ zʲ i tsʲ
+змацаваць	z m a ts a v a tsʲ
 змерці	zʲ mʲ ɛ r tsʲ i
+змест	zʲ mʲ ɛ s t
 змесціва	zʲ mʲ ɛ sʲ tsʲ i v a
 змеціць	zʲ mʲ ɛ tsʲ i tsʲ
 змешвальнік	zʲ mʲ ɛ ʂ v a lʲ nʲ i k
@@ -1240,28 +1892,42 @@
 змілавацца	zʲ mʲ i ɫ a v a tsː a
 змірыцца	zʲ mʲ i r ɨ tsː a
 змірыць	zʲ mʲ i r ɨ tsʲ
+змова	z m ɔ v a
 змовіны	z m ɔ vʲ i n ɨ
 змовіцца	z m ɔ vʲ i tsː a
+зморшчына	z m ɔ r ʂ tʂ ɨ n a
 змотвальнік	z m ɔ t v a lʲ nʲ i k
 змоўленасць	z m ɔ w lʲ ɛ n a sʲ tsʲ
 змоўшчык	z m ɔ w ʂ tʂ ɨ k
+змрок	z m r ɔ k
+змрочны	z m r ɔ tʂ n ɨ
 змусіць	z m u sʲ i tsʲ
+змучыць	z m u tʂ ɨ tsʲ
 змыліць	z m ɨ lʲ i tsʲ
 змякчальнік	zʲ mʲ a k tʂ a lʲ nʲ i k
 змяніць	zʲ mʲ a nʲ i tsʲ
+змярцвелы	zʲ mʲ a r tsʲ vʲ ɛ ɫ ɨ
 змярцвіць	zʲ mʲ a r tsʲ vʲ i tsʲ
 змясіць	zʲ mʲ a sʲ i tsʲ
 змястоўнасць	zʲ mʲ a s t ɔ w n a sʲ tsʲ
 змястоўны	zʲ mʲ a s t ɔ w n ɨ
 змясціць	zʲ mʲ a sʲ tsʲ i tsʲ
+знадворку	z n a d v ɔ r k u
+знадворны	z n a d v ɔ r n ɨ
 знаёміць	z n a j ɔ mʲ i tsʲ
+знаёмы	z n a j ɔ m ɨ
 знайсці	z n a j sʲ tsʲ i
 знакаміты	z n a k a mʲ i t ɨ
 знаравіцца	z n a r a vʲ i tsː a
 знаравіць	z n a r a vʲ i tsʲ
 знасіць	z n a sʲ i tsʲ
 знаўца	z n a w ts a
+знаходка	z n a x ɔ d k a
 знаходлівы	z n a x ɔ d lʲ i v ɨ
+значны	z n a tʂ n ɨ
+значыць	z n a tʂ ɨ tsʲ
+зневажаць	zʲ nʲ ɛ v a ʐ a tsʲ
+знемагчы	zʲ nʲ ɛ m a ɣ tʂ ɨ
 зненавідзець	zʲ nʲ ɛ n a vʲ i dzʲ ɛ tsʲ
 знерухоміць	zʲ nʲ ɛ r u x ɔ mʲ i tsʲ
 знецярплівець	zʲ nʲ ɛ tsʲ a r p lʲ i vʲ ɛ tsʲ
@@ -1280,30 +1946,51 @@
 зносіны	z n ɔ sʲ i n ɨ
 зноў	z n ɔ w
 зноўку	z n ɔ w k u
+знявага	zʲ nʲ a v a ɣ a
 зняволіць	zʲ nʲ a v ɔ lʲ i tsʲ
+знямога	zʲ nʲ a m ɔ ɣ a
+знянацку	zʲ nʲ a n a ts k u
 зняпраўдзіць	zʲ nʲ a p r a w dzʲ i tsʲ
 знясілець	zʲ nʲ a sʲ i lʲ ɛ tsʲ
 знясіліць	zʲ nʲ a sʲ i lʲ i tsʲ
 зняславіць	zʲ nʲ a s ɫ a vʲ i tsʲ
 знячэўку	zʲ nʲ a tʂ ɛ w k u
+золак	z ɔ ɫ a k
 золкі	z ɔ ɫ kʲ i
+зорка	z ɔ r k a
 зоркаўка	z ɔ r k a w k a
+з-пад	z - p a d
 зрабіць	z r a bʲ i tsʲ
+зразумелы	z r a z u mʲ ɛ ɫ ɨ
+зразумець	z r a z u mʲ ɛ tsʲ
 зраўнаваць	z r a w n a v a tsʲ
+зрачыся	z r a tʂ ɨ sʲ a
 зрашэціць	z r a ʂ ɛ tsʲ i tsʲ
+зрок	z r ɔ k
+зрух	z r u x
+зручны	z r u tʂ n ɨ
+зрушыць	z r u ʂ ɨ tsʲ
 зрывісты	z r ɨ vʲ i s t ɨ
 зрыўкі	z r ɨ w kʲ i
 зрэбнікі	z r ɛ b nʲ i kʲ i
 зрэдзіць	z r ɛ dzʲ i tsʲ
+зрэдку	z r ɛ d k u
+зрэнка	z r ɛ n k a
+зрэшты	z r ɛ ʂ t ɨ
 зубнік	z u b nʲ i k
 зубніца	z u b nʲ i ts a
 зусім	z u sʲ i m
+зухаваты	z u x a v a t ɨ
 зыркі	z ɨ r kʲ i
 зыходзіць	z ɨ x ɔ dzʲ i tsʲ
 зычлівец	z ɨ tʂ lʲ i vʲ ɛ ts
 зычлівы	z ɨ tʂ lʲ i v ɨ
+зычны	z ɨ tʂ n ɨ
+зычыць	z ɨ tʂ ɨ tsʲ
 з’явіцца	z j a vʲ i tsː a
 з’явішча	z j a vʲ i ʂ tʂ a
+зязюля	zʲ a zʲ u lʲ a
+зяпа	zʲ a p a
 з’яўленне	z j a w lʲ ɛ nʲː ɛ
 ігліца	i ɣ lʲ i ts a
 іглічны	i ɣ lʲ i tʂ n ɨ
@@ -1359,10 +2046,24 @@
 істота	i s t ɔ t a
 істотны	i s t ɔ t n ɨ
 істужка	i s t u ʐ k a
+каб	k a b
+кава	k a v a
+кавадла	k a v a d ɫ a
+кавалак	k a v a ɫ a k
 кавярзні	k a vʲ a r zʲ nʲ i
+кавярня	k a vʲ a r nʲ a
+кагадзе	k a ɣ a dzʲ ɛ
+кадзь	k a d zʲ
 кажушнік	k a ʐ u ʂ nʲ i k
+казаць	k a z a tsʲ
 казачнік	k a z a tʂ nʲ i k
+казачны	k a z a tʂ n ɨ
 казеліць	k a zʲ ɛ lʲ i tsʲ
+казка	k a z k a
+казытаць	k a z ɨ t a tsʲ
+кайданы	k a j d a n ɨ
+кайстра	k a j s t r a
+какава	k a k a v a
 каласавік	k a ɫ a s a vʲ i k
 каласоўнік	k a ɫ a s ɔ w nʲ i k
 калатніна	k a ɫ a t nʲ i n a
@@ -1370,6 +2071,8 @@
 калаўрот	k a ɫ a w r ɔ t
 калаціцца	k a ɫ a tsʲ i tsː a
 калаціць	k a ɫ a tsʲ i tsʲ
+калецтва	k a lʲ ɛ ts t v a
+калёсы	k a lʲ ɔ s ɨ
 калі	k a lʲ i
 каліва	k a lʲ i v a
 калідор	k a lʲ i d ɔ r
@@ -1377,34 +2080,59 @@
 калі-нікалі	k a lʲ i - nʲ i k a lʲ i
 калісьці	k a lʲ i sʲ tsʲ i
 калітка	k a lʲ i t k a
+калматы	k a ɫ m a t ɨ
 калмаціць	k a ɫ m a tsʲ i tsʲ
+калодзеж	k a ɫ ɔ dzʲ ɛ ʐ
+калыска	k a ɫ ɨ s k a
+калыхаць	k a ɫ ɨ x a tsʲ
+каля	k a lʲ a
 каляіна	k a lʲ a j i n a
 калякветнік	k a lʲ a k vʲ ɛ t nʲ i k
+каляндра	k a lʲ a n d r a
 каляплоднік	k a lʲ a p ɫ ɔ d nʲ i k
+каляровы	k a lʲ a r ɔ v ɨ
 камбітлушч	k a m bʲ i t ɫ u ʂ tʂ
+каменярэз	k a mʲ ɛ nʲ a r ɛ z
+камлыга	k a m ɫ ɨ ɣ a
+камора	k a m ɔ r a
 каморнік	k a m ɔ r nʲ i k
 каморніцтва	k a m ɔ r nʲ i ts t v a
 кампасціраваць	k a m p a sʲ tsʲ i r a v a tsʲ
+кампенсатар	k a m pʲ ɛ n s a t a r
+кампутар	k a m p u t a r
+камяк	k a mʲ a k
 камяніца	k a mʲ a nʲ i ts a
+канапа	k a n a p a
 канапліна	k a n a p lʲ i n a
 канаплішча	k a n a p lʲ i ʂ tʂ a
 канаплянік	k a n a p lʲ a nʲ i k
 канаплянішча	k a n a p lʲ a nʲ i ʂ tʂ a
+канаплянка	k a n a p lʲ a n k a
+кандыбаць	k a n d ɨ b a tsʲ
+канечне	k a nʲ ɛ tʂ nʲ ɛ
+канчатковы	k a n tʂ a t k ɔ v ɨ
+канюшына	k a nʲ u ʂ ɨ n a
 канюшынішча	k a nʲ u ʂ ɨ nʲ i ʂ tʂ a
 капліца	k a p lʲ i ts a
+каптур	k a p t u r
 капуснік	k a p u sʲ nʲ i k
 капуснішча	k a p u sʲ nʲ i ʂ tʂ a
 капытнік	k a p ɨ t nʲ i k
 капыціць	k a p ɨ tsʲ i tsʲ
-кара	k a r a
+капялюш	k a pʲ a lʲ u ʂ
 кара	k a r a
 каравіцца	k a r a vʲ i tsː a
 каралі	k a r a lʲ i
 караністы	k a r a nʲ i s t ɨ
 каратканосік	k a r a t k a n ɔ sʲ i k
 караціць	k a r a tsʲ i tsʲ
+караць	k a r a tsʲ
 карбідка	k a r bʲ i d k a
+кардон	k a r d ɔ n
 каробачнік	k a r ɔ b a tʂ nʲ i k
+каромысел	k a r ɔ m ɨ sʲ ɛ ɫ
+карона	k a r ɔ n a
+кароста	k a r ɔ s t a
 кароткатэрміновы	k a r ɔ t k a t ɛ r mʲ i n ɔ v ɨ
 карпаніна	k a r p a nʲ i n a
 карункі	k a r u n kʲ i
@@ -1412,24 +2140,48 @@
 карыслівасць	k a r ɨ sʲ lʲ i v a sʲ tsʲ
 карыслівец	k a r ɨ sʲ lʲ i vʲ ɛ ts
 карыслівы	k a r ɨ sʲ lʲ i v ɨ
+карысны	k a r ɨ s n ɨ
 карыстальнік	k a r ɨ s t a lʲ nʲ i k
+карыстацца	k a r ɨ s t a tsː a
+карысць	k a r ɨ sʲ tsʲ
 карэнішча	k a r ɛ nʲ i ʂ tʂ a
+касач	k a s a tʂ
 касільна	k a sʲ i lʲ n a
+касматы	k a s m a t ɨ
+касмык	k a s m ɨ k
+каструбаваты	k a s t r u b a v a t ɨ
 кастрычнік	k a s t r ɨ tʂ nʲ i k
 касцяніца	k a sʲ tsʲ a nʲ i ts a
+кат	k a t
+катаваць	k a t a v a tsʲ
+катрынка	k a t r ɨ n k a
 каўка	k a w k a
 каўнер	k a w nʲ ɛ r
+кафля	k a f lʲ a
+каханне	k a x a nʲː ɛ
+кахаць	k a x a tsʲ
 каціны	k a tsʲ i n ɨ
+качка	k a tʂ k a
+качканос	k a tʂ k a n ɔ s
+кашлаты	k a ʂ ɫ a t ɨ
 кашлаціць	k a ʂ ɫ a tsʲ i tsʲ
+каштаваць	k a ʂ t a v a tsʲ
+каштарыс	k a ʂ t a r ɨ s
 каштоўнасць	k a ʂ t ɔ w n a sʲ tsʲ
 каштоўны	k a ʂ t ɔ w n ɨ
+кашуля	k a ʂ u lʲ a
+кашчавы	k a ʂ tʂ a v ɨ
+кашэль	k a ʂ ɛ lʲ
 квазізорка	k v a zʲ i z ɔ r k a
 квапіцца	k v a pʲ i tsː a
+кватэра	k v a t ɛ r a
 квашаніна	k v a ʂ a nʲ i n a
 кветалісцік	k vʲ ɛ t a lʲ i sʲ tsʲ i k
 кветачніца	k vʲ ɛ t a tʂ nʲ i ts a
+кветка	k vʲ ɛ t k a
 кветнік	k vʲ ɛ t nʲ i k
 квітнець	k vʲ i t nʲ ɛ tsʲ
+кволы	k v ɔ ɫ ɨ
 келіх	kʲ ɛ lʲ i x
 кеміць	kʲ ɛ mʲ i tsʲ
 кемлівы	kʲ ɛ m lʲ i v ɨ
@@ -1471,94 +2223,164 @@
 кладоўка	k ɫ a d ɔ w k a
 клапатлівы	k ɫ a p a t lʲ i v ɨ
 клапаціцца	k ɫ a p a tsʲ i tsː a
+клапотны	k ɫ a p ɔ t n ɨ
 клейкі	k lʲ ɛ j kʲ i
+клеймаваць	k lʲ ɛ j m a v a tsʲ
+кленчыць	k lʲ ɛ n tʂ ɨ tsʲ
 клённік	k lʲ ɔ nʲː i k
 клікаць	k lʲ i k a tsʲ
 клінаваты	k lʲ i n a v a t ɨ
 клічнік	k lʲ i tʂ nʲ i k
 клічны	k lʲ i tʂ n ɨ
+клопат	k ɫ ɔ p a t
 клубніцы	k ɫ u b nʲ i ts ɨ
+ключ	k lʲ u tʂ
 ключыкі	k lʲ u tʂ ɨ kʲ i
+клямка	k lʲ a m k a
 кляніна	k lʲ a nʲ i n a
 кляновік	k lʲ a n ɔ vʲ i k
+кмен	k mʲ ɛ n
 кнігавыдавецтва	k nʲ i ɣ a v ɨ d a vʲ ɛ ts t v a
 кнігагандаль	k nʲ i ɣ a ɣ a n d a lʲ
 кнігазнаўства	k nʲ i ɣ a z n a w s t v a
 кнігарня	k nʲ i ɣ a r nʲ a
 кнігасховішча	k nʲ i ɣ a s x ɔ vʲ i ʂ tʂ a
 кнігаўка	k nʲ i ɣ a w k a
+кнот	k n ɔ t
+княства	k nʲ a s t v a
+кожны	k ɔ ʐ n ɨ
 козагадоўля	k ɔ z a ɣ a d ɔ w lʲ a
+кола	k ɔ ɫ a
+колер	k ɔ lʲ ɛ r
 колеразнаўства	k ɔ lʲ ɛ r a z n a w s t v a
 колішні	k ɔ lʲ i ʂ nʲ i
+колькасны	k ɔ lʲ k a s n ɨ
+колькасць	k ɔ lʲ k a sʲ tsʲ
 колькі	k ɔ lʲ kʲ i
+кольца	k ɔ lʲ ts a
 комін	k ɔ mʲ i n
 конаўка	k ɔ n a w k a
 конегадоўля	k ɔ nʲ ɛ ɣ a d ɔ w lʲ a
 конік	k ɔ nʲ i k
+конна	k ɔ nː a
 коннік	k ɔ nʲː i k
+корак	k ɔ r a k
+коска	k ɔ s k a
 коснаязыкі	k ɔ s n a j a z ɨ kʲ i
 котлішча	k ɔ t lʲ i ʂ tʂ a
 коўдра	k ɔ w d r a
 коўзацца	k ɔ w z a tsː a
 коўзкі	k ɔ w z kʲ i
 коцік	k ɔ tsʲ i k
+кош	k ɔ ʂ
+кошт	k ɔ ʂ t
 кпіны	k pʲ i n ɨ
 кпіць	k pʲ i tsʲ
+кравец	k r a vʲ ɛ ts
+крадком	k r a d k ɔ m
 краіна	k r a j i n a
+крама	k r a m a
 крамнік	k r a m nʲ i k
 крамніна	k r a m nʲ i n a
+кранаць	k r a n a tsʲ
+красаваць	k r a s a v a tsʲ
 красамоўнасць	k r a s a m ɔ w n a sʲ tsʲ
 красамоўны	k r a s a m ɔ w n ɨ
 красамоўства	k r a s a m ɔ w s t v a
+краска	k r a s k a
 кратавінне	k r a t a vʲ i nʲː ɛ
+краты	k r a t ɨ
 краўчыха	k r a w tʂ ɨ x a
 краявід	k r a j a vʲ i d
 краязнаўства	k r a j a z n a w s t v a
 кровазліццё	k r ɔ v a zʲ lʲ i tsʲː ɔ
+крок	k r ɔ k
+кроп	k r ɔ p
+кропка	k r ɔ p k a
+кропля	k r ɔ p lʲ a
 крохкі	k r ɔ x kʲ i
+крочыць	k r ɔ tʂ ɨ tsʲ
 кругавід	k r u ɣ a vʲ i d
+крумкач	k r u m k a tʂ
 крупнік	k r u p nʲ i k
+круцель	k r u tsʲ ɛ lʲ
 круцігалоўка	k r u tsʲ i ɣ a ɫ ɔ w k a
 круціцца	k r u tsʲ i tsː a
 круціць	k r u tsʲ i tsʲ
+крывадушнасць	k r ɨ v a d u ʂ n a sʲ tsʲ
+крывасмок	k r ɨ v a s m ɔ k
 крываўнік	k r ɨ v a w nʲ i k
+крыж	k r ɨ ʐ
 крыжавік	k r ɨ ʐ a vʲ i k
 крыжавіна	k r ɨ ʐ a vʲ i n a
 крыніца	k r ɨ nʲ i ts a
 крыніцазнаўства	k r ɨ nʲ i ts a z n a w s t v a
 крынічыць	k r ɨ nʲ i tʂ ɨ tsʲ
 крынічышча	k r ɨ nʲ i tʂ ɨ ʂ tʂ a
+крысо	k r ɨ s ɔ
 крыўда	k r ɨ w d a
 крыўдаваць	k r ɨ w d a v a tsʲ
 крыўдзіцель	k r ɨ w dzʲ i tsʲ ɛ lʲ
 крыўдзіць	k r ɨ w dzʲ i tsʲ
 крыўдлівы	k r ɨ w d lʲ i v ɨ
 крыўдны	k r ɨ w d n ɨ
+крыху	k r ɨ x u
+крэйда	k r ɛ j d a
 крэсіва	k r ɛ sʲ i v a
 крэсліць	k r ɛ sʲ lʲ i tsʲ
 крэўны	k r ɛ w n ɨ
+кубак	k u b a k
 кудзелісты	k u dzʲ ɛ lʲ i s t ɨ
 кудзеркі	k u dzʲ ɛ r kʲ i
+кудлаты	k u d ɫ a t ɨ
 кудлаціць	k u d ɫ a tsʲ i tsʲ
 кукішкі	k u kʲ i ʂ kʲ i
+кульгавы	k u lʲ ɣ a v ɨ
+куля	k u lʲ a
 купальнік	k u p a lʲ nʲ i k
 купіна	k u pʲ i n a
+купляць	k u p lʲ a tsʲ
 купчасціцца	k u p tʂ a sʲ tsʲ i tsː a
 куркоўка	k u r k ɔ w k a
+куродым	k u r ɔ d ɨ m
 куродыміць	k u r ɔ d ɨ mʲ i tsʲ
+курэць	k u r ɛ tsʲ
 куслівы	k u sʲ lʲ i v ɨ
 кустоўе	k u s t ɔ w j ɛ
+кут	k u t
+куфар	k u f a r
+кухар	k u x a r
+кухарыць	k u x a r ɨ tsʲ
+лава	ɫ a v a
 лагодзіць	ɫ a ɣ ɔ dzʲ i tsʲ
+лагодны	ɫ a ɣ ɔ d n ɨ
+лагчына	ɫ a ɣ tʂ ɨ n a
+лад	ɫ a d
+ладны	ɫ a d n ɨ
 лазавік	ɫ a z a vʲ i k
+лайдак	ɫ a j d a k
+ланцуг	ɫ a n ts u ɣ
 лапіна	ɫ a pʲ i n a
 лапіць	ɫ a pʲ i tsʲ
 лапкі	ɫ a p kʲ i
 лапнік	ɫ a p nʲ i k
 лапцюжнік	ɫ a p tsʲ u ʐ nʲ i k
+ласка	ɫ a s k a
+ласунак	ɫ a s u n a k
+ласы	ɫ a s ɨ
 лаўка	ɫ a w k a
+лашчыць	ɫ a ʂ tʂ ɨ tsʲ
+лаянка	ɫ a j a n k a
+лаяцца	ɫ a j a tsː a
+лаяць	ɫ a j a tsʲ
+легкадумны	lʲ ɛ ɣ k a d u m n ɨ
 легкатраўны	lʲ ɛ ɣ k a t r a w n ɨ
 ледавік	lʲ ɛ d a vʲ i k
+ледзь	lʲ ɛ d zʲ
+лежня	lʲ ɛ ʐ nʲ a
 лекі	lʲ ɛ kʲ i
+лепей	lʲ ɛ pʲ ɛ j
+лепш	lʲ ɛ p ʂ
 леснікоўства	lʲ ɛ sʲ nʲ i k ɔ w s t v a
 леснічоўка	lʲ ɛ sʲ nʲ i tʂ ɔ w k a
 летазлічэнне	lʲ ɛ t a zʲ lʲ i tʂ ɛ nʲː ɛ
@@ -1570,6 +2392,8 @@
 лёгкаўзгаральны	lʲ ɔ ɣ k a w z ɣ a r a lʲ n ɨ
 лёдаўтварэнне	lʲ ɔ d a w t v a r ɛ nʲː ɛ
 лёдзісты	lʲ ɔ dzʲ i s t ɨ
+лёс	lʲ ɔ s
+лёх	lʲ ɔ x
 лік	lʲ i k
 лікавы	lʲ i k a v ɨ
 ліна	lʲ i n a
@@ -1616,64 +2440,127 @@
 лічэбнік	lʲ i tʂ ɛ b nʲ i k
 лішак	lʲ i ʂ a k
 ліштва	lʲ i ʂ t v a
+ловы	ɫ ɔ v ɨ
 логавішча	ɫ ɔ ɣ a vʲ i ʂ tʂ a
+ложак	ɫ ɔ ʐ a k
+локшына	ɫ ɔ k ʂ ɨ n a
 ломкі	ɫ ɔ m kʲ i
+лопух	ɫ ɔ p u x
 лоўж	ɫ ɔ w ʐ
 лугазнаўства	ɫ u ɣ a z n a w s t v a
+лузаць	ɫ u z a tsʲ
 лукавіна	ɫ u k a vʲ i n a
+лунаць	ɫ u n a tsʲ
 лупіна	ɫ u pʲ i n a
 лупіцца	ɫ u pʲ i tsː a
 лупіць	ɫ u pʲ i tsʲ
 лупцоўка	ɫ u p ts ɔ w k a
+лускаць	ɫ u s k a tsʲ
+лухта	ɫ u x t a
 лучнік	ɫ u tʂ nʲ i k
+лучыць	ɫ u tʂ ɨ tsʲ
 лушпіна	ɫ u ʂ pʲ i n a
+лушчак	ɫ u ʂ tʂ a k
+лыжка	ɫ ɨ ʐ k a
+лыч	ɫ ɨ tʂ
 льноапрацоўка	lʲ n ɔ a p r a ts ɔ w k a
 льнянішча	lʲ nʲ a nʲ i ʂ tʂ a
 людскі	lʲ u d s kʲ i
+люлька	lʲ u lʲ k a
+люстра	lʲ u s t r a
+люстэрка	lʲ u s t ɛ r k a
+люты	lʲ u t ɨ
 люцэрнішча	lʲ u ts ɛ r nʲ i ʂ tʂ a
 лявоніха	lʲ a v ɔ nʲ i x a
+лядашчы	lʲ a d a ʂ tʂ ɨ
 ляднік	lʲ a d nʲ i k
+лязо	lʲ a z ɔ
 лялечнік	lʲ a lʲ ɛ tʂ nʲ i k
+лялька	lʲ a lʲ k a
+лямантаваць	lʲ a m a n t a v a tsʲ
+лянота	lʲ a n ɔ t a
+ляскаць	lʲ a s k a tsʲ
+ляскотка	lʲ a s k ɔ t k a
 ляўконія	lʲ a w k ɔ nʲ i j a
+ляшчына	lʲ a ʂ tʂ ɨ n a
 ляшчэўнік	lʲ a ʂ tʂ ɛ w nʲ i k
+магутны	m a ɣ u t n ɨ
+магчы	m a ɣ tʂ ɨ
+магчымы	m a ɣ tʂ ɨ m ɨ
+маёмасць	m a j ɔ m a sʲ tsʲ
+маёнтак	m a j ɔ n t a k
+мажны	m a ʐ n ɨ
 мазлівы	m a zʲ lʲ i v ɨ
+май	m a j
+майстар	m a j s t a r
+майстэрня	m a j s t ɛ r nʲ a
+майстэрства	m a j s t ɛ r s t v a
 макавішча	m a k a vʲ i ʂ tʂ a
 макоўнік	m a k ɔ w nʲ i k
 макулінка	m a k u lʲ i n k a
+малавядомы	m a ɫ a vʲ a d ɔ m ɨ
 маладзік	m a ɫ a dzʲ i k
 малазмястоўны	m a ɫ a zʲ mʲ a s t ɔ w n ɨ
 малаімаверны	m a ɫ a j i m a vʲ ɛ r n ɨ
 малаістотны	m a ɫ a j i s t ɔ t n ɨ
 малакаштоўны	m a ɫ a k a ʂ t ɔ w n ɨ
 малалікасць	m a ɫ a lʲ i k a sʲ tsʲ
+маланка	m a ɫ a n k a
 малапажыўны	m a ɫ a p a ʐ ɨ w n ɨ
 малапісьменны	m a ɫ a pʲ i sʲ mʲ ɛ nː ɨ
 малапраўдзівы	m a ɫ a p r a w dzʲ i v ɨ
 малаўжывальны	m a ɫ a w ʐ ɨ v a lʲ n ɨ
+малпа	m a ɫ p a
 малпоўня	m a ɫ p ɔ w nʲ a
+малюнак	m a lʲ u n a k
+маляваць	m a lʲ a v a tsʲ
 маляўнічы	m a lʲ a w nʲ i tʂ ɨ
+мана	m a n a
 маніць	m a nʲ i tsʲ
 мараплаўства	m a r a p ɫ a w s t v a
+маркота	m a r k ɔ t a
+маркотны	m a r k ɔ t n ɨ
 маркоўнік	m a r k ɔ w nʲ i k
 маркоціцца	m a r k ɔ tsʲ i tsː a
 маркоціць	m a r k ɔ tsʲ i tsʲ
+мармур	m a r m u r
+мармытаць	m a r m ɨ t a tsʲ
+марнаваць	m a r n a v a tsʲ
 марнаслоўны	m a r n a s ɫ ɔ w n ɨ
 марнатравіць	m a r n a t r a vʲ i tsʲ
 марнатраўства	m a r n a t r a w s t v a
+марнець	m a r nʲ ɛ tsʲ
+марны	m a r n ɨ
 марозаўстойлівы	m a r ɔ z a w s t ɔ j lʲ i v ɨ
 марудзіць	m a r u dzʲ i tsʲ
 марудлівы	m a r u d lʲ i v ɨ
+марудны	m a r u d n ɨ
+марыць	m a r ɨ tsʲ
+мастак	m a s t a k
 мастацкі	m a s t a ts kʲ i
+мастацтва	m a s t a ts t v a
 мастацтвазнаўства	m a s t a ts t v a z n a w s t v a
 мастацтвазнаўца	m a s t a ts t v a z n a w ts a
+матуз	m a t u z
+матыль	m a t ɨ lʲ
 маўклівы	m a w k lʲ i v ɨ
 маўленне	m a w lʲ ɛ nʲː ɛ
 маўленчы	m a w lʲ ɛ n tʂ ɨ
 маўляў	m a w lʲ a w
+махляваць	m a x lʲ a v a tsʲ
+махляр	m a x lʲ a r
+махры	m a x r ɨ
+мацаваць	m a ts a v a tsʲ
+мацаць	m a ts a tsʲ
 мачулішча	m a tʂ u lʲ i ʂ tʂ a
 менавіта	mʲ ɛ n a vʲ i t a
+меншасць	mʲ ɛ n ʂ a sʲ tsʲ
+меркаваць	mʲ ɛ r k a v a tsʲ
+места	mʲ ɛ s t a
 металаапрацоўка	mʲ ɛ t a ɫ a a p r a ts ɔ w k a
 металазнаўства	mʲ ɛ t a ɫ a z n a w s t v a
+мех	mʲ ɛ x
+мецца	mʲ ɛ tsː a
 мігатлівы	mʲ i ɣ a t lʲ i v ɨ
 мігацець	mʲ i ɣ a tsʲ ɛ tsʲ
 мігцець	mʲ i ɣ tsʲ ɛ tsʲ
@@ -1700,44 +2587,69 @@
 мітусіцца	mʲ i t u sʲ i tsː a
 мітусня	mʲ i t u sʲ nʲ a
 мліва	m lʲ i v a
+млын	m ɫ ɨ n
 млынішча	m ɫ ɨ nʲ i ʂ tʂ a
+млявы	m lʲ a v ɨ
 мнагалікі	m n a ɣ a lʲ i kʲ i
 многагадзінны	m n ɔ ɣ a ɣ a dzʲ i nː ɨ
 множнік	m n ɔ ʐ nʲ i k
+мова	m ɔ v a
+мовазнавец	m ɔ v a z n a vʲ ɛ ts
 мовазнаўства	m ɔ v a z n a w s t v a
 могілкі	m ɔ ɣʲ i ɫ kʲ i
+момант	m ɔ m a n t
+морак	m ɔ r a k
+морква	m ɔ r k v a
 моўчкі	m ɔ w tʂ kʲ i
+моц	m ɔ ts
+моцны	m ɔ ts n ɨ
 мроі	m r ɔ j i
 мсцівец	m sʲ tsʲ i vʲ ɛ ts
 мсцівы	m sʲ tsʲ i v ɨ
 мудрагелісты	m u d r a ɣʲ ɛ lʲ i s t ɨ
 мудрагеліць	m u d r a ɣʲ ɛ lʲ i tsʲ
+мужнасць	m u ʐ n a sʲ tsʲ
 музеязнаўства	m u zʲ ɛ j a z n a w s t v a
+мул	m u ɫ
+мультан	m u lʲ t a n
 мурашнік	m u r a ʂ nʲ i k
 мусіць	m u sʲ i tsʲ
+муштук	m u ʂ t u k
 мытнік	m ɨ t nʲ i k
 мытніца	m ɨ t nʲ i ts a
+мытня	m ɨ t nʲ a
 мышалоў	m ɨ ʂ a ɫ ɔ w
+мэбля	m ɛ b lʲ a
 мэдлік	m ɛ d lʲ i k
 мэндлік	m ɛ n d lʲ i k
+мэта	m ɛ t a
 мэтанакіраваны	m ɛ t a n a kʲ i r a v a n ɨ
 мядзведзіна	mʲ a dzʲ vʲ ɛ dzʲ i n a
 мяжоўка	mʲ a ʐ ɔ w k a
 мясціна	mʲ a sʲ tsʲ i n a
 мясціцца	mʲ a sʲ tsʲ i tsː a
 мясціць	mʲ a sʲ tsʲ i tsʲ
+мясцовы	mʲ a s ts ɔ v ɨ
 мячэўнік	mʲ a tʂ ɛ w nʲ i k
 наабгаблёўваць	n a a b ɣ a b lʲ ɔ w v a tsʲ
 наабцярэбліваць	n a a b tsʲ a r ɛ b lʲ i v a tsʲ
 наадкалупліваць	n a a d k a ɫ u p lʲ i v a tsʲ
 наблізіць	n a b lʲ i zʲ i tsʲ
 набрудзіць	n a b r u dzʲ i tsʲ
+набыць	n a b ɨ tsʲ
 навазіцца	n a v a zʲ i tsː a
+наваколле	n a v a k ɔ lʲ lʲ ʲ ɛ
+навакольны	n a v a k ɔ lʲ n ɨ
+навала	n a v a ɫ a
+навалач	n a v a ɫ a tʂ
 навальніца	n a v a lʲ nʲ i ts a
 наведвальнік	n a vʲ ɛ d v a lʲ nʲ i k
 навідавоку	n a vʲ i d a v ɔ k u
 навіна	n a vʲ i n a
+навокал	n a v ɔ k a ɫ
+навошта	n a v ɔ ʂ t a
 навуказнаўства	n a v u k a z n a w s t v a
+навучальны	n a v u tʂ a lʲ n ɨ
 навыбіваць	n a v ɨ bʲ i v a tsʲ
 навыдзёўбваць	n a v ɨ dzʲ ɔ w b v a tsʲ
 навыперадкі	n a v ɨ pʲ ɛ r a d kʲ i
@@ -1745,30 +2657,42 @@
 навыціскаць	n a v ɨ tsʲ i s k a tsʲ
 навэндзіць	n a v ɛ n dzʲ i tsʲ
 нагавіцы	n a ɣ a vʲ i ts ɨ
+нагадаць	n a ɣ a d a tsʲ
 нагаласіцца	n a ɣ a ɫ a sʲ i tsː a
 нагаманіцца	n a ɣ a m a nʲ i tsː a
 нагарэзіць	n a ɣ a r ɛ zʲ i tsʲ
 нагарэзнічаць	n a ɣ a r ɛ zʲ nʲ i tʂ a tsʲ
 наглядальнік	n a ɣ lʲ a d a lʲ nʲ i k
+наглядаць	n a ɣ lʲ a d a tsʲ
+наглядчык	n a ɣ lʲ a tʂː ɨ k
+наготка	n a ɣ ɔ t k a
 награвальнік	n a ɣ r a v a lʲ nʲ i k
 нагрувасціць	n a ɣ r u v a sʲ tsʲ i tsʲ
 нагрэбці	n a ɣ r ɛ b tsʲ i
 надакучлівы	n a d a k u tʂ lʲ i v ɨ
 надаўжэй	n a d a w ʐ ɛ j
+надаць	n a d a tsʲ
+надвор	n a d v ɔ r
 наддзяўбці	n a dzʲː a w b tsʲ i
+надзвычайны	n a dz v ɨ tʂ a j n ɨ
+надзейны	n a dzʲ ɛ j n ɨ
+надзея	n a dzʲ ɛ j a
 надзяўбці	n a dzʲ a w b tsʲ i
 надліць	n a d lʲ i tsʲ
 надмагілле	n a d m a ɣʲ i lʲ lʲ ʲ ɛ
 надмуроўка	n a d m u r ɔ w k a
 надпаліць	n a d p a lʲ i tsʲ
 надрабіць	n a d r a bʲ i tsʲ
+надта	n a d t a
 надысці	n a d ɨ sʲ tsʲ i
 назалічаць	n a z a lʲ i tʂ a tsʲ
 назалічваць	n a z a lʲ i tʂ v a tsʲ
+назаляць	n a z a lʲ a tsʲ
 назапасіць	n a z a p a sʲ i tsʲ
 назаўжды	n a z a w ʐ d ɨ
 назаўсёды	n a z a w sʲ ɔ d ɨ
 назахопліваць	n a z a x ɔ p lʲ i v a tsʲ
+назва	n a z v a
 назіральнік	n a zʲ i r a lʲ nʲ i k
 назіраць	n a zʲ i r a tsʲ
 назіркам	n a zʲ i r k a m
@@ -1779,15 +2703,20 @@
 наймальнік	n a j m a lʲ nʲ i k
 найцікавейшы	n a j tsʲ i k a vʲ ɛ j ʂ ɨ
 накаламуціць	n a k a ɫ a m u tsʲ i tsʲ
+наканаваны	n a k a n a v a n ɨ
 накіраваць	n a kʲ i r a v a tsʲ
 накпіць	n a k pʲ i tsʲ
 накрыўка	n a k r ɨ w k a
+належаць	n a lʲ ɛ ʐ a tsʲ
+належны	n a lʲ ɛ ʐ n ɨ
 налупіць	n a ɫ u pʲ i tsʲ
+намаляваць	n a m a lʲ a v a tsʲ
 намеснік	n a mʲ ɛ sʲ nʲ i k
 намітка	n a mʲ i t k a
 нападкрэсліваць	n a p a d k r ɛ sʲ lʲ i v a tsʲ
 напаклёпнічаць	n a p a k lʲ ɔ p nʲ i tʂ a tsʲ
 напаліць	n a p a lʲ i tsʲ
+напалохаць	n a p a ɫ ɔ x a tsʲ
 напамін	n a p a mʲ i n
 напамінак	n a p a mʲ i n a k
 напатылічнік	n a p a t ɨ lʲ i tʂ nʲ i k
@@ -1800,11 +2729,16 @@
 напаўпразрысты	n a p a w p r a z r ɨ s t ɨ
 напаўспелы	n a p a w sʲ pʲ ɛ ɫ ɨ
 напаўхмызняк	n a p a w x m ɨ zʲ nʲ a k
+наперад	n a pʲ ɛ r a d
+наперадзе	n a pʲ ɛ r a dzʲ ɛ
 напералік	n a pʲ ɛ r a lʲ i k
 наперстаўка	n a pʲ ɛ r s t a w k a
 напляміць	n a p lʲ a mʲ i tsʲ
+напоперак	n a p ɔ pʲ ɛ r a k
 напрадвесні	n a p r a d vʲ ɛ sʲ nʲ i
+напрамак	n a p r a m a k
 напрасткі	n a p r a s t kʲ i
+напружыць	n a p r u ʐ ɨ tsʲ
 напышлівы	n a p ɨ ʂ lʲ i v ɨ
 напэўна	n a p ɛ w n a
 напярэдадні	n a pʲ a r ɛ d a d nʲ i
@@ -1813,18 +2747,28 @@
 наравіць	n a r a vʲ i tsʲ
 нарадзіць	n a r a dzʲ i tsʲ
 нараіць	n a r a j i tsʲ
+наракаць	n a r a k a tsʲ
+нарог	n a r ɔ ɣ
 нарыхтоўка	n a r ɨ x t ɔ w k a
+нарэшце	n a r ɛ ʂ tsʲ ɛ
 насваволіць	n a s v a v ɔ lʲ i tsʲ
 насвідраваць	n a sʲ vʲ i d r a v a tsʲ
 насельнік	n a sʲ ɛ lʲ nʲ i k
+насенне	n a sʲ ɛ nʲː ɛ
 наскубці	n a s k u b tsʲ i
 насоўка	n a s ɔ w k a
 настаўнік	n a s t a w nʲ i k
 настойлівы	n a s t ɔ j lʲ i v ɨ
 настольнік	n a s t ɔ lʲ nʲ i k
+настрой	n a s t r ɔ j
 наступнік	n a s t u p nʲ i k
+насуперак	n a s u pʲ ɛ r a k
+насупраць	n a s u p r a tsʲ
 наталіць	n a t a lʲ i tsʲ
+натапырыць	n a t a p ɨ r ɨ tsʲ
+нататка	n a t a t k a
 натоўп	n a t ɔ w p
+натхненне	n a t x nʲ ɛ nʲː ɛ
 натхніцель	n a t x nʲ i tsʲ ɛ lʲ
 натхніць	n a t x nʲ i tsʲ
 наўзбоч	n a w z b ɔ tʂ
@@ -1835,7 +2779,10 @@
 наўрад	n a w r a d
 наўскасяк	n a w s k a sʲ a k
 наўсцяж	n a w sʲ tsʲ a ʐ
+нафта	n a f t a
 нахабнік	n a x a b nʲ i k
+нахабны	n a x a b n ɨ
+нахабства	n a x a b s t v a
 нахіл	n a xʲ i ɫ
 нахіліць	n a xʲ i lʲ i tsʲ
 нацерабіць	n a tsʲ ɛ r a bʲ i tsʲ
@@ -1846,34 +2793,57 @@
 начаўпці	n a tʂ a w p tsʲ i
 нашкліць	n a ʂ k lʲ i tsʲ
 нашкодзіць	n a ʂ k ɔ dzʲ i tsʲ
+нашчадак	n a ʂ tʂ a d a k
 нашыйнік	n a ʂ ɨ j nʲ i k
+нашэсце	n a ʂ ɛ sʲ tsʲ ɛ
 наяўнасць	n a j a w n a sʲ tsʲ
 наяўны	n a j a w n ɨ
+неабавязковы	nʲ ɛ a b a vʲ a z k ɔ v ɨ
 неабачлівы	nʲ ɛ a b a tʂ lʲ i v ɨ
+неабмежаваны	nʲ ɛ a b mʲ ɛ ʐ a v a n ɨ
+неабходны	nʲ ɛ a b x ɔ d n ɨ
+неадкладны	nʲ ɛ a d k ɫ a d n ɨ
+неадукаваны	nʲ ɛ a d u k a v a n ɨ
 неадхільны	nʲ ɛ a d xʲ i lʲ n ɨ
 неажыццявімы	nʲ ɛ a ʐ ɨ tsʲː a vʲ i m ɨ
+неапрацаваны	nʲ ɛ a p r a ts a v a n ɨ
 небасхіл	nʲ ɛ b a s xʲ i ɫ
 небезвыніковы	nʲ ɛ bʲ ɛ z v ɨ nʲ i k ɔ v ɨ
 небеспадстаўны	nʲ ɛ bʲ ɛ s p a d s t a w n ɨ
 неблагі	nʲ ɛ b ɫ a ɣʲ i
+небяспека	nʲ ɛ bʲ a sʲ pʲ ɛ k a
+неверагодны	nʲ ɛ vʲ ɛ r a ɣ ɔ d n ɨ
 невымоўны	nʲ ɛ v ɨ m ɔ w n ɨ
 невынішчальны	nʲ ɛ v ɨ nʲ i ʂ tʂ a lʲ n ɨ
+невядомы	nʲ ɛ vʲ a d ɔ m ɨ
 негасцінны	nʲ ɛ ɣ a sʲ tsʲ i nː ɨ
 недабіткі	nʲ ɛ d a bʲ i t kʲ i
 недаедкі	nʲ ɛ d a j ɛ d kʲ i
 недалічыць	nʲ ɛ d a lʲ i tʂ ɨ tsʲ
 недапрацоўка	nʲ ɛ d a p r a ts ɔ w k a
+недатыкальны	nʲ ɛ d a t ɨ k a lʲ n ɨ
+недахоп	nʲ ɛ d a x ɔ p
 недаціснуць	nʲ ɛ d a tsʲ i s n u tsʲ
+незалежны	nʲ ɛ z a lʲ ɛ ʐ n ɨ
+незаплямлены	nʲ ɛ z a p lʲ a m lʲ ɛ n ɨ
+незвычайны	nʲ ɛ z v ɨ tʂ a j n ɨ
 незлічоны	nʲ ɛ zʲ lʲ i tʂ ɔ n ɨ
 нейкі	nʲ ɛ j kʲ i
+неймаверны	nʲ ɛ j m a vʲ ɛ r n ɨ
 немаўля	nʲ ɛ m a w lʲ a
 непахісны	nʲ ɛ p a xʲ i s n ɨ
+непрытомны	nʲ ɛ p r ɨ t ɔ m n ɨ
 несамавіты	nʲ ɛ s a m a vʲ i t ɨ
+неспадзяваны	nʲ ɛ s p a dzʲ a v a n ɨ
+неспакой	nʲ ɛ s p a k ɔ j
+нетры	nʲ ɛ t r ɨ
 неўзабаве	nʲ ɛ w z a b a vʲ ɛ
 неўласцівы	nʲ ɛ w ɫ a sʲ tsʲ i v ɨ
 неўміручы	nʲ ɛ w mʲ i r u tʂ ɨ
 неўрадлівы	nʲ ɛ w r a d lʲ i v ɨ
 неўсталяваны	nʲ ɛ w s t a lʲ a v a n ɨ
+нехлямяжы	nʲ ɛ x lʲ a mʲ a ʐ ɨ
+нечаканы	nʲ ɛ tʂ a k a n ɨ
 нібы	nʲ i b ɨ
 нізкаякасны	nʲ i z k a j a k a s n ɨ
 ніколі	nʲ i k ɔ lʲ i
@@ -1881,8 +2851,24 @@
 нішчымны	nʲ i ʂ tʂ ɨ m n ɨ
 ніякавець	nʲ i j a k a vʲ ɛ tsʲ
 носьбіт	n ɔ sʲ bʲ i t
+нуда	n u d a
+нудны	n u d n ɨ
+нырка	n ɨ r k a
+нэндза	n ɛ n dz a
+нюх	nʲ u x
+нябожчык	nʲ a b ɔ ʐ tʂ ɨ k
+нябыт	nʲ a b ɨ t
+нявечыць	nʲ a vʲ ɛ tʂ ɨ tsʲ
+нядбайны	nʲ a d b a j n ɨ
+нядзеля	nʲ a dzʲ ɛ lʲ a
+няёмкасць	nʲ a j ɔ m k a sʲ tsʲ
+нязграбны	nʲ a z ɣ r a b n ɨ
+нязломны	nʲ a z ɫ ɔ m n ɨ
+нязручны	nʲ a z r u tʂ n ɨ
 някемлівы	nʲ a kʲ ɛ m lʲ i v ɨ
 няпэўны	nʲ a p ɛ w n ɨ
+няспынны	nʲ a s p ɨ nː ɨ
+нястомны	nʲ a s t ɔ m n ɨ
 нястраўнасць	nʲ a s t r a w n a sʲ tsʲ
 нястрогі	nʲ a s t r ɔ ɣʲ i
 нясціплы	nʲ a sʲ tsʲ i p ɫ ɨ
@@ -1913,18 +2899,29 @@
 паашалёўваць	p a a ʂ a lʲ ɔ w v a tsʲ
 паблажлівы	p a b ɫ a ʐ lʲ i v ɨ
 паблакітнець	p a b ɫ a kʲ i t nʲ ɛ tsʲ
+пабочны	p a b ɔ tʂ n ɨ
 пабрудзіць	p a b r u dzʲ i tsʲ
+пабудова	p a b u d ɔ v a
+павага	p a v a ɣ a
+паважаць	p a v a ʐ a tsʲ
 павалтузіць	p a v a ɫ t u zʲ i tsʲ
 паваротлівы	p a v a r ɔ t lʲ i v ɨ
 паведаміць	p a vʲ ɛ d a mʲ i tsʲ
 павелічальнік	p a vʲ ɛ lʲ i tʂ a lʲ nʲ i k
+паверх	p a vʲ ɛ r x
+паверхня	p a vʲ ɛ r x nʲ a
+паветра	p a vʲ ɛ t r a
 павеў	p a vʲ ɛ w
 павільгатнець	p a vʲ i lʲ ɣ a t nʲ ɛ tsʲ
 павінен	p a vʲ i nʲ ɛ n
 павіншаваць	p a vʲ i n ʂ a v a tsʲ
 павітацца	p a vʲ i t a tsː a
 павітаць	p a vʲ i t a tsʲ
+паводка	p a v ɔ d k a
+паводле	p a v ɔ d lʲ ɛ
 паволі	p a v ɔ lʲ i
+павольны	p a v ɔ lʲ n ɨ
+павучальны	p a v u tʂ a lʲ n ɨ
 павыгадоўваць	p a v ɨ ɣ a d ɔ w v a tsʲ
 павыдаткоўваць	p a v ɨ d a t k ɔ w v a tsʲ
 павыкрэсліваць	p a v ɨ k r ɛ sʲ lʲ i v a tsʲ
@@ -1942,11 +2939,15 @@
 пагадзінны	p a ɣ a dzʲ i nː ɨ
 пагадзіцца	p a ɣ a dzʲ i tsː a
 пагадзіць	p a ɣ a dzʲ i tsʲ
+пагадненне	p a ɣ a d nʲ ɛ nʲː ɛ
 пагаіцца	p a ɣ a j i tsː a
 пагаіць	p a ɣ a j i tsʲ
 пагаласіць	p a ɣ a ɫ a sʲ i tsʲ
 пагаліцца	p a ɣ a lʲ i tsː a
+пагалоска	p a ɣ a ɫ ɔ s k a
+пагарджаць	p a ɣ a r d ʐ a tsʲ
 пагардлівы	p a ɣ a r d lʲ i v ɨ
+пагаршаць	p a ɣ a r ʂ a tsʲ
 пагарэзіць	p a ɣ a r ɛ zʲ i tsʲ
 пагарэзнічаць	p a ɣ a r ɛ zʲ nʲ i tʂ a tsʲ
 пагатоў	p a ɣ a t ɔ w
@@ -1954,16 +2955,27 @@
 паглуміцца	p a ɣ ɫ u mʲ i tsː a
 паглыбіць	p a ɣ ɫ ɨ bʲ i tsʲ
 паглынальнік	p a ɣ ɫ ɨ n a lʲ nʲ i k
+паглядзець	p a ɣ lʲ a dzʲ ɛ tsʲ
 пагодлівы	p a ɣ ɔ d lʲ i v ɨ
+пагорак	p a ɣ ɔ r a k
+пагроза	p a ɣ r ɔ z a
+падабацца	p a d a b a tsː a
+падабенства	p a d a bʲ ɛ n s t v a
 падагуліць	p a d a ɣ u lʲ i tsʲ
 падагульніць	p a d a ɣ u lʲ nʲ i tsʲ
 падакідваць	p a d a kʲ i d v a tsʲ
 падалешнік	p a d a lʲ ɛ ʂ nʲ i k
+паданне	p a d a nʲː ɛ
+падараваць	p a d a r a v a tsʲ
+падарожжа	p a d a r ɔ ʐ ʐ a
 падарожнік	p a d a r ɔ ʐ nʲ i k
+падарунак	p a d a r u n a k
+падатак	p a d a t a k
 падаўжэць	p a d a w ʐ ɛ tsʲ
 падахвоціць	p a d a x v ɔ tsʲ i tsʲ
 падвабіць	p a d v a bʲ i tsʲ
 падваліна	p a d v a lʲ i n a
+падвей	p a d vʲ ɛ j
 падвоіць	p a d v ɔ j i tsʲ
 падворыўны	p a d v ɔ r ɨ w n ɨ
 падвэндзіць	p a d v ɛ n dzʲ i tsʲ
@@ -1972,13 +2984,17 @@
 падгалісты	p a d ɣ a lʲ i s t ɨ
 падгаліць	p a d ɣ a lʲ i tsʲ
 падгалоўе	p a d ɣ a ɫ ɔ w j ɛ
+паддашак	p a d d a ʂ a k
 паддзяўбці	p a dzʲː a w b tsʲ i
 паддубовік	p a d d u b ɔ vʲ i k
 паджаўціць	p a d ʐ a w tsʲ i tsʲ
 падзарабіць	p a dz a r a bʲ i tsʲ
 падзейнічаць	p a dzʲ ɛ j nʲ i tʂ a tsʲ
+падзел	p a dzʲ ɛ ɫ
+падзея	p a dzʲ ɛ j a
 падзіравіць	p a dzʲ i r a vʲ i tsʲ
 падзічэць	p a dzʲ i tʂ ɛ tsʲ
+падзяка	p a dzʲ a k a
 падзяўбці	p a dzʲ a w b tsʲ i
 падкалаціць	p a d k a ɫ a tsʲ i tsʲ
 падкалупіць	p a d k a ɫ u pʲ i tsʲ
@@ -1993,22 +3009,33 @@
 падліковец	p a d lʲ i k ɔ vʲ ɛ ts
 падліковы	p a d lʲ i k ɔ v ɨ
 падлічыць	p a d lʲ i tʂ ɨ tsʲ
+падлога	p a d ɫ ɔ ɣ a
 падлоўчы	p a d ɫ ɔ w tʂ ɨ
 падлюстэрнік	p a d lʲ u s t ɛ r nʲ i k
 падлямоўка	p a d lʲ a m ɔ w k a
+падмурак	p a d m u r a k
 падмуроўка	p a d m u r ɔ w k a
 падмянціць	p a d mʲ a n tsʲ i tsʲ
 паднаціснуць	p a d n a tsʲ i s n u tsʲ
+падначалены	p a d n a tʂ a lʲ ɛ n ɨ
 падначаліць	p a d n a tʂ a lʲ i tsʲ
+паднябенне	p a d nʲ a bʲ ɛ nʲː ɛ
+падобны	p a d ɔ b n ɨ
 падоўжны	p a d ɔ w ʐ n ɨ
 падоўжыць	p a d ɔ w ʐ ɨ tsʲ
 падпаліць	p a d p a lʲ i tsʲ
+падпарадкавацца	p a d p a r a d k a v a tsː a
+падпарадкаваць	p a d p a r a d k a v a tsʲ
+падпаха	p a d p a x a
 падпільнаваць	p a d pʲ i lʲ n a v a tsʲ
 падрабіць	p a d r a bʲ i tsʲ
 падрабніць	p a d r a b nʲ i tsʲ
 падрадкоўнік	p a d r a d k ɔ w nʲ i k
+падрапаць	p a d r a p a tsʲ
 па-драпежніцку	p a - d r a pʲ ɛ ʐ nʲ i ts k u
+падробка	p a d r ɔ b k a
 падручнік	p a d r u tʂ nʲ i k
+падрыхтаваць	p a d r ɨ x t a v a tsʲ
 падрыхтоўка	p a d r ɨ x t ɔ w k a
 падрыхтоўчы	p a d r ɨ x t ɔ w tʂ ɨ
 падсаладзіць	p a d s a ɫ a dzʲ i tsʲ
@@ -2018,10 +3045,14 @@
 падсківічны	p a d s kʲ i vʲ i tʂ n ɨ
 падскрэбці	p a d s k r ɛ b tsʲ i
 падскубці	p a d s k u b tsʲ i
+падсмажыць	p a d s m a ʐ ɨ tsʲ
 падсмаліць	p a d s m a lʲ i tsʲ
+падстава	p a d s t a v a
 падстраўнікавы	p a d s t r a w nʲ i k a v ɨ
 падстрэшнік	p a d s t r ɛ ʂ nʲ i k
 падтаўчы	p a d t a w tʂ ɨ
+падтрымаць	p a d t r ɨ m a tsʲ
+падтрымка	p a d t r ɨ m k a
 падтрэсці	p a d t r ɛ sʲ tsʲ i
 падтуліць	p a d t u lʲ i tsʲ
 падтыннік	p a d t ɨ nʲː i k
@@ -2045,6 +3076,7 @@
 пажлукціць	p a ʐ ɫ u k tsʲ i tsʲ
 пажоўкнуць	p a ʐ ɔ w k n u tsʲ
 пажыўны	p a ʐ ɨ w n ɨ
+па-за	p a - z a
 пазабаўляць	p a z a b a w lʲ a tsʲ
 пазабрукоўваць	p a z a b r u k ɔ w v a tsʲ
 пазабудоўваць	p a z a b u d ɔ w v a tsʲ
@@ -2086,12 +3118,15 @@
 пазніцца	p a zʲ nʲ i tsː a
 пазнішчаць	p a zʲ nʲ i ʂ tʂ a tsʲ
 пазногаць	p a z n ɔ ɣ a tsʲ
+пазыка	p a z ɨ k a
 пазычальнік	p a z ɨ tʂ a lʲ nʲ i k
 пазычыць	p a z ɨ tʂ ɨ tsʲ
+пазяхаць	p a zʲ a x a tsʲ
 паімжэць	p a j i m ʐ ɛ tsʲ
 паімшыць	p a j i m ʂ ɨ tsʲ
 пакаёўка	p a k a j ɔ w k a
 паказальны	p a k a z a lʲ n ɨ
+паказчык	p a k a z tʂ ɨ k
 пакаламуціць	p a k a ɫ a m u tsʲ i tsʲ
 пакалаціць	p a k a ɫ a tsʲ i tsʲ
 пакалашмаціць	p a k a ɫ a ʂ m a tsʲ i tsʲ
@@ -2099,6 +3134,7 @@
 пакамячыць	p a k a mʲ a tʂ ɨ tsʲ
 пакараць	p a k a r a tsʲ
 пакарыстацца	p a k a r ɨ s t a tsː a
+пакахаць	p a k a x a tsʲ
 пакаштаваць	p a k a ʂ t a v a tsʲ
 паквапіцца	p a k v a pʲ i tsː a
 пакідзішча	p a kʲ i dzʲ i ʂ tʂ a
@@ -2109,6 +3145,7 @@
 паклёпнік	p a k lʲ ɔ p nʲ i k
 паклёпнічаць	p a k lʲ ɔ p nʲ i tʂ a tsʲ
 паклікаць	p a k lʲ i k a tsʲ
+пакой	p a k ɔ j
 пакора	p a k ɔ r a
 пакорлівы	p a k ɔ r lʲ i v ɨ
 пакоўзацца	p a k ɔ w z a tsː a
@@ -2117,14 +3154,21 @@
 пакрасавацца	p a k r a s a v a tsː a
 пакратацца	p a k r a t a tsː a
 пакратаць	p a k r a t a tsʲ
+пакручасты	p a k r u tʂ a s t ɨ
 пакрывец	p a k r ɨ vʲ ɛ ts
+пакрысе	p a k r ɨ sʲ ɛ
 пакрыўдаваць	p a k r ɨ w d a v a tsʲ
 пакрыўдзіць	p a k r ɨ w dzʲ i tsʲ
+пакрыху	p a k r ɨ x u
 пакрэсліць	p a k r ɛ sʲ lʲ i tsʲ
 пакудлаціць	p a k u d ɫ a tsʲ i tsʲ
 пакудлачыць	p a k u d ɫ a tʂ ɨ tsʲ
+пакулле	p a k u lʲ lʲ ʲ ɛ
+пакуль	p a k u lʲ
 пакупнік	p a k u p nʲ i k
 пакуродыміць	p a k u r ɔ d ɨ mʲ i tsʲ
+пакута	p a k u t a
+пакутаваць	p a k u t a v a tsʲ
 пакутнік	p a k u t nʲ i k
 пал	p a ɫ
 палавініць	p a ɫ a vʲ i nʲ i tsʲ
@@ -2136,6 +3180,8 @@
 палашчыць	p a ɫ a ʂ tʂ ɨ tsʲ
 палаяцца	p a ɫ a j a tsː a
 палаяць	p a ɫ a j a tsʲ
+палепшыць	p a lʲ ɛ p ʂ ɨ tsʲ
+палетак	p a lʲ ɛ t a k
 палетуценіць	p a lʲ ɛ t u tsʲ ɛ nʲ i tsʲ
 палетуцець	p a lʲ ɛ t u tsʲ ɛ tsʲ
 палец	p a lʲ ɛ ts
@@ -2147,12 +3193,19 @@
 паліца	p a lʲ i ts a
 паліць	p a lʲ i tsʲ
 палічыць	p a lʲ i tʂ ɨ tsʲ
+палова	p a ɫ ɔ v a
 палон	p a ɫ ɔ n
 палонка	p a ɫ ɔ n k a
+палохаць	p a ɫ ɔ x a tsʲ
 палуднаваць	p a ɫ u d n a v a tsʲ
 палунаць	p a ɫ u n a tsʲ
 палупцаваць	p a ɫ u p ts a v a tsʲ
+палымнець	p a ɫ ɨ m nʲ ɛ tsʲ
+палымяны	p a ɫ ɨ mʲ a n ɨ
+пальчатка	p a lʲ tʂ a t k a
 палюляць	p a lʲ u lʲ a tsʲ
+паляванне	p a lʲ a v a nʲː ɛ
+паляваць	p a lʲ a v a tsʲ
 палягчаць	p a lʲ a ɣ tʂ a tsʲ
 паляпшаць	p a lʲ a p ʂ a tsʲ
 паляскаць	p a lʲ a s k a tsʲ
@@ -2172,6 +3225,7 @@
 памацаць	p a m a ts a tsʲ
 памацнець	p a m a tsʲ nʲ ɛ tsʲ
 памацніць	p a m a tsʲ nʲ i tsʲ
+памер	p a mʲ ɛ r
 памеркаваць	p a mʲ ɛ r k a v a tsʲ
 памерлы	p a mʲ ɛ r ɫ ɨ
 памігацець	p a mʲ i ɣ a tsʲ ɛ tsʲ
@@ -2183,15 +3237,18 @@
 памужнець	p a m u ʐ nʲ ɛ tsʲ
 памуляць	p a m u lʲ a tsʲ
 памыліцца	p a m ɨ lʲ i tsː a
+памылка	p a m ɨ ɫ k a
 памысны	p a m ɨ s n ɨ
 памякчыць	p a mʲ a k tʂ ɨ tsʲ
 памяншальнік	p a mʲ a n ʂ a lʲ nʲ i k
 памяркоўны	p a mʲ a r k ɔ w n ɨ
 памяць	p a mʲ a tsʲ
 пан	p a n
+панаваць	p a n a v a tsʲ
 панавець	p a n a vʲ ɛ tsʲ
 панагадоўваць	p a n a ɣ a d ɔ w v a tsʲ
 панаглядаць	p a n a ɣ lʲ a d a tsʲ
+панадны	p a n a d n ɨ
 паназіраць	p a n a zʲ i r a tsʲ
 панаксаміт	p a n a k s a mʲ i t
 панамульваць	p a n a m u lʲ v a tsʲ
@@ -2207,7 +3264,11 @@
 панатапырваць	p a n a t a p ɨ r v a tsʲ
 панафарбоўваць	p a n a f a r b ɔ w v a tsʲ
 паніжэць	p a nʲ i ʐ ɛ tsʲ
+пануры	p a n u r ɨ
 панурысты	p a n u r ɨ s t ɨ
+панчоха	p a n tʂ ɔ x a
+паншчына	p a n ʂ tʂ ɨ n a
+панядзелак	p a nʲ a dzʲ ɛ ɫ a k
 пападарожнічаць	p a p a d a r ɔ ʐ nʲ i tʂ a tsʲ
 пападзьмухаць	p a p a d zʲ m u x a tsʲ
 пападкасваць	p a p a d k a s v a tsʲ
@@ -2222,6 +3283,7 @@
 папаліць	p a p a lʲ i tsʲ
 папалохаць	p a p a ɫ ɔ x a tsʲ
 папамаляваць	p a p a m a lʲ a v a tsʲ
+папараць	p a p a r a tsʲ
 папастраляць	p a p a s t r a lʲ a tsʲ
 папаўдні	p a p a w d nʲ i
 папахадзіць	p a p a x a dzʲ i tsʲ
@@ -2230,10 +3292,13 @@
 папацягаць	p a p a tsʲ a ɣ a tsʲ
 папачакаць	p a p a tʂ a k a tsʲ
 папашараваць	p a p a ʂ a r a v a tsʲ
+папера	p a pʲ ɛ r a
 паперавыконваць	p a pʲ ɛ r a v ɨ k ɔ n v a tsʲ
+паперадзе	p a pʲ ɛ r a dzʲ ɛ
 паперакульваць	p a pʲ ɛ r a k u lʲ v a tsʲ
 папераніцоўваць	p a pʲ ɛ r a nʲ i ts ɔ w v a tsʲ
 паперапальваць	p a pʲ ɛ r a p a lʲ v a tsʲ
+па-першае	p a - pʲ ɛ r ʂ a j ɛ
 папесціць	p a pʲ ɛ sʲ tsʲ i tsʲ
 папілаваць	p a pʲ i ɫ a v a tsʲ
 папільнаваць	p a pʲ i lʲ n a v a tsʲ
@@ -2249,6 +3314,7 @@
 папрасаваць	p a p r a s a v a tsʲ
 папрасвідроўваць	p a p r a sʲ vʲ i d r ɔ w v a tsʲ
 папрацаваць	p a p r a ts a v a tsʲ
+папруга	p a p r u ɣ a
 папрыбудоўваць	p a p r ɨ b u d ɔ w v a tsʲ
 папрыгажэць	p a p r ɨ ɣ a ʐ ɛ tsʲ
 папрыкручваць	p a p r ɨ k r u tʂ v a tsʲ
@@ -2256,6 +3322,7 @@
 папрысутнічаць	p a p r ɨ s u t nʲ i tʂ a tsʲ
 папрыточваць	p a p r ɨ t ɔ tʂ v a tsʲ
 папрытульваць	p a p r ɨ t u lʲ v a tsʲ
+папсаваць	p a p s a v a tsʲ
 папудзіць	p a p u dzʲ i tsʲ
 папулярны	p a p u lʲ a r n ɨ
 папырскаць	p a p ɨ r s k a tsʲ
@@ -2263,14 +3330,13 @@
 папэцкаць	p a p ɛ ts k a tsʲ
 папялісты	p a pʲ a lʲ i s t ɨ
 папяліць	p a pʲ a lʲ i tsʲ
+папярочка	p a pʲ a r ɔ tʂ k a
 папярэджанне	p a pʲ a r ɛ d ʐ a nʲː ɛ
 папярэдзіць	p a pʲ a r ɛ dzʲ i tsʲ
 папярэдні	p a pʲ a r ɛ d nʲ i
 папярэднік	p a pʲ a r ɛ d nʲ i k
 папярэднічаць	p a pʲ a r ɛ d nʲ i tʂ a tsʲ
 папячы	p a pʲ a tʂ ɨ
-пара	p a r a
-пара	p a r a
 пара	p a r a
 парабаваць	p a r a b a v a tsʲ
 парабіць	p a r a bʲ i tsʲ
@@ -2286,31 +3352,37 @@
 параздзімаць	p a r a z dzʲ i m a tsʲ
 паразмалёўваць	p a r a z m a lʲ ɔ w v a tsʲ
 паразмаўляць	p a r a z m a w lʲ a tsʲ
+паразумецца	p a r a z u mʲ ɛ tsː a
 параіцца	p a r a j i tsː a
 параіць	p a r a j i tsʲ
 парамантаваць	p a r a m a n t a v a tsʲ
 параніцца	p a r a nʲ i tsː a
 парасіцца	p a r a sʲ i tsː a
 параскалупваць	p a r a s k a ɫ u p v a tsʲ
+парасон	p a r a s ɔ n
 парасоністы	p a r a s ɔ nʲ i s t ɨ
 парасплюхваць	p a r a s p lʲ u x v a tsʲ
 параспранаць	p a r a s p r a n a tsʲ
 параспуджваць	p a r a s p u d ʐ v a tsʲ
 парассоўваць	p a r a s s ɔ w v a tsʲ
 парассяляць	p a r a sʲː a lʲ a tsʲ
+парастак	p a r a s t a k
 параструшчваць	p a r a s t r u ʂ tʂ v a tsʲ
 парасхінаць	p a r a s xʲ i n a tsʲ
 парасцярушваць	p a r a sʲ tsʲ a r u ʂ v a tsʲ
 парасцярэбліваць	p a r a sʲ tsʲ a r ɛ b lʲ i v a tsʲ
 парасчыняць	p a r a s tʂ ɨ nʲ a tsʲ
 парасшморгваць	p a r a s ʂ m ɔ r ɣ v a tsʲ
+паратунак	p a r a t u n a k
 параўнанне	p a r a w n a nʲː ɛ
 параўнаць	p a r a w n a tsʲ
 парахаваць	p a r a x a v a tsʲ
 парахманець	p a r a x m a nʲ ɛ tsʲ
+паркаль	p a r k a lʲ
 паркан	p a r k a n
 парнасць	p a r n a sʲ tsʲ
 парода	p a r ɔ d a
+парсюк	p a r sʲ u k
 партрэт	p a r t r ɛ t
 партфель	p a r t fʲ ɛ lʲ
 партыя	p a r t ɨ j a
@@ -2322,19 +3394,28 @@
 парушаць	p a r u ʂ a tsʲ
 парушынка	p a r u ʂ ɨ n k a
 парушыць	p a r u ʂ ɨ tsʲ
+парфума	p a r f u m a
 парцаляна	p a r ts a lʲ a n a
 парэнчы	p a r ɛ n tʂ ɨ
 парэчкі	p a r ɛ tʂ kʲ i
 парэчнік	p a r ɛ tʂ nʲ i k
+пас	p a s
+пасаг	p a s a ɣ
+пасад	p a s a d
+пасада	p a s a d a
+пасак	p a s a k
 пасаскрабаць	p a s a s k r a b a tsʲ
 пасачыць	p a s a tʂ ɨ tsʲ
 пасашморгваць	p a s a ʂ m ɔ r ɣ v a tsʲ
 пасашпільваць	p a s a ʂ pʲ i lʲ v a tsʲ
 пасваволіць	p a s v a v ɔ lʲ i tsʲ
 пасварыць	p a s v a r ɨ tsʲ
+пасведчанне	p a sʲ vʲ ɛ tʂː a nʲː ɛ
+пасведчыць	p a sʲ vʲ ɛ tʂː ɨ tsʲ
 пасвідраваць	p a sʲ vʲ i d r a v a tsʲ
 пасвіць	p a sʲ vʲ i tsʲ
 пасвярбець	p a sʲ vʲ a r bʲ ɛ tsʲ
+пасека	p a sʲ ɛ k a
 паселішча	p a sʲ ɛ lʲ i ʂ tʂ a
 пасівераць	p a sʲ i vʲ ɛ r a tsʲ
 пасівець	p a sʲ i vʲ ɛ tsʲ
@@ -2345,6 +3426,7 @@
 паскрэбці	p a s k r ɛ b tsʲ i
 паскубці	p a s k u b tsʲ i
 паслізнуцца	p a sʲ lʲ i z n u tsː a
+паслуга	p a s ɫ u ɣ a
 паслухмяны	p a s ɫ u x mʲ a n ɨ
 паслядоўнік	p a sʲ lʲ a d ɔ w nʲ i k
 паслядоўны	p a sʲ lʲ a d ɔ w n ɨ
@@ -2359,6 +3441,7 @@
 паспагадаць	p a s p a ɣ a d a tsʲ
 паспадзявацца	p a s p a dzʲ a v a tsː a
 паспачуваць	p a s p a tʂ u v a tsʲ
+паспець	p a sʲ pʲ ɛ tsʲ
 паспешлівы	p a sʲ pʲ ɛ ʂ lʲ i v ɨ
 паспілоўваць	p a sʲ pʲ i ɫ ɔ w v a tsʲ
 паспрачацца	p a s p r a tʂ a tsː a
@@ -2373,8 +3456,12 @@
 пассыпаць	p a s s ɨ p a tsʲ
 пассядацца	p a sʲː a d a tsː a
 пастава	p a s t a v a
+пасталець	p a s t a lʲ ɛ tsʲ
+пастанова	p a s t a n ɔ v a
 па-старадаўняму	p a - s t a r a d a w nʲ a m u
+пастка	p a s t k a
 пастоптваць	p a s t ɔ p t v a tsʲ
+паступовы	p a s t u p ɔ v ɨ
 пастух	p a s t u x
 пасумаваць	p a s u m a v a tsʲ
 пасунуць	p a s u n u tsʲ
@@ -2387,14 +3474,21 @@
 пасябраваць	p a sʲ a b r a v a tsʲ
 па-сяброўску	p a - sʲ a b r ɔ w s k u
 пасяджэнне	p a sʲ a d ʐ ɛ nʲː ɛ
+пасярод	p a sʲ a r ɔ d
 пасярэдзіне	p a sʲ a r ɛ dzʲ i nʲ ɛ
 патанчэць	p a t a n tʂ ɛ tsʲ
 патоля	p a t ɔ lʲ a
+патрабавальны	p a t r a b a v a lʲ n ɨ
+патрабаванне	p a t r a b a v a nʲː ɛ
+патрабаваць	p a t r a b a v a tsʲ
 патрапіць	p a t r a pʲ i tsʲ
 патроіць	p a t r ɔ j i tsʲ
+патроху	p a t r ɔ x u
+патрушчыць	p a t r u ʂ tʂ ɨ tsʲ
 патрываць	p a t r ɨ v a tsʲ
 патрызніць	p a t r ɨ zʲ nʲ i tsʲ
 патрымаць	p a t r ɨ m a tsʲ
+патрэба	p a t r ɛ b a
 патужэць	p a t u ʐ ɛ tsʲ
 патузаць	p a t u z a tsʲ
 патуральнік	p a t u r a lʲ nʲ i k
@@ -2402,6 +3496,7 @@
 патурбаваць	p a t u r b a v a tsʲ
 патыліца	p a t ɨ lʲ i ts a
 патынкаваць	p a t ɨ n k a v a tsʲ
+патэльня	p a t ɛ lʲ nʲ a
 паўабарона	p a w a b a r ɔ n a
 паўабаронца	p a w a b a r ɔ n ts a
 паўаксаміт	p a w a k s a mʲ i t
@@ -2469,7 +3564,9 @@
 паўшоры	p a w ʂ ɔ r ɨ
 паўшчуваць	p a w ʂ tʂ u v a tsʲ
 пафарбаваць	p a f a r b a v a tsʲ
+пах	p a x
 паха	p a x a
+пахаваць	p a x a v a tsʲ
 пахадайнічаць	p a x a d a j nʲ i tʂ a tsʲ
 пахапаць	p a x a p a tsʲ
 пахарчаваць	p a x a r tʂ a v a tsʲ
@@ -2478,7 +3575,10 @@
 пахіласць	p a xʲ i ɫ a sʲ tsʲ
 пахіліць	p a xʲ i lʲ i tsʲ
 пахіснуць	p a xʲ i s n u tsʲ
+пахмурны	p a x m u r n ɨ
+паходжанне	p a x ɔ d ʐ a nʲː ɛ
 паходзіць	p a x ɔ dzʲ i tsʲ
+паходня	p a x ɔ d nʲ a
 пахрысціць	p a x r ɨ sʲ tsʲ i tsʲ
 пацалаваць	p a ts a ɫ a v a tsʲ
 пацалунак	p a ts a ɫ u n a k
@@ -2494,23 +3594,34 @@
 паціснуць	p a tsʲ i s n u tsʲ
 паціху	p a tsʲ i x u
 пацішэць	p a tsʲ i ʂ ɛ tsʲ
+пацук	p a ts u k
 пацукалоў	p a ts u k a ɫ ɔ w
 пацэліць	p a ts ɛ lʲ i tsʲ
 пацягаць	p a tsʲ a ɣ a tsʲ
 пацяробкі	p a tsʲ a r ɔ b kʲ i
 пацяруха	p a tsʲ a r u x a
 пацясніць	p a tsʲ a sʲ nʲ i tsʲ
+пачак	p a tʂ a k
 пачакаць	p a tʂ a k a tsʲ
 па-чартоўску	p a - tʂ a r t ɔ w s k u
 пачаставаць	p a tʂ a s t a v a tsʲ
 пачастунак	p a tʂ a s t u n a k
+пачатак	p a tʂ a t a k
+пачатковец	p a tʂ a t k ɔ vʲ ɛ ts
+пачаць	p a tʂ a tsʲ
+пачвара	p a tʂ v a r a
+пачварны	p a tʂ v a r n ɨ
 пачухаць	p a tʂ u x a tsʲ
+пачуццё	p a tʂ u tsʲː ɔ
 пачуць	p a tʂ u tsʲ
 пачцівасць	p a tʂ tsʲ i v a sʲ tsʲ
 пачынальнік	p a tʂ ɨ n a lʲ nʲ i k
+пачырванець	p a tʂ ɨ r v a nʲ ɛ tsʲ
 пачэзнуць	p a tʂ ɛ z n u tsʲ
+паша	p a ʂ a
 пашалець	p a ʂ a lʲ ɛ tsʲ
 пашаляваць	p a ʂ a lʲ a v a tsʲ
+пашана	p a ʂ a n a
 пашанаваць	p a ʂ a n a v a tsʲ
 пашанцаваць	p a ʂ a n ts a v a tsʲ
 пашараваць	p a ʂ a r a v a tsʲ
@@ -2518,18 +3629,23 @@
 пашастаць	p a ʂ a s t a tsʲ
 пашатраваць	p a ʂ a t r a v a tsʲ
 пашвэндацца	p a ʂ v ɛ n d a tsː a
+пашкадаваць	p a ʂ k a d a v a tsʲ
 пашкліць	p a ʂ k lʲ i tsʲ
 пашкодзіць	p a ʂ k ɔ dzʲ i tsʲ
 пашкрабаць	p a ʂ k r a b a tsʲ
 пашлындаць	p a ʂ ɫ ɨ n d a tsʲ
 пашмараваць	p a ʂ m a r a v a tsʲ
+пашпарт	p a ʂ p a r t
 пашпацыраваць	p a ʂ p a ts ɨ r a v a tsʲ
 паштовы	p a ʂ t ɔ v ɨ
 паштоўка	p a ʂ t ɔ w k a
 паштурхаць	p a ʂ t u r x a tsʲ
+пашча	p a ʂ tʂ a
 пашырыць	p a ʂ ɨ r ɨ tsʲ
 паэт	p a ɛ t
 паэтычны	p a ɛ t ɨ tʂ n ɨ
+певень	pʲ ɛ vʲ ɛ nʲ
+пекла	pʲ ɛ k ɫ a
 пераабсталяваць	pʲ ɛ r a a b s t a lʲ a v a tsʲ
 пераагляд	pʲ ɛ r a a ɣ lʲ a d
 пераараць	pʲ ɛ r a a r a tsʲ
@@ -2544,6 +3660,8 @@
 перабудаваць	pʲ ɛ r a b u d a v a tsʲ
 перабудова	pʲ ɛ r a b u d ɔ v a
 перавабіць	pʲ ɛ r a v a bʲ i tsʲ
+перавага	pʲ ɛ r a v a ɣ a
+пераважны	pʲ ɛ r a v a ʐ n ɨ
 пераважыць	pʲ ɛ r a v a ʐ ɨ tsʲ
 перавандраваць	pʲ ɛ r a v a n d r a v a tsʲ
 пераветрыць	pʲ ɛ r a vʲ ɛ t r ɨ tsʲ
@@ -2575,6 +3693,7 @@
 перадрук	pʲ ɛ r a d r u k
 перадрукаваць	pʲ ɛ r a d r u k a v a tsʲ
 перадсвяточны	pʲ ɛ r a d sʲ vʲ a t ɔ tʂ n ɨ
+перадумова	pʲ ɛ r a d u m ɔ v a
 пераемнасць	pʲ ɛ r a j ɛ m n a sʲ tsʲ
 перажлукціць	pʲ ɛ r a ʐ ɫ u k tsʲ i tsʲ
 перазнаёміць	pʲ ɛ r a z n a j ɔ mʲ i tsʲ
@@ -2582,6 +3701,8 @@
 пераймальны	pʲ ɛ r a j m a lʲ n ɨ
 перакалаціць	pʲ ɛ r a k a ɫ a tsʲ i tsʲ
 перакамячыць	pʲ ɛ r a k a mʲ a tʂ ɨ tsʲ
+перакананне	pʲ ɛ r a k a n a nʲː ɛ
+пераканаць	pʲ ɛ r a k a n a tsʲ
 перакарабаціцца	pʲ ɛ r a k a r a b a tsʲ i tsː a
 перакасаваць	pʲ ɛ r a k a s a v a tsʲ
 перакаштаваць	pʲ ɛ r a k a ʂ t a v a tsʲ
@@ -2597,6 +3718,7 @@
 пералупцаваць	pʲ ɛ r a ɫ u p ts a v a tsʲ
 перамагчы	pʲ ɛ r a m a ɣ tʂ ɨ
 перамалёўка	pʲ ɛ r a m a lʲ ɔ w k a
+перамога	pʲ ɛ r a m ɔ ɣ a
 пераможца	pʲ ɛ r a m ɔ ʐ ts a
 пераніцаваць	pʲ ɛ r a nʲ i ts a v a tsʲ
 пераноссе	pʲ ɛ r a n ɔ sʲː ɛ
@@ -2607,6 +3729,7 @@
 перапампаваць	pʲ ɛ r a p a m p a v a tsʲ
 перапечка	pʲ ɛ r a pʲ ɛ tʂ k a
 перапёлачнік	pʲ ɛ r a pʲ ɔ ɫ a tʂ nʲ i k
+перапёлка	pʲ ɛ r a pʲ ɔ ɫ k a
 перапіс	pʲ ɛ r a pʲ i s
 пераплот	pʲ ɛ r a p ɫ ɔ t
 пераплысці	pʲ ɛ r a p ɫ ɨ sʲ tsʲ i
@@ -2619,6 +3742,7 @@
 перапрэгчы	pʲ ɛ r a p r ɛ ɣ tʂ ɨ
 перапудзіць	pʲ ɛ r a p u dzʲ i tsʲ
 перапужаць	pʲ ɛ r a p u ʐ a tsʲ
+перапынак	pʲ ɛ r a p ɨ n a k
 перапыніць	pʲ ɛ r a p ɨ nʲ i tsʲ
 перапытаць	pʲ ɛ r a p ɨ t a tsʲ
 перарабіць	pʲ ɛ r a r a bʲ i tsʲ
@@ -2636,6 +3760,7 @@
 перасмажыць	pʲ ɛ r a s m a ʐ ɨ tsʲ
 перасніць	pʲ ɛ r a sʲ nʲ i tsʲ
 пераспяваць	pʲ ɛ r a sʲ pʲ a v a tsʲ
+перасунуць	pʲ ɛ r a s u n u tsʲ
 перасцерагчы	pʲ ɛ r a sʲ tsʲ ɛ r a ɣ tʂ ɨ
 перасцярога	pʲ ɛ r a sʲ tsʲ a r ɔ ɣ a
 перасягнуць	pʲ ɛ r a sʲ a ɣ n u tsʲ
@@ -2670,6 +3795,7 @@
 перашалець	pʲ ɛ r a ʂ a lʲ ɛ tsʲ
 перашараваць	pʲ ɛ r a ʂ a r a v a tsʲ
 перашкліць	pʲ ɛ r a ʂ k lʲ i tsʲ
+перашкода	pʲ ɛ r a ʂ k ɔ d a
 перашкодзіць	pʲ ɛ r a ʂ k ɔ dzʲ i tsʲ
 перашуфляваць	pʲ ɛ r a ʂ u f lʲ a v a tsʲ
 пернік	pʲ ɛ r nʲ i k
@@ -2682,8 +3808,12 @@
 першакрыніца	pʲ ɛ r ʂ a k r ɨ nʲ i ts a
 першапачатковы	pʲ ɛ r ʂ a p a tʂ a t k ɔ v ɨ
 першарадны	pʲ ɛ r ʂ a r a d n ɨ
+першасны	pʲ ɛ r ʂ a s n ɨ
 першаўзор	pʲ ɛ r ʂ a w z ɔ r
 першачарговы	pʲ ɛ r ʂ a tʂ a r ɣ ɔ v ɨ
+першы	pʲ ɛ r ʂ ɨ
+першынстваваць	pʲ ɛ r ʂ ɨ n s t v a v a tsʲ
+першынство	pʲ ɛ r ʂ ɨ n s t v ɔ
 перыяд	pʲ ɛ r ɨ j a d
 песціць	pʲ ɛ sʲ tsʲ i tsʲ
 півоня	pʲ i v ɔ nʲ a
@@ -2704,34 +3834,51 @@
 пітво	pʲ i t v ɔ
 плазаваты	p ɫ a z a v a t ɨ
 план	p ɫ a n
+планаваць	p ɫ a n a v a tsʲ
 пласкатвары	p ɫ a s k a t v a r ɨ
 плашч	p ɫ a ʂ tʂ
 плеўка	p lʲ ɛ w k a
 плешка	p lʲ ɛ ʂ k a
+плён	p lʲ ɔ n
+плённы	p lʲ ɔ nː ɨ
 плёскат	p lʲ ɔ s k a t
 плёснуць	p lʲ ɔ s n u tsʲ
+плётка	p lʲ ɔ t k a
 плойма	p ɫ ɔ j m a
+плот	p ɫ ɔ t
+плотка	p ɫ ɔ t k a
+плошча	p ɫ ɔ ʂ tʂ a
 плуг	p ɫ u ɣ
 плывец	p ɫ ɨ vʲ ɛ ts
 плывушка	p ɫ ɨ v u ʂ k a
 плынь	p ɫ ɨ nʲ
+плыт	p ɫ ɨ t
 плыткі	p ɫ ɨ t kʲ i
 плытнік	p ɫ ɨ t nʲ i k
 плытніцтва	p ɫ ɨ t nʲ i ts t v a
 плюхнуць	p lʲ u x n u tsʲ
 плюшчыць	p lʲ u ʂ tʂ ɨ tsʲ
+пляга	p lʲ a ɣ a
+пляжыць	p lʲ a ʐ ɨ tsʲ
+пляма	p lʲ a m a
 плямісты	p lʲ a mʲ i s t ɨ
 пляміць	p lʲ a mʲ i tsʲ
+пляскаты	p lʲ a s k a t ɨ
 пляснуць	p lʲ a s n u tsʲ
 пляткар	p lʲ a t k a r
 пляткарства	p lʲ a t k a r s t v a
+пляткарыць	p lʲ a t k a r ɨ tsʲ
+пляц	p lʲ a ts
 пляцоўка	p lʲ a ts ɔ w k a
 плячо	p lʲ a tʂ ɔ
 пляшка	p lʲ a ʂ k a
+побач	p ɔ b a tʂ
 побыт	p ɔ b ɨ t
 повідну	p ɔ vʲ i d n u
+погляд	p ɔ ɣ lʲ a d
 подбегам	p ɔ d bʲ ɛ ɣ a m
 подбіўка	p ɔ d bʲ i w k a
+подых	p ɔ d ɨ x
 позва	p ɔ z v a
 позех	p ɔ zʲ ɛ x
 позірк	p ɔ zʲ i r k
@@ -2744,16 +3891,24 @@
 полка	p ɔ ɫ k a
 полудзень	p ɔ ɫ u dzʲ ɛ nʲ
 полымны	p ɔ ɫ ɨ m n ɨ
+полымя	p ɔ ɫ ɨ mʲ a
 помнік	p ɔ m nʲ i k
+помпа	p ɔ m p a
+помста	p ɔ m s t a
 помсціць	p ɔ m sʲ tsʲ i tsʲ
 понаж	p ɔ n a ʐ
 поначы	p ɔ n a tʂ ɨ
+попел	p ɔ pʲ ɛ ɫ
 поплаў	p ɔ p ɫ a w
 поплеч	p ɔ p lʲ ɛ tʂ
+попыт	p ɔ p ɨ t
 порсткі	p ɔ r s t kʲ i
+порт	p ɔ r t
 порцыя	p ɔ r ts ɨ j a
 послух	p ɔ s ɫ u x
 посніца	p ɔ sʲ nʲ i ts a
+поспех	p ɔ sʲ pʲ ɛ x
+постаць	p ɔ s t a tsʲ
 пострах	p ɔ s t r a x
 потарч	p ɔ t a r tʂ
 поўдзень	p ɔ w dzʲ ɛ nʲ
@@ -2762,6 +3917,9 @@
 поўсць	p ɔ w sʲ tsʲ
 поцемкам	p ɔ tsʲ ɛ m k a m
 поціск	p ɔ tsʲ i s k
+почапка	p ɔ tʂ a p k a
+пошасць	p ɔ ʂ a sʲ tsʲ
+пошта	p ɔ ʂ t a
 пошук	p ɔ ʂ u k
 пошчак	p ɔ ʂ tʂ a k
 пояс	p ɔ j a s
@@ -2775,6 +3933,8 @@
 прабразгаць	p r a b r a z ɣ a tsʲ
 права	p r a v a
 праваблівы	p r a v a b lʲ i v ɨ
+правадзейны	p r a v a dzʲ ɛ j n ɨ
+правадыр	p r a v a d ɨ r
 правазнавец	p r a v a z n a vʲ ɛ ts
 правазнаўца	p r a v a z n a w ts a
 правалтузіцца	p r a v a ɫ t u zʲ i tsː a
@@ -2786,8 +3946,10 @@
 правасвядомасць	p r a v a sʲ vʲ a d ɔ m a sʲ tsʲ
 правішчаць	p r a vʲ i ʂ tʂ a tsʲ
 праводзіны	p r a v ɔ dzʲ i n ɨ
+праводнасць	p r a v ɔ d n a sʲ tsʲ
 правы	p r a v ɨ
 правэндзіць	p r a v ɛ n dzʲ i tsʲ
+прага	p r a ɣ a
 прагавіты	p r a ɣ a vʲ i t ɨ
 прагаманіць	p r a ɣ a m a nʲ i tsʲ
 прагарнуць	p r a ɣ a r n u tsʲ
@@ -2797,6 +3959,8 @@
 прагляд	p r a ɣ lʲ a d
 прагнасць	p r a ɣ n a sʲ tsʲ
 прагнесці	p r a ɣ nʲ ɛ sʲ tsʲ i
+прагнуць	p r a ɣ n u tsʲ
+прагны	p r a ɣ n ɨ
 прагортваць	p r a ɣ ɔ r t v a tsʲ
 прагукаць	p r a ɣ u k a tsʲ
 прагусці	p r a ɣ u sʲ tsʲ i
@@ -2805,14 +3969,18 @@
 прадажнік	p r a d a ʐ nʲ i k
 прадаўжальнік	p r a d a w ʐ a lʲ nʲ i k
 прадбачлівы	p r a d b a tʂ lʲ i v ɨ
+прадбачыць	p r a d b a tʂ ɨ tsʲ
 прадвызначыць	p r a d v ɨ z n a tʂ ɨ tsʲ
 прадзед	p r a dzʲ ɛ d
 прадзьмухаць	p r a d zʲ m u x a tsʲ
 прадзяўбці	p r a dzʲ a w b tsʲ i
+прадказаць	p r a d k a z a tsʲ
 прадмет	p r a d mʲ ɛ t
+прадмова	p r a d m ɔ v a
 прадонне	p r a d ɔ nʲː ɛ
 прадпрыемец	p r a d p r ɨ j ɛ mʲ ɛ ts
 прадпрыемніцтва	p r a d p r ɨ j ɛ m nʲ i ts t v a
+прадпрыемства	p r a d p r ɨ j ɛ m s t v a
 прадпрымальнік	p r a d p r ɨ m a lʲ nʲ i k
 прадракальнік	p r a d r a k a lʲ nʲ i k
 прадрукаваць	p r a d r u k a v a tsʲ
@@ -2821,11 +3989,16 @@
 прадугледзець	p r a d u ɣ lʲ ɛ dzʲ ɛ tsʲ
 прадуха	p r a d u x a
 прадухіліць	p r a d u xʲ i lʲ i tsʲ
+прадчуваць	p r a tʂː u v a tsʲ
 пражываць	p r a ʐ ɨ v a tsʲ
 пражытак	p r a ʐ ɨ t a k
+пражыць	p r a ʐ ɨ tsʲ
+праз	p r a z
 праззяць	p r a zʲː a tsʲ
 празіхацець	p r a zʲ i x a tsʲ ɛ tsʲ
+празмерны	p r a zʲ mʲ ɛ r n ɨ
 празорца	p r a z ɔ r ts a
+празрысты	p r a z r ɨ s t ɨ
 прайдзісвет	p r a j dzʲ i sʲ vʲ ɛ t
 праймацца	p r a j m a tsː a
 праказаць	p r a k a z a tsʲ
@@ -2833,10 +4006,12 @@
 пракаўтнуць	p r a k a w t n u tsʲ
 пракачацца	p r a k a tʂ a tsː a
 пракласці	p r a k ɫ a sʲ tsʲ i
+праклён	p r a k lʲ ɔ n
 пракоўзацца	p r a k ɔ w z a tsː a
 пракрасціся	p r a k r a sʲ tsʲ i sʲ a
 пракрэсліць	p r a k r ɛ sʲ lʲ i tsʲ
 практыка	p r a k t ɨ k a
+практыкаванне	p r a k t ɨ k a v a nʲː ɛ
 практычны	p r a k t ɨ tʂ n ɨ
 пралайдачыць	p r a ɫ a j d a tʂ ɨ tsʲ
 пралгацца	p r a ɫ ɣ a tsː a
@@ -2856,13 +4031,17 @@
 прамаўляць	p r a m a w lʲ a tsʲ
 прамацаць	p r a m a ts a tsʲ
 прамаці	p r a m a tsʲ i
+прамашка	p r a m a ʂ k a
 прамежак	p r a mʲ ɛ ʐ a k
+прамень	p r a mʲ ɛ nʲ
 прамігацець	p r a mʲ i ɣ a tsʲ ɛ tsʲ
 прамінуць	p r a mʲ i n u tsʲ
 прамітусіцца	p r a mʲ i t u sʲ i tsː a
 прамова	p r a m ɔ v a
 прамовіць	p r a m ɔ vʲ i tsʲ
 прамоўца	p r a m ɔ w ts a
+прамысловасць	p r a m ɨ s ɫ ɔ v a sʲ tsʲ
+прамысловец	p r a m ɨ s ɫ ɔ vʲ ɛ ts
 прамысловы	p r a m ɨ s ɫ ɔ v ɨ
 прамыслоўца	p r a m ɨ s ɫ ɔ w ts a
 прамянець	p r a mʲ a nʲ ɛ tsʲ
@@ -2874,6 +4053,8 @@
 прапакутаваць	p r a p a k u t a v a tsʲ
 прапаліць	p r a p a lʲ i tsʲ
 прапампаваць	p r a p a m p a v a tsʲ
+прапанаваць	p r a p a n a v a tsʲ
+прапанова	p r a p a n ɔ v a
 прапесціцца	p r a pʲ ɛ sʲ tsʲ i tsː a
 прапільнаваць	p r a pʲ i lʲ n a v a tsʲ
 прапоркацца	p r a p ɔ r k a tsː a
@@ -2891,6 +4072,9 @@
 прарухацца	p r a r u x a tsː a
 прарэзлівы	p r a r ɛ zʲ lʲ i v ɨ
 прарэх	p r a r ɛ x
+прас	p r a s
+прасавальшчык	p r a s a v a lʲ ʂ tʂ ɨ k
+прасаваць	p r a s a v a tsʲ
 прасвідраваць	p r a sʲ vʲ i d r a v a tsʲ
 прасвяткаваць	p r a sʲ vʲ a t k a v a tsʲ
 праскародзіць	p r a s k a r ɔ dzʲ i tsʲ
@@ -2905,6 +4089,7 @@
 праспяваць	p r a sʲ pʲ a v a tsʲ
 прастадушнасць	p r a s t a d u ʂ n a sʲ tsʲ
 прастамоўе	p r a s t a m ɔ w j ɛ
+прастора	p r a s t ɔ r a
 прасумаваць	p r a s u m a v a tsʲ
 прасціна	p r a sʲ tsʲ i n a
 прасцюткі	p r a sʲ tsʲ u t kʲ i
@@ -2920,18 +4105,23 @@
 прахапіцца	p r a x a pʲ i tsː a
 прахарчавацца	p r a x a r tʂ a v a tsː a
 прахарчаваць	p r a x a r tʂ a v a tsʲ
+праца	p r a ts a
+працаваць	p r a ts a v a tsʲ
 працавіты	p r a ts a vʲ i t ɨ
 працаздольнасць	p r a ts a z d ɔ lʲ n a sʲ tsʲ
 працаўнік	p r a ts a w nʲ i k
 працерабіць	p r a tsʲ ɛ r a bʲ i tsʲ
 праціснуць	p r a tsʲ i s n u tsʲ
 працоўны	p r a ts ɔ w n ɨ
+праць	p r a tsʲ
 працэнт	p r a ts ɛ n t
 працяг	p r a tsʲ a ɣ
 працягваць	p r a tsʲ a ɣ v a tsʲ
+працяглы	p r a tsʲ a ɣ ɫ ɨ
 працяжнік	p r a tsʲ a ʐ nʲ i k
 працяць	p r a tsʲ a tsʲ
 прачакаць	p r a tʂ a k a tsʲ
+прачнуцца	p r a tʂ n u tsː a
 прачулы	p r a tʂ u ɫ ɨ
 прачуць	p r a tʂ u tsʲ
 прачыніць	p r a tʂ ɨ nʲ i tsʲ
@@ -2940,10 +4130,12 @@
 прашмараваць	p r a ʂ m a r a v a tsʲ
 праштабноўка	p r a ʂ t a b n ɔ w k a
 прашугаць	p r a ʂ u ɣ a tsʲ
+праява	p r a j a v a
 продаж	p r ɔ d a ʐ
 продак	p r ɔ d a k
 проза	p r ɔ z a
 прозвішча	p r ɔ zʲ vʲ i ʂ tʂ a
+прорва	p r ɔ r v a
 просты	p r ɔ s t ɨ
 процівага	p r ɔ tsʲ i v a ɣ a
 процідзейнічаць	p r ɔ tsʲ i dzʲ ɛ j nʲ i tʂ a tsʲ
@@ -2952,6 +4144,8 @@
 проціяддзе	p r ɔ tsʲ i j a dzʲː ɛ
 прочкі	p r ɔ tʂ kʲ i
 пругкі	p r u ɣ kʲ i
+прус	p r u s
+прусак	p r u s a k
 пруткі	p r u t kʲ i
 пры	p r ɨ
 прыараць	p r ɨ a r a tsʲ
@@ -2959,15 +4153,19 @@
 прыбіральшчыца	p r ɨ bʲ i r a lʲ ʂ tʂ ɨ ts a
 прыблізны	p r ɨ b lʲ i z n ɨ
 прыблуда	p r ɨ b ɫ u d a
+прыбраць	p r ɨ b r a tsʲ
 прыбрукаваць	p r ɨ b r u k a v a tsʲ
 прыбудаваць	p r ɨ b u d a v a tsʲ
 прыбудова	p r ɨ b u d ɔ v a
 прыбываць	p r ɨ b ɨ v a tsʲ
+прыбытак	p r ɨ b ɨ t a k
 прыбытковы	p r ɨ b ɨ t k ɔ v ɨ
 прывабіць	p r ɨ v a bʲ i tsʲ
+прывабны	p r ɨ v a b n ɨ
 прыважыць	p r ɨ v a ʐ ɨ tsʲ
 прываліць	p r ɨ v a lʲ i tsʲ
 прываротнік	p r ɨ v a r ɔ t nʲ i k
+прыватны	p r ɨ v a t n ɨ
 прывід	p r ɨ vʲ i d
 прывідны	p r ɨ vʲ i d n ɨ
 прывілея	p r ɨ vʲ i lʲ ɛ j a
@@ -2976,29 +4174,39 @@
 прывітацца	p r ɨ vʲ i t a tsː a
 прывітаць	p r ɨ vʲ i t a tsʲ
 прывэндзіць	p r ɨ v ɛ n dzʲ i tsʲ
+прыгадаць	p r ɨ ɣ a d a tsʲ
 прыгажосць	p r ɨ ɣ a ʐ ɔ sʲ tsʲ
 прыгажун	p r ɨ ɣ a ʐ u n
 прыгажуня	p r ɨ ɣ a ʐ u nʲ a
 прыгажэць	p r ɨ ɣ a ʐ ɛ tsʲ
 прыгаіць	p r ɨ ɣ a j i tsʲ
 прыгалоўе	p r ɨ ɣ a ɫ ɔ w j ɛ
+прыганяты	p r ɨ ɣ a nʲ a t ɨ
 прыгарнуць	p r ɨ ɣ a r n u tsʲ
 прыгаршчы	p r ɨ ɣ a r ʂ tʂ ɨ
 прыгледзецца	p r ɨ ɣ lʲ ɛ dzʲ ɛ tsː a
 прыгляд	p r ɨ ɣ lʲ a d
+прыгнечаны	p r ɨ ɣ nʲ ɛ tʂ a n ɨ
+прыгнёт	p r ɨ ɣ nʲ ɔ t
 прыгнятальнік	p r ɨ ɣ nʲ a t a lʲ nʲ i k
+прыгода	p r ɨ ɣ ɔ d a
 прыгодніцкі	p r ɨ ɣ ɔ d nʲ i ts kʲ i
+прыгожы	p r ɨ ɣ ɔ ʐ ɨ
+прыгон	p r ɨ ɣ ɔ n
 прыгонніцтва	p r ɨ ɣ ɔ nʲː i ts t v a
+прыгонны	p r ɨ ɣ ɔ nː ɨ
 прыгорбіць	p r ɨ ɣ ɔ r bʲ i tsʲ
 прыгортваць	p r ɨ ɣ ɔ r t v a tsʲ
 прыгоства	p r ɨ ɣ ɔ s t v a
 прыгук	p r ɨ ɣ u k
 прыдабыць	p r ɨ d a b ɨ tsʲ
+прыдатны	p r ɨ d a t n ɨ
 прыдашак	p r ɨ d a ʂ a k
 прыдбаць	p r ɨ d b a tsʲ
 прыдзірлівы	p r ɨ dzʲ i r lʲ i v ɨ
 прыдрукаваць	p r ɨ d r u k a v a tsʲ
 прыдрукоўка	p r ɨ d r u k ɔ w k a
+прыемны	p r ɨ j ɛ m n ɨ
 прыжмурыць	p r ɨ ʐ m u r ɨ tsʲ
 прыжоўкнуць	p r ɨ ʐ ɔ w k n u tsʲ
 прызапасіць	p r ɨ z a p a sʲ i tsʲ
@@ -3008,15 +4216,20 @@
 прызначаць	p r ɨ z n a tʂ a tsʲ
 прызначыць	p r ɨ z n a tʂ ɨ tsʲ
 прызначэнне	p r ɨ z n a tʂ ɛ nʲː ɛ
+прыказка	p r ɨ k a z k a
 прыкараскацца	p r ɨ k a r a s k a tsː a
 прыкветак	p r ɨ k vʲ ɛ t a k
+прыклад	p r ɨ k ɫ a d
 прыкласці	p r ɨ k ɫ a sʲ tsʲ i
 прыклеп	p r ɨ k lʲ ɛ p
 прыклетак	p r ɨ k lʲ ɛ t a k
 прыклець	p r ɨ k lʲ ɛ tsʲ
+прыкмета	p r ɨ k mʲ ɛ t a
 прыкмеціць	p r ɨ k mʲ ɛ tsʲ i tsʲ
+прыкрасць	p r ɨ k r a sʲ tsʲ
 прыкруціць	p r ɨ k r u tsʲ i tsʲ
 прыкры	p r ɨ k r ɨ
+прылада	p r ɨ ɫ a d a
 прыладдзе	p r ɨ ɫ a dzʲː ɛ
 прылазнік	p r ɨ ɫ a zʲ nʲ i k
 прыламаць	p r ɨ ɫ a m a tsʲ
@@ -3043,10 +4256,13 @@
 прымудрыцца	p r ɨ m u d r ɨ tsː a
 прымураваць	p r ɨ m u r a v a tsʲ
 прымурак	p r ɨ m u r a k
+прымус	p r ɨ m u s
 прымусам	p r ɨ m u s a m
 прымусіць	p r ɨ m u sʲ i tsʲ
+прымусовы	p r ɨ m u s ɔ v ɨ
 прымхлівы	p r ɨ m x lʲ i v ɨ
 прынадзіць	p r ɨ n a dzʲ i tsʲ
+прынадны	p r ɨ n a d n ɨ
 прыназоўнік	p r ɨ n a z ɔ w nʲ i k
 прынамсі	p r ɨ n a m sʲ i
 прынітаваць	p r ɨ nʲ i t a v a tsʲ
@@ -3062,6 +4278,7 @@
 прыпознены	p r ɨ p ɔ zʲ nʲ ɛ n ɨ
 прыполак	p r ɨ p ɔ ɫ a k
 прыпхнуць	p r ɨ p x n u tsʲ
+прыпынак	p r ɨ p ɨ n a k
 прыпыніць	p r ɨ p ɨ nʲ i tsʲ
 прыпынішча	p r ɨ p ɨ nʲ i ʂ tʂ a
 прырабіць	p r ɨ r a bʲ i tsʲ
@@ -3087,17 +4304,23 @@
 прысоўваць	p r ɨ s ɔ w v a tsʲ
 прыспорыць	p r ɨ s p ɔ r ɨ tsʲ
 прыспяшыць	p r ɨ sʲ pʲ a ʂ ɨ tsʲ
+прыстанак	p r ɨ s t a n a k
 прыстарацца	p r ɨ s t a r a tsː a
 прыстасаванне	p r ɨ s t a s a v a nʲː ɛ
+прыстасаваць	p r ɨ s t a s a v a tsʲ
 прыстойны	p r ɨ s t ɔ j n ɨ
 прыстрашыць	p r ɨ s t r a ʂ ɨ tsʲ
+прысуд	p r ɨ s u d
 прысунуць	p r ɨ s u n u tsʲ
+прысутнасць	p r ɨ s u t n a sʲ tsʲ
 прытарнаваць	p r ɨ t a r n a v a tsʲ
 прытаўчы	p r ɨ t a w tʂ ɨ
+прытомнасць	p r ɨ t ɔ m n a sʲ tsʲ
 прытомніць	p r ɨ t ɔ m nʲ i tsʲ
 прыточка	p r ɨ t ɔ tʂ k a
 прытрызніць	p r ɨ t r ɨ zʲ nʲ i tsʲ
 прытрымаць	p r ɨ t r ɨ m a tsʲ
+прытулак	p r ɨ t u ɫ a k
 прытуліць	p r ɨ t u lʲ i tsʲ
 прыхаваць	p r ɨ x a v a tsʲ
 прыхадзень	p r ɨ x a dzʲ ɛ nʲ
@@ -3107,6 +4330,7 @@
 прыхільнасць	p r ɨ xʲ i lʲ n a sʲ tsʲ
 прыхінуць	p r ɨ xʲ i n u tsʲ
 прыхлусіць	p r ɨ x ɫ u sʲ i tsʲ
+прыцемак	p r ɨ tsʲ ɛ m a k
 прыцерушыць	p r ɨ tsʲ ɛ r u ʂ ɨ tsʲ
 прыцікаваць	p r ɨ tsʲ i k a v a tsʲ
 прыціск	p r ɨ tsʲ i s k
@@ -3115,6 +4339,7 @@
 прыцьміць	p r ɨ tsʲ mʲ i tsʲ
 прыцямнець	p r ɨ tsʲ a m nʲ ɛ tsʲ
 прычакаць	p r ɨ tʂ a k a tsʲ
+прычараваць	p r ɨ tʂ a r a v a tsʲ
 прычына	p r ɨ tʂ ɨ n a
 прычыніцца	p r ɨ tʂ ɨ nʲ i tsː a
 прычыніць	p r ɨ tʂ ɨ nʲ i tsʲ
@@ -3124,12 +4349,16 @@
 прышчыкнуць	p r ɨ ʂ tʂ ɨ k n u tsʲ
 прыязнасць	p r ɨ j a z n a sʲ tsʲ
 прыяцель	p r ɨ j a tsʲ ɛ lʲ
+псаваць	p s a v a tsʲ
 псота	p s ɔ t a
+пстрыкаць	p s t r ɨ k a tsʲ
 пстрычка	p s t r ɨ tʂ k a
 птаства	p t a s t v a
+птушка	p t u ʂ k a
 птушкагадоўля	p t u ʂ k a ɣ a d ɔ w lʲ a
 птушнік	p t u ʂ nʲ i k
 птушніца	p t u ʂ nʲ i ts a
+пуга	p u ɣ a
 пугаўё	p u ɣ a w j ɔ
 пуд	p u d
 пудзіла	p u dzʲ i ɫ a
@@ -3138,29 +4367,43 @@
 пужала	p u ʐ a ɫ a
 пужацца	p u ʐ a tsː a
 пужаць	p u ʐ a tsʲ
+пукатасць	p u k a t a sʲ tsʲ
 пункт	p u n k t
 пупышка	p u p ɨ ʂ k a
 пускаць	p u s k a tsʲ
 пустазелле	p u s t a zʲ ɛ lʲ lʲ ʲ ɛ
+пустка	p u s t k a
 пусты	p u s t ɨ
 пустэльнік	p u s t ɛ lʲ nʲ i k
+пустэча	p u s t ɛ tʂ a
 пухнаты	p u x n a t ɨ
 пхаць	p x a tsʲ
 пхнуць	p x n u tsʲ
+пчаляр	p tʂ a lʲ a r
 пчалярства	p tʂ a lʲ a r s t v a
 пшанічнішча	p ʂ a nʲ i tʂ nʲ i ʂ tʂ a
 пылавік	p ɨ ɫ a vʲ i k
 пыласос	p ɨ ɫ a s ɔ s
+пылок	p ɨ ɫ ɔ k
 пырскаўка	p ɨ r s k a w k a
 пырснуць	p ɨ r s n u tsʲ
 пырхнуць	p ɨ r x n u tsʲ
+пыса	p ɨ s a
 пытальнік	p ɨ t a lʲ nʲ i k
+пытанне	p ɨ t a nʲː ɛ
 пытацца	p ɨ t a tsː a
+пытаць	p ɨ t a tsʲ
+пэндзаль	p ɛ n dz a lʲ
 пэндзлік	p ɛ n dzʲ lʲ i k
 пэўны	p ɛ w n ɨ
+пэцкаць	p ɛ ts k a tsʲ
+пякельны	pʲ a kʲ ɛ lʲ n ɨ
+пякотка	pʲ a k ɔ t k a
 пякучы	pʲ a k u tʂ ɨ
+пялёстак	pʲ a lʲ ɔ s t a k
 пялюшка	pʲ a lʲ u ʂ k a
 пяро	pʲ a r ɔ
+пярсцёнак	pʲ a r sʲ tsʲ ɔ n a k
 пярэбары	pʲ a r ɛ b a r ɨ
 пярэбірак	pʲ a r ɛ bʲ i r a k
 пярэбіркі	pʲ a r ɛ bʲ i r kʲ i
@@ -3174,6 +4417,8 @@
 пярэсты	pʲ a r ɛ s t ɨ
 пярэсціна	pʲ a r ɛ sʲ tsʲ i n a
 пярэціск	pʲ a r ɛ tsʲ i s k
+пярэчыць	pʲ a r ɛ tʂ ɨ tsʲ
+пясняр	pʲ a sʲ nʲ a r
 пястун	pʲ a s t u n
 пястуха	pʲ a s t u x a
 пятнастоўка	pʲ a t n a s t ɔ w k a
@@ -3188,14 +4433,22 @@
 пяцісотгоддзе	pʲ a tsʲ i s ɔ t ɣ ɔ dzʲː ɛ
 пяцца	pʲ a tsː a
 пяць	pʲ a tsʲ
+пячкур	pʲ a tʂ k u r
 пячонік	pʲ a tʂ ɔ nʲ i k
+пячора	pʲ a tʂ ɔ r a
 пячы	pʲ a tʂ ɨ
+пяшчота	pʲ a ʂ tʂ ɔ t a
+пяшчотны	pʲ a ʂ tʂ ɔ t n ɨ
+рабаваць	r a b a v a tsʲ
 рабаўнік	r a b a w nʲ i k
 рабацінне	r a b a tsʲ i nʲː ɛ
 рабаціць	r a b a tsʲ i tsʲ
 рабіць	r a bʲ i tsʲ
+рагавы	r a ɣ a v ɨ
+рагатаць	r a ɣ a t a tsʲ
 рагатун	r a ɣ a t u n
 рад	r a d
+рада	r a d a
 радасны	r a d a s n ɨ
 радасць	r a d a sʲ tsʲ
 радаўніца	r a d a w nʲ i ts a
@@ -3215,15 +4468,19 @@
 радыёхваля	r a d ɨ j ɔ x v a lʲ a
 раён	r a j ɔ n
 ражон	r a ʐ ɔ n
+разам	r a z a m
 разараць	r a z a r a tsʲ
 разасяродзіць	r a z a sʲ a r ɔ dzʲ i tsʲ
 разбараніць	r a z b a r a nʲ i tsʲ
+разбежнасць	r a zʲ bʲ ɛ ʐ n a sʲ tsʲ
+разблытаць	r a z b ɫ ɨ t a tsʲ
 разборлівы	r a z b ɔ r lʲ i v ɨ
 разбудаваць	r a z b u d a v a tsʲ
 разбуйніць	r a z b u j nʲ i tsʲ
 разбурыць	r a z b u r ɨ tsʲ
 разбэсціцца	r a z b ɛ sʲ tsʲ i tsː a
 развага	r a z v a ɣ a
+разважаць	r a z v a ʐ a tsʲ
 разважлівы	r a z v a ʐ lʲ i v ɨ
 разважны	r a z v a ʐ n ɨ
 разважыць	r a z v a ʐ ɨ tsʲ
@@ -3254,6 +4511,7 @@
 разгрэбці	r a z ɣ r ɛ b tsʲ i
 разгубіцца	r a z ɣ u bʲ i tsː a
 разгубіць	r a z ɣ u bʲ i tsʲ
+разгубленасць	r a z ɣ u b lʲ ɛ n a sʲ tsʲ
 разгультаіцца	r a z ɣ u lʲ t a j i tsː a
 разгушкаць	r a z ɣ u ʂ k a tsʲ
 раздабыткі:	r a z d a b ɨ t kʲ i :
@@ -3267,6 +4525,7 @@
 раздушыць	r a z d u ʂ ɨ tsʲ
 разжаліць	r a z ʐ a lʲ i tsʲ
 раззброіць	r a z z b r ɔ j i tsʲ
+раззлаваць	r a z z ɫ a v a tsʲ
 разладдзе	r a z ɫ a dzʲː ɛ
 разлегласць	r a zʲ lʲ ɛ ɣ ɫ a sʲ tsʲ
 разлеглы	r a zʲ lʲ ɛ ɣ ɫ ɨ
@@ -3274,6 +4533,7 @@
 разлінеіць	r a zʲ lʲ i nʲ ɛ j i tsʲ
 разлітавацца	r a zʲ lʲ i t a v a tsː a
 разлічыць	r a zʲ lʲ i tʂ ɨ tsʲ
+разлог	r a z ɫ ɔ ɣ
 разлогі	r a z ɫ ɔ ɣʲ i
 разлупіць	r a z ɫ u pʲ i tsʲ
 разлыгаць	r a z ɫ ɨ ɣ a tsʲ
@@ -3283,6 +4543,8 @@
 размаляваць	r a z m a lʲ a v a tsʲ
 размацаваць	r a z m a ts a v a tsʲ
 размежавальнік	r a zʲ mʲ ɛ ʐ a v a lʲ nʲ i k
+размеркаваць	r a zʲ mʲ ɛ r k a v a tsʲ
+размова	r a z m ɔ v a
 размоўнік	r a z m ɔ w nʲ i k
 размроіцца	r a z m r ɔ j i tsː a
 размывальнік	r a z m ɨ v a lʲ nʲ i k
@@ -3291,9 +4553,11 @@
 разнаколерны	r a z n a k ɔ lʲ ɛ r n ɨ
 разнамыснасць	r a z n a m ɨ s n a sʲ tsʲ
 разнастаіць	r a z n a s t a j i tsʲ
+разнастайны	r a z n a s t a j n ɨ
 разнервавацца	r a zʲ nʲ ɛ r v a v a tsː a
 разнітаваць	r a zʲ nʲ i t a v a tsʲ
 разняволіць	r a zʲ nʲ a v ɔ lʲ i tsʲ
+разора	r a z ɔ r a
 разрабаваць	r a z r a b a v a tsʲ
 разрабіць	r a z r a bʲ i tsʲ
 разраўнаваць	r a z r a w n a v a tsʲ
@@ -3301,8 +4565,10 @@
 разрыўка	r a z r ɨ w k a
 разрэдзіць	r a z r ɛ dzʲ i tsʲ
 разуменне	r a z u mʲ ɛ nʲː ɛ
+разумець	r a z u mʲ ɛ tsʲ
 разумнець	r a z u m nʲ ɛ tsʲ
 разумніца	r a z u m nʲ i ts a
+разумовы	r a z u m ɔ v ɨ
 разупэўніць	r a z u p ɛ w nʲ i tsʲ
 разынкі	r a z ɨ n kʲ i
 разявіць	r a zʲ a vʲ i tsʲ
@@ -3314,11 +4580,17 @@
 рамеснік	r a mʲ ɛ sʲ nʲ i k
 рамізнік	r a mʲ i zʲ nʲ i k
 рамізніцтва	r a mʲ i zʲ nʲ i ts t v a
+рамонак	r a m ɔ n a k
+рамяство	r a mʲ a s t v ɔ
 рана	r a n a
+ранак	r a n a k
 раніца	r a nʲ i ts a
 ранішнік	r a nʲ i ʂ nʲ i k
 ранкам	r a n k a m
+рапараваць	r a p a r a v a tsʲ
+раптам	r a p t a m
 раптоўны	r a p t ɔ w n ɨ
+рапуха	r a p u x a
 расіца	r a sʲ i ts a
 расіцца	r a sʲ i tsː a
 расіць	r a sʲ i tsʲ
@@ -3334,6 +4606,7 @@
 раскласці	r a s k ɫ a sʲ tsʲ i
 расколіна	r a s k ɔ lʲ i n a
 раскоўзаць	r a s k ɔ w z a tsʲ
+раскоша	r a s k ɔ ʂ a
 раскрадальнік	r a s k r a d a lʲ nʲ i k
 раскрыжаваць	r a s k r ɨ ʐ a v a tsʲ
 раскрыжоўваць	r a s k r ɨ ʐ ɔ w v a tsʲ
@@ -3344,8 +4617,10 @@
 распалавініць	r a s p a ɫ a vʲ i nʲ i tsʲ
 распаліць	r a s p a lʲ i tsʲ
 распалка	r a s p a ɫ k a
+распарадчык	r a s p a r a tʂː ɨ k
 распасцерці	r a s p a sʲ tsʲ ɛ r tsʲ i
 распаўсюдзіць	r a s p a w sʲ u dzʲ i tsʲ
+распачаць	r a s p a tʂ a tsʲ
 распесціць	r a sʲ pʲ ɛ sʲ tsʲ i tsʲ
 распластоўка	r a s p ɫ a s t ɔ w k a
 расплывісты	r a s p ɫ ɨ vʲ i s t ɨ
@@ -3371,8 +4646,10 @@
 рассмакаваць	r a s s m a k a v a tsʲ
 рассунуть	r a s s u n u tʲ
 растаўчы	r a s t a w tʂ ɨ
+растаць	r a s t a tsʲ
 растваральнік	r a s t v a r a lʲ nʲ i k
 растлумачыць	r a s t ɫ u m a tʂ ɨ tsʲ
+раструшчыць	r a s t r u ʂ tʂ ɨ tsʲ
 растрыбушыць	r a s t r ɨ b u ʂ ɨ tsʲ
 растуліць	r a s t u lʲ i tsʲ
 растэрмінаваць	r a s t ɛ r mʲ i n a v a tsʲ
@@ -3391,6 +4668,7 @@
 расцерці	r a sʲ tsʲ ɛ r tsʲ i
 расціснуць	r a sʲ tsʲ i s n u tsʲ
 расцяць	r a sʲ tsʲ a tsʲ
+расчараваць	r a s tʂ a r a v a tsʲ
 расчуліць	r a s tʂ u lʲ i tsʲ
 расчухаць	r a s tʂ u x a tsʲ
 расчыніць	r a s tʂ ɨ nʲ i tsʲ
@@ -3399,8 +4677,11 @@
 расшмаргнуць	r a s ʂ m a r ɣ n u tsʲ
 расшпіліць	r a s ʂ pʲ i lʲ i tsʲ
 расшрубаваць	r a s ʂ r u b a v a tsʲ
+расштурхаць	r a s ʂ t u r x a tsʲ
 расшыральнік	r a s ʂ ɨ r a lʲ nʲ i k
 ратавальнік	r a t a v a lʲ nʲ i k
+ратаваць	r a t a v a tsʲ
+ратунак	r a t u n a k
 раўнавага	r a w n a v a ɣ a
 раўнадушнасць	r a w n a d u ʂ n a sʲ tsʲ
 раўнадушша	r a w n a d u ʂ ʂ a
@@ -3409,10 +4690,13 @@
 раўчук	r a w tʂ u k
 рахаваць	r a x a v a tsʲ
 рахманець	r a x m a nʲ ɛ tsʲ
+рахманы	r a x m a n ɨ
+рахунак	r a x u n a k
 рахункавод	r a x u n k a v ɔ d
 рацыя	r a ts ɨ j a
 рачулка	r a tʂ u ɫ k a
 рашуча	r a ʂ u tʂ a
+рашучы	r a ʂ u tʂ ɨ
 рашчыніць	r a ʂ tʂ ɨ nʲ i tsʲ
 рашэтнік	r a ʂ ɛ t nʲ i k
 рашэціна	r a ʂ ɛ tsʲ i n a
@@ -3421,20 +4705,25 @@
 ржышча	r ʐ ɨ ʂ tʂ a
 ржэўнік	r ʐ ɛ w nʲ i k
 ровар	r ɔ v a r
+рог	r ɔ ɣ
 рогат	r ɔ ɣ a t
 род	r ɔ d
 родны	r ɔ d n ɨ
 розгалас	r ɔ z ɣ a ɫ a s
 роздум	r ɔ z d u m
+рознабаковы	r ɔ z n a b a k ɔ v ɨ
 рознагалоссе	r ɔ z n a ɣ a ɫ ɔ sʲː ɛ
+рознакаляровы	r ɔ z n a k a lʲ a r ɔ v ɨ
 рознастароннасць	r ɔ z n a s t a r ɔ nː a sʲ tsʲ
 розначытанне	r ɔ z n a tʂ ɨ t a nʲː ɛ
 розны	r ɔ z n ɨ
+розум	r ɔ z u m
 ропа	r ɔ p a
 росквіт	r ɔ s k vʲ i t
 роскід	r ɔ s kʲ i d
 роспач	r ɔ s p a tʂ
 роспыт	r ɔ s p ɨ t
+ростань	r ɔ s t a nʲ
 росчын	r ɔ s tʂ ɨ n
 рось	r ɔ sʲ
 рот	r ɔ t
@@ -3444,9 +4733,12 @@
 рубам	r u b a m
 рудаўка	r u d a w k a
 руды	r u d ɨ
+ружа	r u ʐ a
 ружавець	r u ʐ a vʲ ɛ tsʲ
 ружовіць	r u ʐ ɔ vʲ i tsʲ
+ружовы	r u ʐ ɔ v ɨ
 ружоўнік	r u ʐ ɔ w nʲ i k
+руйнаваць	r u j n a v a tsʲ
 рука	r u k a
 руля	r u lʲ a
 рунець	r u nʲ ɛ tsʲ
@@ -3454,8 +4746,13 @@
 рупіцца	r u pʲ i tsː a
 руплівец	r u p lʲ i vʲ ɛ ts
 руплівы	r u p lʲ i v ɨ
+рух	r u x
+рухавасць	r u x a v a sʲ tsʲ
 рухавік	r u x a vʲ i k
 рухавіць	r u x a vʲ i tsʲ
+рухаць	r u x a tsʲ
+рухомы	r u x ɔ m ɨ
+ручай	r u tʂ a j
 ручнік	r u tʂ nʲ i k
 рушыць	r u ʂ ɨ tsʲ
 рыба	r ɨ b a
@@ -3466,17 +4763,27 @@
 рыдлёўка	r ɨ d lʲ ɔ w k a
 рыззё	r ɨ zʲː ɔ
 рызыка	r ɨ z ɨ k a
+рызыкаваць	r ɨ z ɨ k a v a tsʲ
 рынак	r ɨ n a k
+рыпаць	r ɨ p a tsʲ
+рыса	r ɨ s a
+рыхтаваць	r ɨ x t a v a tsʲ
 рыхтык	r ɨ x t ɨ k
 рыштаванне	r ɨ ʂ t a v a nʲː ɛ
+рыштунак	r ɨ ʂ t u n a k
 рэдкі	r ɛ d kʲ i
 рэдукаваць	r ɛ d u k a v a tsʲ
+рэйка	r ɛ j k a
 рэпацца	r ɛ p a tsː a
+рэха	r ɛ x a
 рэхва	r ɛ x v a
 рэцэпт	r ɛ ts ɛ p t
+рэч	r ɛ tʂ
 рэчы	r ɛ tʂ ɨ
+рэчыва	r ɛ tʂ ɨ v a
 рэчывізм	r ɛ tʂ ɨ vʲ i z m
 рэчыўны	r ɛ tʂ ɨ w n ɨ
+рэшта	r ɛ ʂ t a
 рэшткі	r ɛ ʂ t kʲ i
 сабака	s a b a k a
 сабакарня	s a b a k a r nʲ a
@@ -3494,26 +4801,33 @@
 саладзіць	s a ɫ a dzʲ i tsʲ
 саладкакорань	s a ɫ a d k a k ɔ r a nʲ
 саладуха	s a ɫ a d u x a
+салетра	s a lʲ ɛ t r a
 салоўка	s a ɫ ɔ w k a
 сальнік	s a lʲ nʲ i k
 сам	s a m
 самаабвінавачванне	s a m a a b vʲ i n a v a tʂ v a nʲː ɛ
 самаабмежаванне	s a m a a b mʲ ɛ ʐ a v a nʲː ɛ
 самаабслугоўванне	s a m a a b s ɫ u ɣ ɔ w v a nʲː ɛ
+самаадвольны	s a m a a d v ɔ lʲ n ɨ
+самаадданы	s a m a a d d a n ɨ
 самаадмаўленне	s a m a a d m a w lʲ ɛ nʲː ɛ
 самаадукацыя	s a m a a d u k a ts ɨ j a
 самаадчуванне	s a m a a tʂː u v a nʲː ɛ
 самаакупнасць	s a m a a k u p n a sʲ tsʲ
+самаахвярны	s a m a a x vʲ a r n ɨ
+самавалоданне	s a m a v a ɫ ɔ d a nʲː ɛ
 самавіты	s a m a vʲ i t ɨ
 самавукам	s a m a v u k a m
 самавыключэнне	s a m a v ɨ k lʲ u tʂ ɛ nʲː ɛ
 самавыхаванне	s a m a v ɨ x a v a nʲː ɛ
 самавыяўленне	s a m a v ɨ j a w lʲ ɛ nʲː ɛ
+самагубства	s a m a ɣ u b s t v a
 самадапамога	s a m a d a p a m ɔ ɣ a
 самадастатковы	s a m a d a s t a t k ɔ v ɨ
 самадзейнасць	s a m a dzʲ ɛ j n a sʲ tsʲ
 самадзейны	s a m a dzʲ ɛ j n ɨ
 самазабойца	s a m a z a b ɔ j ts a
+самазабыццё	s a m a z a b ɨ tsʲː ɔ
 самазагаранне	s a m a z a ɣ a r a nʲː ɛ
 самазагартоўка	s a m a z a ɣ a r t ɔ w k a
 самазапальнік	s a m a z a p a lʲ nʲ i k
@@ -3523,12 +4837,14 @@
 самалёт	s a m a lʲ ɔ t
 саманадзейны	s a m a n a dzʲ ɛ j n ɨ
 саманарыхтоўка	s a m a n a r ɨ x t ɔ w k a
+самапавага	s a m a p a v a ɣ a
 самападман	s a m a p a d m a n
 самаразлік	s a m a r a zʲ lʲ i k
 самаробны	s a m a r ɔ b n ɨ
 самасвядомасць	s a m a sʲ vʲ a d ɔ m a sʲ tsʲ
 самаспакушэнне	s a m a s p a k u ʂ ɛ nʲː ɛ
 самаспаленне	s a m a s p a lʲ ɛ nʲː ɛ
+самастойны	s a m a s t ɔ j n ɨ
 саматужнік	s a m a t u ʐ nʲ i k
 саматужніцтва	s a m a t u ʐ nʲ i ts t v a
 саматужны	s a m a t u ʐ n ɨ
@@ -3540,17 +4856,20 @@
 самаўпэўненасць	s a m a w p ɛ w nʲ ɛ n a sʲ tsʲ
 самаўхіленне	s a m a w xʲ i lʲ ɛ nʲː ɛ
 самаўшчыльніцца	s a m a w ʂ tʂ ɨ lʲ nʲ i tsː a
+самота	s a m ɔ t a
 самотнік	s a m ɔ t nʲ i k
 самотнічаць	s a m ɔ t nʲ i tʂ a tsʲ
 самотны	s a m ɔ t n ɨ
 самохаць	s a m ɔ x a tsʲ
 санапрацоўка	s a n a p r a ts ɔ w k a
 сапраўды	s a p r a w d ɨ
+сапсаваць	s a p s a v a tsʲ
 сапхнуць	s a p x n u tsʲ
 саракоўка	s a r a k ɔ w k a
 сарамлівы	s a r a m lʲ i v ɨ
 сардэчнік	s a r d ɛ tʂ nʲ i k
 саржавець	s a r ʐ a vʲ ɛ tsʲ
+сарна	s a r n a
 сароміць	s a r ɔ mʲ i tsʲ
 сартавальнік	s a r t a v a lʲ nʲ i k
 сартаваць	s a r t a v a tsʲ
@@ -3562,6 +4881,7 @@
 сасмагнуць	s a s m a ɣ n u tsʲ
 сасмажыць	s a s m a ʐ ɨ tsʲ
 сасніць	s a sʲ nʲ i tsʲ
+састарэць	s a s t a r ɛ tsʲ
 саступіць	s a s t u pʲ i tsʲ
 сасцёбаць	s a sʲ tsʲ ɔ b a tsʲ
 сатлець	s a t lʲ ɛ tsʲ
@@ -3570,23 +4890,35 @@
 саўладальнік	s a w ɫ a d a lʲ nʲ i k
 сачавіца	s a tʂ a vʲ i ts a
 сачавічнішча	s a tʂ a vʲ i tʂ nʲ i ʂ tʂ a
+сачыць	s a tʂ ɨ tsʲ
 сачэнне	s a tʂ ɛ nʲː ɛ
 сашмаргнуць	s a ʂ m a r ɣ n u tsʲ
 сашморгаць	s a ʂ m ɔ r ɣ a tsʲ
 сашпіліць	s a ʂ pʲ i lʲ i tsʲ
 сашрубаваць	s a ʂ r u b a v a tsʲ
+саштурхнуць	s a ʂ t u r x n u tsʲ
 сашчаміць	s a ʂ tʂ a mʲ i tsʲ
 сашчапіць	s a ʂ tʂ a pʲ i tsʲ
+сашчэпка	s a ʂ tʂ ɛ p k a
 свабода	s v a b ɔ d a
 свабодамысны	s v a b ɔ d a m ɨ s n ɨ
 свабодны	s v a b ɔ d n ɨ
 сваволіць	s v a v ɔ lʲ i tsʲ
+сваволле	s v a v ɔ lʲ lʲ ʲ ɛ
+свавольны	s v a v ɔ lʲ n ɨ
+свавольства	s v a v ɔ lʲ s t v a
 сварка	s v a r k a
+сварыцца	s v a r ɨ tsː a
+сваяк	s v a j a k
 сваяўство	s v a j a w s t v ɔ
 сведка	sʲ vʲ ɛ d k a
+сведчыць	sʲ vʲ ɛ tʂː ɨ tsʲ
 свежы	sʲ vʲ ɛ ʐ ɨ
 свежына	sʲ vʲ ɛ ʐ ɨ n a
+сверб	sʲ vʲ ɛ r b
 свербігуз	sʲ vʲ ɛ r bʲ i ɣ u z
+свердзел	sʲ vʲ ɛ r dzʲ ɛ ɫ
+свет	sʲ vʲ ɛ t
 светабудова	sʲ vʲ ɛ t a b u d ɔ v a
 светапогляд	sʲ vʲ ɛ t a p ɔ ɣ lʲ a d
 светасузіранне	sʲ vʲ ɛ t a s u zʲ i r a nʲː ɛ
@@ -3610,19 +4942,27 @@
 своекарыслівы	s v ɔ j ɛ k a r ɨ sʲ lʲ i v ɨ
 своеўладства	s v ɔ j ɛ w ɫ a d s t v a
 своечасовы	s v ɔ j ɛ tʂ a s ɔ v ɨ
+свядомасць	sʲ vʲ a d ɔ m a sʲ tsʲ
+свядомы	sʲ vʲ a d ɔ m ɨ
 свянціць	sʲ vʲ a n tsʲ i tsʲ
+свярбець	sʲ vʲ a r bʲ ɛ tsʲ
 свярбячка	sʲ vʲ a r bʲ a tʂ k a
 свярдзёлак	sʲ vʲ a r dzʲ ɔ ɫ a k
+свята	sʲ vʲ a t a
+святар	sʲ vʲ a t a r
 святататнік	sʲ vʲ a t a t a t nʲ i k
 святаяннік	sʲ vʲ a t a j a nʲː i k
+святкаваць	sʲ vʲ a t k a v a tsʲ
 святлапіс	sʲ vʲ a t ɫ a pʲ i s
 святлафор	sʲ vʲ a t ɫ a f ɔ r
+святло	sʲ vʲ a t ɫ ɔ
 святлоахоўны	sʲ vʲ a t ɫ ɔ a x ɔ w n ɨ
 святлопранікальны	sʲ vʲ a t ɫ ɔ p r a nʲ i k a lʲ n ɨ
 святлоўстойлівы	sʲ vʲ a t ɫ ɔ w s t ɔ j lʲ i v ɨ
 святочны	sʲ vʲ a t ɔ tʂ n ɨ
 сейбіт	sʲ ɛ j bʲ i t
 секануць	sʲ ɛ k a n u tsʲ
+селядзец	sʲ ɛ lʲ a dzʲ ɛ ts
 селядзёўка	sʲ ɛ lʲ a dzʲ ɔ w k a
 селядцоўка	sʲ ɛ lʲ a d ts ɔ w k a
 селянін	sʲ ɛ lʲ a nʲ i n
@@ -3632,10 +4972,14 @@
 сенажаць	sʲ ɛ n a ʐ a tsʲ
 сенасховішча	sʲ ɛ n a s x ɔ vʲ i ʂ tʂ a
 серабро	sʲ ɛ r a b r ɔ
+серада	sʲ ɛ r a d a
 сербануць	sʲ ɛ r b a n u tsʲ
+сердаваць	sʲ ɛ r d a v a tsʲ
 сетка	sʲ ɛ t k a
 сёе-тое	sʲ ɔ j ɛ - t ɔ j ɛ
 сёлетні	sʲ ɔ lʲ ɛ t nʲ i
+сёмуха	sʲ ɔ m u x a
+сёмы	sʲ ɔ m ɨ
 сёння	sʲ ɔ nʲː a
 сёрбаць	sʲ ɔ r b a tsʲ
 сівавалосы	sʲ i v a v a ɫ ɔ s ɨ
@@ -3649,7 +4993,10 @@
 сітаватасць	sʲ i t a v a t a sʲ tsʲ
 сітаваты	sʲ i t a v a t ɨ
 сітавеялка	sʲ i t a vʲ ɛ j a ɫ k a
+скаба	s k a b a
 скавароднік	s k a v a r ɔ d nʲ i k
+скавытаць	s k a v ɨ t a tsʲ
+сказ	s k a z
 сказіць	s k a zʲ i tsʲ
 скакаць	s k a k a tsʲ
 скала	s k a ɫ a
@@ -3664,8 +5011,10 @@
 сканаць	s k a n a tsʲ
 скарабаціць	s k a r a b a tsʲ i tsʲ
 скараціць	s k a r a tsʲ i tsʲ
+скарб	s k a r b
 скарбнік	s k a r b nʲ i k
 скарбонка	s k a r b ɔ n k a
+скарга	s k a r ɣ a
 скардзіцца	s k a r dzʲ i tsː a
 скаржнік	s k a r ʐ nʲ i k
 скародзіць	s k a r ɔ dzʲ i tsʲ
@@ -3673,47 +5022,66 @@
 скарынка	s k a r ɨ n k a
 скарыстаць	s k a r ɨ s t a tsʲ
 скарэць	s k a r ɛ tsʲ
+скасаваць	s k a s a v a tsʲ
+скатаваць	s k a t a v a tsʲ
 сквапнасць	s k v a p n a sʲ tsʲ
 сквар	s k v a r
+скварыць	s k v a r ɨ tsʲ
 скеміць	s kʲ ɛ mʲ i tsʲ
 скіба	s kʲ i b a
 сківіца	s kʲ i vʲ i ts a
 скід	s kʲ i d
 скідальнік	s kʲ i d a lʲ nʲ i k
 скіраваць	s kʲ i r a v a tsʲ
+склад	s k ɫ a d
 складальнік	s k ɫ a d a lʲ nʲ i k
 складанасць	s k ɫ a d a n a sʲ tsʲ
+складаны	s k ɫ a d a n ɨ
 складаць	s k ɫ a d a tsʲ
 скласці	s k ɫ a sʲ tsʲ i
+склеп	s k lʲ ɛ p
 склікаць	s k lʲ i k a tsʲ
+склон	s k ɫ ɔ n
 склюд	s k lʲ u d
 склюдаваць	s k lʲ u d a v a tsʲ
+скляпенне	s k lʲ a pʲ ɛ nʲː ɛ
 скнара	s k n a r a
 скобля	s k ɔ b lʲ a
 скок	s k ɔ k
 скокі	s k ɔ kʲ i
 скон	s k ɔ n
+скончыць	s k ɔ n tʂ ɨ tsʲ
 скорам	s k ɔ r a m
 скорамінучы	s k ɔ r a mʲ i n u tʂ ɨ
 скоўзаць	s k ɔ w z a tsʲ
+скочка	s k ɔ tʂ k a
+скрабаць	s k r a b a tsʲ
 скразны	s k r a z n ɨ
 скразняк	s k r a zʲ nʲ a k
 скрануць	s k r a n u tsʲ
 скрасці	s k r a sʲ tsʲ i
+скрозь	s k r ɔ zʲ
+скронь	s k r ɔ nʲ
+скрутак	s k r u t a k
 скруха	s k r u x a
 скрыва	s k r ɨ v a
 скрывавіць	s k r ɨ v a vʲ i tsʲ
 скрывадушнічаць	s k r ɨ v a d u ʂ nʲ i tʂ a tsʲ
 скрыванне	s k r ɨ v a nʲː ɛ
 скрыгануць	s k r ɨ ɣ a n u tsʲ
+скрыжаваць	s k r ɨ ʐ a v a tsʲ
 скрыль	s k r ɨ lʲ
+скрынка	s k r ɨ n k a
+скрыня	s k r ɨ nʲ a
 скрыўдзіць	s k r ɨ w dzʲ i tsʲ
 скрэбла	s k r ɛ b ɫ a
 скубануць	s k u b a n u tsʲ
 скуголіць	s k u ɣ ɔ lʲ i tsʲ
 скудлаціць	s k u d ɫ a tsʲ i tsʲ
+скула	s k u ɫ a
 скуліць	s k u lʲ i tsʲ
 скупы	s k u p ɨ
+скура	s k u r a
 скураміт	s k u r a mʲ i t
 скурка	s k u r k a
 скурчыць	s k u r tʂ ɨ tsʲ
@@ -3721,6 +5089,7 @@
 слабізаваць	s ɫ a bʲ i z a v a tsʲ
 слабы	s ɫ a b ɨ
 слава	s ɫ a v a
+славуты	s ɫ a v u t ɨ
 сланечнік	s ɫ a nʲ ɛ tʂ nʲ i k
 слёзкі	sʲ lʲ ɔ z kʲ i
 слівень	sʲ lʲ i vʲ ɛ nʲ
@@ -3733,48 +5102,74 @@
 словаўтварэнне	s ɫ ɔ v a w t v a r ɛ nʲː ɛ
 слодыч	s ɫ ɔ d ɨ tʂ
 слон	s ɫ ɔ n
+слонка	s ɫ ɔ n k a
 слота	s ɫ ɔ t a
 слоўнік	s ɫ ɔ w nʲ i k
 службовец	s ɫ u ʐ b ɔ vʲ ɛ ts
+слуп	s ɫ u p
+слупняк	s ɫ u p nʲ a k
 слухаць	s ɫ u x a tsʲ
 слухач	s ɫ u x a tʂ
 слушнасць	s ɫ u ʂ n a sʲ tsʲ
+слых	s ɫ ɨ x
 сляпіца	sʲ lʲ a pʲ i ts a
 смага	s m a ɣ a
 смагнуць	s m a ɣ n u tsʲ
 смажаніна	s m a ʐ a nʲ i n a
+смажыць	s m a ʐ ɨ tsʲ
+смак	s m a k
 смакавы	s m a k a v ɨ
 смактаць	s m a k t a tsʲ
 смаліць	s m a lʲ i tsʲ
+смаржок	s m a r ʐ ɔ k
 смачны	s m a tʂ n ɨ
 смелы	sʲ mʲ ɛ ɫ ɨ
 смерць	sʲ mʲ ɛ r tsʲ
+смецце	sʲ mʲ ɛ tsʲː ɛ
 смоўж	s m ɔ w ʐ
+смутак	s m u t a k
+смуткаваць	s m u t k a v a tsʲ
+смутны	s m u t n ɨ
 смяротнік	sʲ mʲ a r ɔ t nʲ i k
+смяротны	sʲ mʲ a r ɔ t n ɨ
+смятанка	sʲ mʲ a t a n k a
+снеданне	sʲ nʲ ɛ d a nʲː ɛ
 снедаць	sʲ nʲ ɛ d a tsʲ
+снежань	sʲ nʲ ɛ ʐ a nʲ
 сніць	sʲ nʲ i tsʲ
 сноўдацца	s n ɔ w d a tsː a
 сокал	s ɔ k a ɫ
 сокат	s ɔ k a t
 сон	s ɔ n
 сопкі	s ɔ p kʲ i
+сорам	s ɔ r a m
 соўгацца	s ɔ w ɣ a tsː a
 сочка	s ɔ tʂ k a
 спаборніцтва	s p a b ɔ r nʲ i ts t v a
 спавівач	s p a vʲ i v a tʂ
 спавядальнік	s p a vʲ a d a lʲ nʲ i k
+спавядаць	s p a vʲ a d a tsʲ
+спагада	s p a ɣ a d a
+спагадаць	s p a ɣ a d a tsʲ
 спадабацца	s p a d a b a tsː a
 спадарожнік	s p a d a r ɔ ʐ nʲ i k
 спадаць	s p a d a tsʲ
+спадзявацца	s p a dzʲ a v a tsː a
+спадкаемец	s p a d k a j ɛ mʲ ɛ ts
 спадніца	s p a d nʲ i ts a
+спадчына	s p a tʂː ɨ n a
 спадчыннік	s p a tʂː ɨ nʲː i k
 спажыва	s p a ʐ ɨ v a
 спажывальнік	s p a ʐ ɨ v a lʲ nʲ i k
 спажытак	s p a ʐ ɨ t a k
+спажыць	s p a ʐ ɨ tsʲ
 спазнацца	s p a z n a tsː a
+спазнаць	s p a z n a tsʲ
 спазніцца	s p a zʲ nʲ i tsː a
 спакаваць	s p a k a v a tsʲ
 спакваля	s p a k v a lʲ a
+спакой	s p a k ɔ j
+спакуса	s p a k u s a
 спакусіць	s p a k u sʲ i tsʲ
 спакуслівы	s p a k u sʲ lʲ i v ɨ
 спакуснік	s p a k u sʲ nʲ i k
@@ -3793,15 +5188,23 @@
 спасвіць	s p a sʲ vʲ i tsʲ
 спасцігнуць	s p a sʲ tsʲ i ɣ n u tsʲ
 спасылка	s p a s ɨ ɫ k a
+спаткаць	s p a t k a tsʲ
 спатрэбіцца	s p a t r ɛ bʲ i tsː a
 спатрэбіць	s p a t r ɛ bʲ i tsʲ
 спахапіцца	s p a x a pʲ i tsː a
 спахмурнець	s p a x m u r nʲ ɛ tsʲ
 спачатку	s p a tʂ a t k u
+спачуваць	s p a tʂ u v a tsʲ
+спачын	s p a tʂ ɨ n
 спачынак	s p a tʂ ɨ n a k
 спачыць	s p a tʂ ɨ tsʲ
+спевы	sʲ pʲ ɛ v ɨ
+спелы	sʲ pʲ ɛ ɫ ɨ
 спесціць	sʲ pʲ ɛ sʲ tsʲ i tsʲ
 спеўнік	sʲ pʲ ɛ w nʲ i k
+спехам	sʲ pʲ ɛ x a m
+спецвопратка	sʲ pʲ ɛ ts v ɔ p r a t k a
+спець	sʲ pʲ ɛ tsʲ
 спілаваць	sʲ pʲ i ɫ a v a tsʲ
 спілоўка	sʲ pʲ i ɫ ɔ w k a
 спіс	sʲ pʲ i s
@@ -3817,22 +5220,34 @@
 спорт	s p ɔ r t
 спотайку	s p ɔ t a j k u
 споўніцца	s p ɔ w nʲ i tsː a
+спрабаваць	s p r a b a v a tsʲ
+справа	s p r a v a
 справавод	s p r a v a v ɔ d
 справаводства	s p r a v a v ɔ d s t v a
 справаздача	s p r a v a z d a tʂ a
 спрадаць	s p r a d a tsʲ
+спрадвечны	s p r a d vʲ ɛ tʂ n ɨ
+спражка	s p r a ʐ k a
+спрактыкаваны	s p r a k t ɨ k a v a n ɨ
 спрактыкавацца	s p r a k t ɨ k a v a tsː a
 спрасціць	s p r a sʲ tsʲ i tsʲ
 спрат	s p r a t
 спраўдзіцца	s p r a w dzʲ i tsː a
 спрахнуць	s p r a x n u tsʲ
 спрацавацца	s p r a ts a v a tsː a
+спрачацца	s p r a tʂ a tsː a
 спрашчэнства	s p r a ʂ tʂ ɛ n s t v a
 спроба	s p r ɔ b a
+спружына	s p r u ʐ ɨ n a
 спружыноўка	s p r u ʐ ɨ n ɔ w k a
 спруцянець	s p r u tsʲ a nʲ ɛ tsʲ
+спрыт	s p r ɨ t
+спрытны	s p r ɨ t n ɨ
+спрыяльны	s p r ɨ j a lʲ n ɨ
+спрыяць	s p r ɨ j a tsʲ
 спрэс	s p r ɛ s
 спрэчка	s p r ɛ tʂ k a
+спрэчны	s p r ɛ tʂ n ɨ
 спуд	s p u d
 спудзіць	s p u dzʲ i tsʲ
 спудлаваць	s p u d ɫ a v a tsʲ
@@ -3843,7 +5258,10 @@
 спухнуць	s p u x n u tsʲ
 спыніць	s p ɨ nʲ i tsʲ
 спырскаць	s p ɨ r s k a tsʲ
+спытаць	s p ɨ t a tsʲ
 спэцкаць	s p ɛ ts k a tsʲ
+спявак	sʲ pʲ a v a k
+спяваць	sʲ pʲ a v a tsʲ
 спякота	sʲ pʲ a k ɔ t a
 спялець	sʲ pʲ a lʲ ɛ tsʲ
 спяліць	sʲ pʲ a lʲ i tsʲ
@@ -3851,25 +5269,38 @@
 спярэсціць	sʲ pʲ a r ɛ sʲ tsʲ i tsʲ
 спячы	sʲ pʲ a tʂ ɨ
 спяшацца	sʲ pʲ a ʂ a tsː a
+сродак	s r ɔ d a k
 ссівець	sʲː i vʲ ɛ tsʲ
 ссінець	sʲː i nʲ ɛ tsʲ
 ссініць	sʲː i nʲ i tsʲ
 ссунуць	s s u n u tsʲ
+стагнаць	s t a ɣ n a tsʲ
 стагоддзе	s t a ɣ ɔ dzʲː ɛ
 стайнік	s t a j nʲ i k
+стайня	s t a j nʲ a
 стала	s t a ɫ a
+сталасць	s t a ɫ a sʲ tsʲ
+сталець	s t a lʲ ɛ tsʲ
 сталіць	s t a lʲ i tsʲ
+сталы	s t a ɫ ɨ
 сталюга	s t a lʲ u ɣ a
 стаміць	s t a mʲ i tsʲ
+стан	s t a n
 станавіты	s t a n a vʲ i t ɨ
 становішча	s t a n ɔ vʲ i ʂ tʂ a
 станоўчы	s t a n ɔ w tʂ ɨ
 старадаўні	s t a r a d a w nʲ i
+старажытны	s t a r a ʐ ɨ t n ɨ
 старана	s t a r a n a
+старанны	s t a r a nː ɨ
 старасветчына	s t a r a sʲ vʲ ɛ tʂː ɨ n a
+старонка	s t a r ɔ n k a
 старонні	s t a r ɔ nʲː i
+старонны	s t a r ɔ nː ɨ
 староства	s t a r ɔ s t v a
+старшыня	s t a r ʂ ɨ nʲ a
 старэчы	s t a r ɛ tʂ ɨ
+статак	s t a t a k
 стаў	s t a w
 стаўбун	s t a w b u n
 стаўчы	s t a w tʂ ɨ
@@ -3880,9 +5311,14 @@
 стогадовы	s t ɔ ɣ a d ɔ v ɨ
 стогн	s t ɔ ɣ n
 стол	s t ɔ ɫ
+столь	s t ɔ lʲ
 стома	s t ɔ m a
+стос	s t ɔ s
+страва	s t r a v a
 страваванне	s t r a v a v a nʲː ɛ
+стрававод	s t r a v a v ɔ d
 стравіць	s t r a vʲ i tsʲ
+стракаты	s t r a k a t ɨ
 стракаціна	s t r a k a tsʲ i n a
 страла	s t r a ɫ a
 страляніна	s t r a lʲ a nʲ i n a
@@ -3893,25 +5329,38 @@
 страта	s t r a t a
 стратны	s t r a t n ɨ
 страўнік	s t r a w nʲ i k
+страха	s t r a x a
 страхоцце	s t r a x ɔ tsʲː ɛ
 страціць	s t r a tsʲ i tsʲ
+страшыдла	s t r a ʂ ɨ d ɫ a
 строі	s t r ɔ j i
 строй	s t r ɔ j
+строма	s t r ɔ m a
 стромкі	s t r ɔ m kʲ i
 стромы	s t r ɔ m ɨ
+стронга	s t r ɔ n ɣ a
+струк	s t r u k
 струменіцца	s t r u mʲ ɛ nʲ i tsː a
 струмень	s t r u mʲ ɛ nʲ
 струна	s t r u n a
 струхлець	s t r u x lʲ ɛ tsʲ
+струшчыць	s t r u ʂ tʂ ɨ tsʲ
+стрываць	s t r ɨ v a tsʲ
 стрывожыць	s t r ɨ v ɔ ʐ ɨ tsʲ
 стрыечны	s t r ɨ j ɛ tʂ n ɨ
 стрыжань	s t r ɨ ʐ a nʲ
+стрыманасць	s t r ɨ m a n a sʲ tsʲ
 стрымаць	s t r ɨ m a tsʲ
 стрымгалоў	s t r ɨ m ɣ a ɫ ɔ w
 стрыхоўка	s t r ɨ x ɔ w k a
+стрэл	s t r ɛ ɫ
 стрэліць	s t r ɛ lʲ i tsʲ
 стрэльба	s t r ɛ lʲ b a
+стрэмка	s t r ɛ m k a
 стрэсціся	s t r ɛ sʲ tsʲ i sʲ a
+студзень	s t u dzʲ ɛ nʲ
+студня	s t u d nʲ a
+стужка	s t u ʐ k a
 стуканіна	s t u k a nʲ i n a
 стукат	s t u k a t
 стул	s t u ɫ
@@ -3920,20 +5369,32 @@
 стухнуць	s t u x n u tsʲ
 стынь	s t ɨ nʲ
 стырнік	s t ɨ r nʲ i k
+стырно	s t ɨ r n ɔ
 суадносіны	s u a d n ɔ sʲ i n ɨ
 суадносны	s u a d n ɔ s n ɨ
 суайчыннік	s u a j tʂ ɨ nʲː i k
 сувой	s u v ɔ j
+сувязь	s u vʲ a zʲ
 сугучны	s u ɣ u tʂ n ɨ
+сугучча	s u ɣ u tʂː a
 сужыццё	s u ʐ ɨ tsʲː ɔ
 сузалежнасць	s u z a lʲ ɛ ʐ n a sʲ tsʲ
 сузіральнік	s u zʲ i r a lʲ nʲ i k
 сузіраць	s u zʲ i r a tsʲ
 суіскальнік	s u j i s k a lʲ nʲ i k
 суіснаваць	s u j i s n a v a tsʲ
+суквецце	s u k vʲ ɛ tsʲː ɛ
+сукенка	s u kʲ ɛ n k a
+сукупнасць	s u k u p n a sʲ tsʲ
 суладны	s u ɫ a d n ɨ
+сумаваць	s u m a v a tsʲ
 сумесны	s u mʲ ɛ s n ɨ
+сумесь	s u mʲ ɛ sʲ
+сумёт	s u mʲ ɔ t
+сумленне	s u m lʲ ɛ nʲː ɛ
+сумленны	s u m lʲ ɛ nː ɨ
 сумножнік	s u m n ɔ ʐ nʲ i k
+сумны	s u m n ɨ
 сумысны	s u m ɨ s n ɨ
 сумяшчальнасць	s u mʲ a ʂ tʂ a lʲ n a sʲ tsʲ
 сумяшчальнік	s u mʲ a ʂ tʂ a lʲ nʲ i k
@@ -3948,29 +5409,45 @@
 супакой	s u p a k ɔ j
 супакойлівы	s u p a k ɔ j lʲ i v ɨ
 супервокладка	s u pʲ ɛ r v ɔ k ɫ a d k a
+суполка	s u p ɔ ɫ k a
+супольны	s u p ɔ lʲ n ɨ
 суправаджальнік	s u p r a v a d ʐ a lʲ nʲ i k
 супрацоўнік	s u p r a ts ɔ w nʲ i k
 супрацоўніцтва	s u p r a ts ɔ w nʲ i ts t v a
+супраць	s u p r a tsʲ
 супрацьпаставіць	s u p r a tsʲ p a s t a vʲ i tsʲ
 супрацьслізготны	s u p r a tsʲ sʲ lʲ i z ɣ ɔ t n ɨ
+супрацьстаяць	s u p r a tsʲ s t a j a tsʲ
 супярэчлівы	s u pʲ a r ɛ tʂ lʲ i v ɨ
+супярэчнасць	s u pʲ a r ɛ tʂ n a sʲ tsʲ
+супярэчыць	s u pʲ a r ɛ tʂ ɨ tsʲ
 суравізна	s u r a vʲ i z n a
 сурвэтка	s u r v ɛ t k a
 сурдук	s u r d u k
+сурочыць	s u r ɔ tʂ ɨ tsʲ
+сусвет	s u sʲ vʲ ɛ t
 сусед	s u sʲ ɛ d
+сустракацца	s u s t r a k a tsː a
 сустракаць	s u s t r a k a tsʲ
 сустрэць	s u s t r ɛ tsʲ
+сустрэча	s u s t r ɛ tʂ a
+сутарга	s u t a r ɣ a
 сутарэнне	s u t a r ɛ nʲː ɛ
+сутнасць	s u t n a sʲ tsʲ
 сутокі	s u t ɔ kʲ i
 сутонець	s u t ɔ nʲ ɛ tsʲ
 сутыкнуць	s u t ɨ k n u tsʲ
 сутычка	s u t ɨ tʂ k a
 сухарлявы	s u x a r lʲ a v ɨ
+сухоты	s u x ɔ t ɨ
+суцешыць	s u tsʲ ɛ ʂ ɨ tsʲ
 суцішыць	s u tsʲ i ʂ ɨ tsʲ
 суцэльны	s u ts ɛ lʲ n ɨ
 суцяшальнік	s u tsʲ a ʂ a lʲ nʲ i k
 суцяшальны	s u tsʲ a ʂ a lʲ n ɨ
+сучаснасць	s u tʂ a s n a sʲ tsʲ
 сучаснік	s u tʂ a sʲ nʲ i k
+сучасны	s u tʂ a s n ɨ
 сучка	s u tʂ k a
 схаваць	s x a v a tsʲ
 схаднейшы	s x a d nʲ ɛ j ʂ ɨ
@@ -3991,10 +5468,12 @@
 сцвердзіць	sʲ tsʲ vʲ ɛ r dzʲ i tsʲ
 сцвярджэнне	sʲ tsʲ vʲ a r d ʐ ɛ nʲː ɛ
 сцвярдзець	sʲ tsʲ vʲ a r dzʲ ɛ tsʲ
+сцежка	sʲ tsʲ ɛ ʐ k a
 сцень	sʲ tsʲ ɛ nʲ
 сцепануцца	sʲ tsʲ ɛ p a n u tsː a
 сцёбнуць	sʲ tsʲ ɔ b n u tsʲ
 сцёгны	sʲ tsʲ ɔ ɣ n ɨ
+сцёк	sʲ tsʲ ɔ k
 сцізорык	sʲ tsʲ i z ɔ r ɨ k
 сцілка	sʲ tsʲ i ɫ k a
 сціплы	sʲ tsʲ i p ɫ ɨ
@@ -4006,6 +5485,9 @@
 сцэдкі	s ts ɛ d kʲ i
 сцэна	s ts ɛ n a
 сцюжа	sʲ tsʲ u ʐ a
+сцябло	sʲ tsʲ a b ɫ ɔ
+сцяг	sʲ tsʲ a ɣ
+сцягно	sʲ tsʲ a ɣ n ɔ
 сцяжына	sʲ tsʲ a ʐ ɨ n a
 сцяміць	sʲ tsʲ a mʲ i tsʲ
 сцяць	sʲ tsʲ a tsʲ
@@ -4021,16 +5503,20 @@
 сшэрхнуць	s ʂ ɛ r x n u tsʲ
 сыкнуць	s ɨ k n u tsʲ
 сыравіна	s ɨ r a vʲ i n a
+сыроватка	s ɨ r ɔ v a t k a
 сыскаць	s ɨ s k a tsʲ
 сысці	s ɨ sʲ tsʲ i
 сэнс	s ɛ n s
 сэрца	s ɛ r ts a
+сябар	sʲ a b a r
 сябраваць	sʲ a b r a v a tsʲ
 сявенька	sʲ a vʲ ɛ nʲ k a
+сявец	sʲ a vʲ ɛ ts
 сяголетні	sʲ a ɣ ɔ lʲ ɛ t nʲ i
 сягоння	sʲ a ɣ ɔ nʲː a
 сядзець	sʲ a dzʲ ɛ tsʲ
 сядзіба	sʲ a dzʲ i b a
+сякера	sʲ a kʲ ɛ r a
 сяліба	sʲ a lʲ i b a
 сяло	sʲ a ɫ ɔ
 сялянства	sʲ a lʲ a n s t v a
@@ -4042,24 +5528,33 @@
 сям-там	sʲ a m - t a m
 сям'я	sʲ a m j a
 сярнічка	sʲ a r nʲ i tʂ k a
+сярод	sʲ a r ɔ d
 сястра	sʲ a s t r a
 сяўба	sʲ a w b a
 сячкарня	sʲ a tʂ k a r nʲ a
+сячы	sʲ a tʂ ɨ
 тавар	t a v a r
 таваразнавец	t a v a r a z n a vʲ ɛ ts
 таваразнаўства	t a v a r a z n a w s t v a
 таваразнаўца	t a v a r a z n a w ts a
 таварыскасць	t a v a r ɨ s k a sʲ tsʲ
+таварыства	t a v a r ɨ s t v a
 таварыш	t a v a r ɨ ʂ
 тагасветны	t a ɣ a sʲ vʲ ɛ t n ɨ
+тагачасны	t a ɣ a tʂ a s n ɨ
 тады-сяды	t a d ɨ - sʲ a d ɨ
+таемны	t a j ɛ m n ɨ
+таксама	t a k s a m a
 талака	t a ɫ a k a
 талачыць	t a ɫ a tʂ ɨ tsʲ
+талерка	t a lʲ ɛ r k a
 там	t a m
+таму	t a m u
 танец	t a nʲ ɛ ts
 таннець	t a nʲː ɛ tsʲ
 танны	t a nː ɨ
 тапелец	t a pʲ ɛ lʲ ɛ ts
+таполя	t a p ɔ lʲ a
 таптаць	t a p t a tsʲ
 тапырыць	t a p ɨ r ɨ tsʲ
 тарабаніць	t a r a b a nʲ i tsʲ
@@ -4073,27 +5568,38 @@
 таямніца	t a j a m nʲ i ts a
 таямнічы	t a j a m nʲ i tʂ ɨ
 твань	t v a nʲ
+твар	t v a r
+твор	t v ɔ r
 творны	t v ɔ r n ɨ
 творчы	t v ɔ r tʂ ɨ
 тканіна	t k a nʲ i n a
+тканка	t k a n k a
 ткацтва	t k a ts t v a
+тлум	t ɫ u m
 тлумач	t ɫ u m a tʂ
 тлумачальнік	t ɫ u m a tʂ a lʲ nʲ i k
 тлумачальны	t ɫ u m a tʂ a lʲ n ɨ
+тлумачыць	t ɫ u m a tʂ ɨ tsʲ
 тлуміць	t ɫ u mʲ i tsʲ
 тлумны	t ɫ u m n ɨ
+тлусты	t ɫ u s t ɨ
 тлусцець	t ɫ u sʲ tsʲ ɛ tsʲ
 тлусціць	t ɫ u sʲ tsʲ i tsʲ
+тлушч	t ɫ u ʂ tʂ
 тнуць	t n u tsʲ
+тоесны	t ɔ j ɛ s n ɨ
 топкі	t ɔ p kʲ i
+торба	t ɔ r b a
 торбачнік	t ɔ r b a tʂ nʲ i k
 торкнуць	t ɔ r k n u tsʲ
 торфанарыхтоўка	t ɔ r f a n a r ɨ x t ɔ w k a
 трава	t r a v a
 травень	t r a vʲ ɛ nʲ
 траістасць	t r a j i s t a sʲ tsʲ
+трактаваць	t r a k t a v a tsʲ
 трапіцца	t r a pʲ i tsː a
 трапіць	t r a pʲ i tsʲ
+трапны	t r a p n ɨ
 трапяткі	t r a pʲ a t kʲ i
 траціна	t r a tsʲ i n a
 тронкі	t r ɔ n kʲ i
@@ -4105,41 +5611,66 @@
 трохрадкоўе	t r ɔ x r a d k ɔ w j ɛ
 трохцалёўка	t r ɔ x ts a lʲ ɔ w k a
 трошкі	t r ɔ ʂ kʲ i
+труна	t r u n a
 трунак	t r u n a k
 трупярня	t r u pʲ a r nʲ a
+трус	t r u s
 трухляціна	t r u x lʲ a tsʲ i n a
 труціць	t r u tsʲ i tsʲ
+трушчыць	t r u ʂ tʂ ɨ tsʲ
 тры	t r ɨ
+трывалы	t r ɨ v a ɫ ɨ
 трыванне	t r ɨ v a nʲː ɛ
+трываць	t r ɨ v a tsʲ
 трывожыцца	t r ɨ v ɔ ʐ ɨ tsː a
 трызніць	t r ɨ zʲ nʲ i tsʲ
 трымальнік	t r ɨ m a lʲ nʲ i k
+трымаць	t r ɨ m a tsʲ
+трымцець	t r ɨ m tsʲ ɛ tsʲ
 трыножка	t r ɨ n ɔ ʐ k a
 трыпутнік	t r ɨ p u t nʲ i k
+трыснёг	t r ɨ sʲ nʲ ɔ ɣ
+трысцё	t r ɨ sʲ tsʲ ɔ
+трэба	t r ɛ b a
+трэска	t r ɛ s k a
+тубылец	t u b ɨ lʲ ɛ ts
+туга	t u ɣ a
 тужлівы	t u ʐ lʲ i v ɨ
 тузаніна	t u z a nʲ i n a
 туліць	t u lʲ i tsʲ
 туляцца	t u lʲ a tsː a
 тупат	t u p a t
+турбаваць	t u r b a v a tsʲ
+турбота	t u r b ɔ t a
 тут	t u t
+тхор	t x ɔ r
+тыдзень	t ɨ dzʲ ɛ nʲ
+тынк	t ɨ n k
+тынкаваць	t ɨ n k a v a tsʲ
 тынкоўшчык	t ɨ n k ɔ w ʂ tʂ ɨ k
 тып	t ɨ p
 тыповы	t ɨ p ɔ v ɨ
+тытунь	t ɨ t u nʲ
 тыцнуць	t ɨ ts n u tsʲ
 тычка	t ɨ tʂ k a
+тычыцца	t ɨ tʂ ɨ tsː a
+тэбель	t ɛ bʲ ɛ lʲ
 тэлевежа	t ɛ lʲ ɛ vʲ ɛ ʐ a
 тэлеглядач	t ɛ lʲ ɛ ɣ lʲ a d a tʂ
 тэлечасопіс	t ɛ lʲ ɛ tʂ a s ɔ pʲ i s
 тэрмін	t ɛ r mʲ i n
 тэрміновы	t ɛ r mʲ i n ɔ v ɨ
 убараніць	u b a r a nʲ i tsʲ
+убачыць	u b a tʂ ɨ tsʲ
 убегчы	u bʲ ɛ ɣ tʂ ɨ
 уберагчы	u bʲ ɛ r a ɣ tʂ ɨ
 убінтаваць	u bʲ i n t a v a tsʲ
+ублытаць	u b ɫ ɨ t a tsʲ
 убранне	u b r a nʲː ɛ
 убрукаваць	u b r u k a v a tsʲ
 убрыкнуць	u b r ɨ k n u tsʲ
 убудаваць	u b u d a v a tsʲ
+увага	u v a ɣ a
 уважлівы	u v a ʐ lʲ i v ɨ
 уварваць	u v a r v a tsʲ
 увасабленне	u v a s a b lʲ ɛ nʲː ɛ
@@ -4147,9 +5678,11 @@
 уваход	u v a x ɔ d
 увачавідкі	u v a tʂ a vʲ i d kʲ i
 уведаць	u vʲ ɛ d a tsʲ
+уверсе	u vʲ ɛ r sʲ ɛ
 увесь	u vʲ ɛ sʲ
 увечар	u vʲ ɛ tʂ a r
 увільгатніць	u vʲ i lʲ ɣ a t nʲ i tsʲ
+увогуле	u v ɔ ɣ u lʲ ɛ
 уводзіны	u v ɔ dzʲ i n ɨ
 увышыню	u v ɨ ʂ ɨ nʲ u
 увярцець	u vʲ a r tsʲ ɛ tsʲ
@@ -4166,6 +5699,7 @@
 угледзець	u ɣ lʲ ɛ dzʲ ɛ tsʲ
 углыбіню	u ɣ ɫ ɨ bʲ i nʲ u
 углядзецца	u ɣ lʲ a dzʲ ɛ tsː a
+угнаенне	u ɣ n a j ɛ nʲː ɛ
 угнаіць	u ɣ n a j i tsʲ
 угневацца	u ɣ nʲ ɛ v a tsː a
 угодкі	u ɣ ɔ d kʲ i
@@ -4181,6 +5715,7 @@
 удаваць	u d a v a tsʲ
 удавец	u d a vʲ ɛ ts
 удакладніць	u d a k ɫ a d nʲ i tsʲ
+удалы	u d a ɫ ɨ
 удасканаліць	u d a s k a n a lʲ i tsʲ
 удваіх	u d v a j i x
 уджгнуць	u d ʐ ɣ n u tsʲ
@@ -4192,6 +5727,7 @@
 удзьмуць	u d zʲ m u tsʲ
 удзяўбці	u dzʲ a w b tsʲ i
 удзячнасць	u dzʲ a tʂ n a sʲ tsʲ
+удзячны	u dzʲ a tʂ n ɨ
 удосталь	u d ɔ s t a lʲ
 удоўж	u d ɔ w ʐ
 удубець	u d u bʲ ɛ tsʲ
@@ -4207,9 +5743,11 @@
 узаемаабумоўлены	u z a j ɛ m a a b u m ɔ w lʲ ɛ n ɨ
 узаемаадносіны	u z a j ɛ m a a d n ɔ sʲ i n ɨ
 узаемадапамога	u z a j ɛ m a d a p a m ɔ ɣ a
+узаемадзеянне	u z a j ɛ m a dzʲ ɛ j a nʲː ɛ
 узаемазалежнасць	u z a j ɛ m a z a lʲ ɛ ʐ n a sʲ tsʲ
 узаемапавага	u z a j ɛ m a p a v a ɣ a
 узаемаразлікі	u z a j ɛ m a r a zʲ lʲ i kʲ i
+узаемасувязь	u z a j ɛ m a s u vʲ a zʲ
 узаемаўплыў	u z a j ɛ m a w p ɫ ɨ w
 узараць	u z a r a tsʲ
 узбагаціць	u z b a ɣ a tsʲ i tsʲ
@@ -4218,6 +5756,7 @@
 узбіць	u zʲ bʲ i tsʲ
 узбоўтаць	u z b ɔ w t a tsʲ
 узбоч	u z b ɔ tʂ
+узбраенне	u z b r a j ɛ nʲː ɛ
 узброіць	u z b r ɔ j i tsʲ
 узбройваць	u z b r ɔ j v a tsʲ
 узбудзіць	u z b u dzʲ i tsʲ
@@ -4228,20 +5767,25 @@
 узважыць	u z v a ʐ ɨ tsʲ
 узвалачы	u z v a ɫ a tʂ ɨ
 узварухнуць	u z v a r u x n u tsʲ
+узварушыць	u z v a r u ʂ ɨ tsʲ
 узвіць	u zʲ vʲ i tsʲ
+узвышша	u z v ɨ ʂ ʂ a
 узвялічыць	u zʲ vʲ a lʲ i tʂ ɨ tsʲ
 узгадаваць	u z ɣ a d a v a tsʲ
 узгадніць	u z ɣ a d nʲ i tsʲ
 узгодненасць	u z ɣ ɔ d nʲ ɛ n a sʲ tsʲ
+узгорак	u z ɣ ɔ r a k
 узгорысты	u z ɣ ɔ r ɨ s t ɨ
 уздзейнічаць	u z dzʲ ɛ j nʲ i tʂ a tsʲ
 уздзець	u z dzʲ ɛ tsʲ
+уздзеянне	u z dzʲ ɛ j a nʲː ɛ
 уздзіраць	u z dzʲ i r a tsʲ
 уздоўж	u z d ɔ w ʐ
 уздрыг	u z d r ɨ ɣ
 уздрыгнуць	u z d r ɨ ɣ n u tsʲ
 уздужаць	u z d u ʐ a tsʲ
 уздым	u z d ɨ m
+уздых	u z d ɨ x
 узімку	u zʲ i m k u
 узірацца	u zʲ i r a tsː a
 узлавацца	u z ɫ a v a tsː a
@@ -4251,14 +5795,21 @@
 узліць	u zʲ lʲ i tsʲ
 узмацнець	u z m a tsʲ nʲ ɛ tsʲ
 узмацніць	u z m a tsʲ nʲ i tsʲ
+узмоцнены	u z m ɔ tsʲ nʲ ɛ n ɨ
 узмужнець	u z m u ʐ nʲ ɛ tsʲ
 узнавіць	u z n a vʲ i tsʲ
+узнагарода	u z n a ɣ a r ɔ d a
 узнагародзіць	u z n a ɣ a r ɔ dzʲ i tsʲ
 узначаліць	u z n a tʂ a lʲ i tsʲ
+узнёслы	u zʲ nʲ ɔ s ɫ ɨ
+узняць	u zʲ nʲ a tsʲ
 узор	u z ɔ r
+узорны	u z ɔ r n ɨ
 узорысты	u z ɔ r ɨ s t ɨ
 узрадавацца	u z r a d a v a tsː a
 узровень	u z r ɔ vʲ ɛ nʲ
+узрост	u z r ɔ s t
+узрушанасць	u z r u ʂ a n a sʲ tsʲ
 узрушыць	u z r u ʂ ɨ tsʲ
 узрывальнік	u z r ɨ v a lʲ nʲ i k
 узыход	u z ɨ x ɔ d
@@ -4279,14 +5830,23 @@
 укормлены	u k ɔ r m lʲ ɛ n ɨ
 укрыўдзіць	u k r ɨ w dzʲ i tsʲ
 улагодзіць	u ɫ a ɣ ɔ dzʲ i tsʲ
+улада	u ɫ a d a
 уладальнік	u ɫ a d a lʲ nʲ i k
+уладар	u ɫ a d a r
+уладарны	u ɫ a d a r n ɨ
+уладарыць	u ɫ a d a r ɨ tsʲ
+уладкаваць	u ɫ a d k a v a tsʲ
+уладны	u ɫ a d n ɨ
 уласкавіць	u ɫ a s k a vʲ i tsʲ
+уласнасць	u ɫ a s n a sʲ tsʲ
 уласнік	u ɫ a sʲ nʲ i k
+уласны	u ɫ a s n ɨ
 уласцівасць	u ɫ a sʲ tsʲ i v a sʲ tsʲ
 уласцівы	u ɫ a sʲ tsʲ i v ɨ
 улашчыць	u ɫ a ʂ tʂ ɨ tsʲ
 улегцы	u lʲ ɛ ɣ ts ɨ
 улегчы	u lʲ ɛ ɣ tʂ ɨ
+улетку	u lʲ ɛ t k u
 улік	u lʲ i k
 улічыць	u lʲ i tʂ ɨ tsʲ
 уломак	u ɫ ɔ m a k
@@ -4298,9 +5858,12 @@
 умайстраваць	u m a j s t r a v a tsʲ
 умакрэць	u m a k r ɛ tsʲ
 умалаціць	u m a ɫ a tsʲ i tsʲ
+умацаваць	u m a ts a v a tsʲ
 уміг	u mʲ i ɣ
 умлець	u m lʲ ɛ tsʲ
+умова	u m ɔ v a
 умовіцца	u m ɔ vʲ i tsː a
+умольваць	u m ɔ lʲ v a tsʲ
 умомант	u m ɔ m a n t
 умоўны	u m ɔ w n ɨ
 умоўчаць	u m ɔ w tʂ a tsʲ
@@ -4318,14 +5881,18 @@
 упарадкаванасць	u p a r a d k a v a n a sʲ tsʲ
 упарадкаваць	u p a r a d k a v a tsʲ
 упароць	u p a r ɔ tsʲ
+упарты	u p a r t ɨ
 упасвіць	u p a sʲ vʲ i tsʲ
 упаўнаважыць	u p a w n a v a ʐ ɨ tsʲ
 упачатку	u p a tʂ a t k u
 упершыню	u pʲ ɛ r ʂ ɨ nʲ u
 упільнаваць	u pʲ i lʲ n a v a tsʲ
+уплывовы	u p ɫ ɨ v ɔ v ɨ
 уплыў	u p ɫ ɨ w
 уплюхаць	u p lʲ u x a tsʲ
 упокат	u p ɔ k a t
+упоперак	u p ɔ pʲ ɛ r a k
+употай	u p ɔ t a j
 употайкі	u p ɔ t a j kʲ i
 упоцемку	u p ɔ tsʲ ɛ m k u
 управа	u p r a v a
@@ -4333,26 +5900,34 @@
 упраўны	u p r a w n ɨ
 упрыгажэнне	u p r ɨ ɣ a ʐ ɛ nʲː ɛ
 упрыгожанне	u p r ɨ ɣ ɔ ʐ a nʲː ɛ
+упрыгожванне	u p r ɨ ɣ ɔ ʐ v a nʲː ɛ
 упрыгожыць	u p r ɨ ɣ ɔ ʐ ɨ tsʲ
 упыніць	u p ɨ nʲ i tsʲ
 упэўніць	u p ɛ w nʲ i tsʲ
 упэцкаць	u p ɛ ts k a tsʲ
 урабіць	u r a bʲ i tsʲ
+урад	u r a d
 урадлівы	u r a d lʲ i v ɨ
+уражанне	u r a ʐ a nʲː ɛ
 уражваць	u r a ʐ v a tsʲ
 уразіць	u r a zʲ i tsʲ
 уразлівы	u r a zʲ lʲ i v ɨ
 уратаваць	u r a t a v a tsʲ
 ураўнаважыць	u r a w n a v a ʐ ɨ tsʲ
+урачыстасць	u r a tʂ ɨ s t a sʲ tsʲ
+урачысты	u r a tʂ ɨ s t ɨ
 урвіцель	u r vʲ i tsʲ ɛ lʲ
 урода	u r ɔ d a
 урок	u r ɔ k
+урывак	u r ɨ v a k
 урэзак	u r ɛ z a k
 урэчнік	u r ɛ tʂ nʲ i k
+урэшце	u r ɛ ʂ tsʲ ɛ
 усачыць	u s a tʂ ɨ tsʲ
 усватаць	u s v a t a tsʲ
 усвядоміць	u sʲ vʲ a d ɔ mʲ i tsʲ
 усе	u sʲ ɛ
+усеагульны	u sʲ ɛ a ɣ u lʲ n ɨ
 усебаковы	u sʲ ɛ b a k ɔ v ɨ
 уседлівы	u sʲ ɛ d lʲ i v ɨ
 усеўладдзе	u sʲ ɛ w ɫ a dzʲː ɛ
@@ -4394,6 +5969,7 @@
 успудзіць	u s p u dzʲ i tsʲ
 уссунуць	u s s u n u tsʲ
 усталяваць	u s t a lʲ a v a tsʲ
+установа	u s t a n ɔ v a
 устаноўчы	u s t a n ɔ w tʂ ɨ
 устойлівасць	u s t ɔ j lʲ i v a sʲ tsʲ
 устрыманасць	u s t r ɨ m a n a sʲ tsʲ
@@ -4407,6 +5983,8 @@
 усушыць	u s u ʂ ɨ tsʲ
 усхадзіцца	u s x a dzʲ i tsː a
 усхапіцца	u s x a pʲ i tsː a
+усхваляваць	u s x v a lʲ a v a tsʲ
+усход	u s x ɔ d
 усходазнаўства	u s x ɔ d a z n a w s t v a
 усходкі	u s x ɔ d kʲ i
 усходні	u s x ɔ d nʲ i
@@ -4417,6 +5995,7 @@
 усчапіць	u s tʂ a pʲ i tsʲ
 усялякі	u sʲ a lʲ a kʲ i
 утаймавальнік	u t a j m a v a lʲ nʲ i k
+утаймаваць	u t a j m a v a tsʲ
 утаропіць	u t a r ɔ pʲ i tsʲ
 утварыць	u t v a r ɨ tsʲ
 утлумачыць	u t ɫ u m a tʂ ɨ tsʲ
@@ -4425,9 +6004,12 @@
 уторкнуць	u t ɔ r k n u tsʲ
 уточка	u t ɔ tʂ k a
 утрапёнасць	u t r a pʲ ɔ n a sʲ tsʲ
+утрапёны	u t r a pʲ ɔ n ɨ
 утрох	u t r ɔ x
 утрываць	u t r ɨ v a tsʲ
+утрымаць	u t r ɨ m a tsʲ
 утуліць	u t u lʲ i tsʲ
+утульнасць	u t u lʲ n a sʲ tsʲ
 утушыць	u t u ʂ ɨ tsʲ
 ухаваць	u x a v a tsʲ
 ухадзіцца	u x a dzʲ i tsː a
@@ -4436,6 +6018,7 @@
 ухілісты	u xʲ i lʲ i s t ɨ
 ухіліцца	u xʲ i lʲ i tsː a
 уходзіны	u x ɔ dzʲ i n ɨ
+уцеха	u tsʲ ɛ x a
 уцёкі	u tsʲ ɔ kʲ i
 уцінак	u tsʲ i n a k
 уціск	u tsʲ i s k
@@ -4453,6 +6036,7 @@
 учуць	u tʂ u tsʲ
 учынак	u tʂ ɨ n a k
 учэпісты	u tʂ ɛ pʲ i s t ɨ
+ушанаваць	u ʂ a n a v a tsʲ
 ушпіліць	u ʂ pʲ i lʲ i tsʲ
 ушрубаваць	u ʂ r u b a v a tsʲ
 уштурхнуць	u ʂ t u r x n u tsʲ
@@ -4464,13 +6048,22 @@
 ушчыльную	u ʂ tʂ ɨ lʲ n u j u
 ушчыльняльнік	u ʂ tʂ ɨ lʲ nʲ a lʲ nʲ i k
 ушчэнт	u ʂ tʂ ɛ n t
+ушэсце	u ʂ ɛ sʲ tsʲ ɛ
+уява	u j a v a
 уявіць	u j a vʲ i tsʲ
 уяўленне	u j a w lʲ ɛ nʲː ɛ
 уяўны	u j a w n ɨ
 файл	f a j ɫ
+файны	f a j n ɨ
 факультэт	f a k u lʲ t ɛ t
+фальбона	f a lʲ b ɔ n a
+фанабэрысты	f a n a b ɛ r ɨ s t ɨ
+фанабэрыцца	f a n a b ɛ r ɨ tsː a
+фанабэрыя	f a n a b ɛ r ɨ j a
 фантан	f a n t a n
+фарба	f a r b a
 фарбавальнік	f a r b a v a lʲ nʲ i k
+фарбаваць	f a r b a v a tsʲ
 фарбоўнік	f a r b ɔ w nʲ i k
 фарсісты	f a r sʲ i s t ɨ
 фарсіць	f a r sʲ i tsʲ
@@ -4480,6 +6073,7 @@
 фатаграфаваць	f a t a ɣ r a f a v a tsʲ
 фатограф	f a t ɔ ɣ r a f
 фатыга	f a t ɨ ɣ a
+фацэтны	f a ts ɛ t n ɨ
 фашыст	f a ʂ ɨ s t
 фельчар	fʲ ɛ lʲ tʂ a r
 фіранка	fʲ i r a n k a
@@ -4494,9 +6088,12 @@
 француз	f r a n ts u z
 фурманка	f u r m a n k a
 футбол	f u t b ɔ ɫ
+футра	f u t r a
 хабарнік	x a b a r nʲ i k
 хабарніцтва	x a b a r nʲ i ts t v a
 хавальнік	x a v a lʲ nʲ i k
+хаваць	x a v a tsʲ
+хада	x a d a
 хадайнік	x a d a j nʲ i k
 хадайнічаць	x a d a j nʲ i tʂ a tsʲ
 хай	x a j
@@ -4508,12 +6105,16 @@
 халява	x a lʲ a v a
 хапатлівы	x a p a t lʲ i v ɨ
 хапіць	x a pʲ i tsʲ
+хараство	x a r a s t v ɔ
 харашэйшы	x a r a ʂ ɛ j ʂ ɨ
 хартоўнік	x a r t ɔ w nʲ i k
+харч	x a r tʂ
 харчаванне	x a r tʂ a v a nʲː ɛ
 харчавацца	x a r tʂ a v a tsː a
+харчаваць	x a r tʂ a v a tsʲ
 харчавік	x a r tʂ a vʲ i k
 харчовы	x a r tʂ ɔ v ɨ
+харчы	x a r tʂ ɨ
 хата	x a t a
 хатні	x a t nʲ i
 хаўкаць	x a w k a tsʲ
@@ -4525,8 +6126,16 @@
 хацішча	x a tsʲ i ʂ tʂ a
 хваёвы	x v a j ɔ v ɨ
 хвалісты	x v a lʲ i s t ɨ
+хвальба	x v a lʲ b a
+хвалько	x v a lʲ k ɔ
+хваля	x v a lʲ a
+хваляванне	x v a lʲ a v a nʲː ɛ
+хвалявацца	x v a lʲ a v a tsː a
+хваляваць	x v a lʲ a v a tsʲ
 хваравіты	x v a r a vʲ i t ɨ
+хвароба	x v a r ɔ b a
 хварэць	x v a r ɛ tsʲ
+хвастаць	x v a s t a tsʲ
 хвацкі	x v a ts kʲ i
 хвіліна	x vʲ i lʲ i n a
 хвойнік	x v ɔ j nʲ i k
@@ -4534,6 +6143,7 @@
 хворасць	x v ɔ r a sʲ tsʲ
 хворы	x v ɔ r ɨ
 хвост	x v ɔ s t
+хвоя	x v ɔ j a
 хіб	xʲ i b
 хіба	xʲ i b a
 хібнасць	xʲ i b n a sʲ tsʲ
@@ -4550,11 +6160,16 @@
 хлеб	x lʲ ɛ b
 хлевішча	x lʲ ɛ vʲ i ʂ tʂ a
 хлопец	x ɫ ɔ pʲ ɛ ts
+хлопчык	x ɫ ɔ p tʂ ɨ k
 хлус	x ɫ u s
 хлусіць	x ɫ u sʲ i tsʲ
 хлуслівы	x ɫ u sʲ lʲ i v ɨ
+хлусня	x ɫ u sʲ nʲ a
 хлюпота	x lʲ u p ɔ t a
+хлябтаць	x lʲ a b t a tsʲ
+хмара	x m a r a
 хмарнасць	x m a r n a sʲ tsʲ
+хмурны	x m u r n ɨ
 хмыз	x m ɨ z
 хмызняк	x m ɨ zʲ nʲ a k
 хованка	x ɔ v a n k a
@@ -4562,17 +6177,25 @@
 холад	x ɔ ɫ a d
 хор	x ɔ r
 храбусценне	x r a b u sʲ tsʲ ɛ nʲː ɛ
+храбусцець	x r a b u sʲ tsʲ ɛ tsʲ
 храпка	x r a p k a
+храсток	x r a s t ɔ k
 хроснік	x r ɔ sʲ nʲ i k
 хрысціны	x r ɨ sʲ tsʲ i n ɨ
 хрысціць	x r ɨ sʲ tsʲ i tsʲ
 хрэсьбіны	x r ɛ sʲ bʲ i n ɨ
 хто	x t ɔ
 хтосьці	x t ɔ sʲ tsʲ i
+хударлявы	x u d a r lʲ a v ɨ
 худзізна	x u dzʲ i z n a
+худы	x u d ɨ
 хукнуць	x u k n u tsʲ
+хуста	x u s t a
+хустка	x u s t k a
 хутка	x u t k a
+хуткабежны	x u t k a bʲ ɛ ʐ n ɨ
 хуткаплынны	x u t k a p ɫ ɨ nː ɨ
+хуткасць	x u t k a sʲ tsʲ
 хуткі	x u t kʲ i
 хутчэй	x u tʂː ɛ j
 цабэрак	ts a b ɛ r a k
@@ -4580,34 +6203,43 @@
 цагліна	ts a ɣ lʲ i n a
 цагляны	ts a ɣ lʲ a n ɨ
 цалік	ts a lʲ i k
+цалкам	ts a ɫ k a m
 цаляць	ts a lʲ a tsʲ
 цана	ts a n a
 цапаўё	ts a p a w j ɔ
 цапільна	ts a pʲ i lʲ n a
 цар	ts a r
+царква	ts a r k v a
 царства	ts a r s t v a
 цаца	ts a ts a
+цацка	ts a ts k a
 цверазіць	tsʲ vʲ ɛ r a zʲ i tsʲ
 цвік	tsʲ vʲ i k
 цвікля	tsʲ vʲ i k lʲ a
 цвілы	tsʲ vʲ i ɫ ɨ
 цвіль	tsʲ vʲ i lʲ
 цвінтар	tsʲ vʲ i n t a r
+цвыркаць	ts v ɨ r k a tsʲ
+цвыркун	ts v ɨ r k u n
 цвяліць	tsʲ vʲ a lʲ i tsʲ
 цела	tsʲ ɛ ɫ a
 целяпацца	tsʲ ɛ lʲ a p a tsː a
 цемнаскуры	tsʲ ɛ m n a s k u r ɨ
 цемнатвары	tsʲ ɛ m n a t v a r ɨ
+цемра	tsʲ ɛ m r a
 цемрашал	tsʲ ɛ m r a ʂ a ɫ
 цемрашальства	tsʲ ɛ m r a ʂ a lʲ s t v a
 цень	tsʲ ɛ nʲ
 цеплаёмісты	tsʲ ɛ p ɫ a j ɔ mʲ i s t ɨ
 цепліць	tsʲ ɛ p lʲ i tsʲ
+цеплыня	tsʲ ɛ p ɫ ɨ nʲ a
 церабіць	tsʲ ɛ r a bʲ i tsʲ
+цераз	tsʲ ɛ r a z
 церануць	tsʲ ɛ r a n u tsʲ
 церусіць	tsʲ ɛ r u sʲ i tsʲ
 церушыць	tsʲ ɛ r u ʂ ɨ tsʲ
 цесля	tsʲ ɛ sʲ lʲ a
+цецярук	tsʲ ɛ tsʲ a r u k
 цёк	tsʲ ɔ k
 цёмна-блакітны	tsʲ ɔ m n a - b ɫ a kʲ i t n ɨ
 цёмна-гняды	tsʲ ɔ m n a ɣ nʲ a d ɨ
@@ -4632,22 +6264,33 @@
 цмок	ts m ɔ k
 цнатлівы	ts n a t lʲ i v ɨ
 цнота	ts n ɔ t a
+цуд	ts u d
 цудатворны	ts u d a t v ɔ r n ɨ
 цудоўны	ts u d ɔ w n ɨ
+цукар	ts u k a r
 цукарніца	ts u k a r nʲ i ts a
+цукерка	ts u kʲ ɛ r k a
 цурацца	ts u r a tsː a
 цурбак	ts u r b a k
 цурок	ts u r ɔ k
+цурчаць	ts u r tʂ a tsʲ
 цурчэць	ts u r tʂ ɛ tsʲ
 цыбаты	ts ɨ b a t ɨ
 цыбук	ts ɨ b u k
+цыбуля	ts ɨ b u lʲ a
 цывільны	ts ɨ vʲ i lʲ n ɨ
 цыган	ts ɨ ɣ a n
+цыгара	ts ɨ ɣ a r a
+цыгарэта	ts ɨ ɣ a r ɛ t a
+цыраваць	ts ɨ r a v a tsʲ
 цырк	ts ɨ r k
 цыркаць	ts ɨ r k a tsʲ
 цыроўка	ts ɨ r ɔ w k a
 цырульнік	ts ɨ r u lʲ nʲ i k
 цырульня	ts ɨ r u lʲ nʲ a
+цытаваць	ts ɨ t a v a tsʲ
+цэбар	ts ɛ b a r
+цэгла	ts ɛ ɣ ɫ a
 цэлы	ts ɛ ɫ ɨ
 цэнтр	ts ɛ n t r
 цэнтральны	ts ɛ n t r a lʲ n ɨ
@@ -4657,34 +6300,50 @@
 цягнік	tsʲ a ɣ nʲ i k
 цягучка	tsʲ a ɣ u tʂ k a
 цяжар	tsʲ a ʐ a r
+цяжкавагавы	tsʲ a ʐ k a v a ɣ a v ɨ
 цяжкавоз	tsʲ a ʐ k a v ɔ z
 цяжкавымоўны	tsʲ a ʐ k a v ɨ m ɔ w n ɨ
 цяжэць	tsʲ a ʐ ɛ tsʲ
 цяміць	tsʲ a mʲ i tsʲ
 цямлівы	tsʲ a m lʲ i v ɨ
+цянёк	tsʲ a nʲ ɔ k
 цяпліць	tsʲ a p lʲ i tsʲ
 цяпло	tsʲ a p ɫ ɔ
 цярпець	tsʲ a r pʲ ɛ tsʲ
+цясляр	tsʲ a sʲ lʲ a r
+цяць	tsʲ a tsʲ
 чагосьці	tʂ a ɣ ɔ sʲ tsʲ i
+чакаць	tʂ a k a tsʲ
 чалавек	tʂ a ɫ a vʲ ɛ k
 чалавецтва	tʂ a ɫ a vʲ ɛ ts t v a
 чаляднік	tʂ a lʲ a d nʲ i k
+чапаць	tʂ a p a tsʲ
 чапля	tʂ a p lʲ a
 чапурысты	tʂ a p u r ɨ s t ɨ
 чапурыцца	tʂ a p u r ɨ tsː a
 чапяла	tʂ a pʲ a ɫ a
 чапяльнік	tʂ a pʲ a lʲ nʲ i k
+чараваць	tʂ a r a v a tsʲ
 чаравікі	tʂ a r a vʲ i kʲ i
 чараціна	tʂ a r a tsʲ i n a
+чарга	tʂ a r ɣ a
 чаргаваць	tʂ a r ɣ a v a tsʲ
+чарговы	tʂ a r ɣ ɔ v ɨ
 чарка	tʂ a r k a
+чарнаскуры	tʂ a r n a s k u r ɨ
 чарніцы	tʂ a r nʲ i ts ɨ
+чарот	tʂ a r ɔ t
 чаротніца	tʂ a r ɔ t nʲ i ts a
 чароўны	tʂ a r ɔ w n ɨ
+час	tʂ a s
 часіна	tʂ a sʲ i n a
 часнок	tʂ a s n ɔ k
+часовы	tʂ a s ɔ v ɨ
 часопіс	tʂ a s ɔ pʲ i s
 часта	tʂ a s t a
+частаваць	tʂ a s t a v a tsʲ
+частка	tʂ a s t k a
+частковы	tʂ a s t k ɔ v ɨ
 часцяком	tʂ a sʲ tsʲ a k ɔ m
 чатырохрадкоўе	tʂ a t ɨ r ɔ x r a d k ɔ w j ɛ
 чатыры	tʂ a t ɨ r ɨ
@@ -4692,39 +6351,57 @@
 чаўрэць	tʂ a w r ɛ tsʲ
 чашчавік	tʂ a ʂ tʂ a vʲ i k
 чашчыня	tʂ a ʂ tʂ ɨ nʲ a
+чвэрць	tʂ v ɛ r tsʲ
 член	tʂ lʲ ɛ n
+чмель	tʂ mʲ ɛ lʲ
 чмут	tʂ m u t
 чмыхнуць	tʂ m ɨ x n u tsʲ
+човен	tʂ ɔ vʲ ɛ n
+чоп	tʂ ɔ p
 чорны	tʂ ɔ r n ɨ
 чубіць	tʂ u bʲ i tsʲ
 чужы	tʂ u ʐ ɨ
 чужына	tʂ u ʐ ɨ n a
+чуйны	tʂ u j n ɨ
 чуллівы	tʂ u lʲ lʲ ʲ i v ɨ
+чулы	tʂ u ɫ ɨ
 чутка	tʂ u t k a
 чутнасць	tʂ u t n a sʲ tsʲ
 чутны	tʂ u t n ɨ
+чухаць	tʂ u x a tsʲ
 чуцца	tʂ u tsː a
+чуць	tʂ u tsʲ
 чыгунка	tʂ ɨ ɣ u n k a
 чынны	tʂ ɨ nː ɨ
 чынш	tʂ ɨ n ʂ
 чыншавік	tʂ ɨ n ʂ a vʲ i k
 чырванаскуры	tʂ ɨ r v a n a s k u r ɨ
+чырванець	tʂ ɨ r v a nʲ ɛ tsʲ
+чырвань	tʂ ɨ r v a nʲ
 чырвонагаловік	tʂ ɨ r v ɔ n a ɣ a ɫ ɔ vʲ i k
+чырвоны	tʂ ɨ r v ɔ n ɨ
 чысты	tʂ ɨ s t ɨ
 чысцец	tʂ ɨ sʲ tsʲ ɛ ts
 чысцік	tʂ ɨ sʲ tsʲ i k
 чысціня	tʂ ɨ sʲ tsʲ i nʲ a
 чытальнік	tʂ ɨ t a lʲ nʲ i k
 чытанка	tʂ ɨ t a n k a
+чытанне	tʂ ɨ t a nʲː ɛ
 чытаць	tʂ ɨ t a tsʲ
 чытач	tʂ ɨ t a tʂ
 чытэльны	tʂ ɨ t ɛ lʲ n ɨ
 чэзнуць	tʂ ɛ z n u tsʲ
 чэмер	tʂ ɛ mʲ ɛ r
+чэрава	tʂ ɛ r a v a
+чэрвень	tʂ ɛ r vʲ ɛ nʲ
 чэсанкі	tʂ ɛ s a n kʲ i
 шабля	ʂ a b lʲ a
+шавец	ʂ a vʲ ɛ ts
 шал	ʂ a ɫ
 шаленец	ʂ a lʲ ɛ nʲ ɛ ts
+шаленства	ʂ a lʲ ɛ n s t v a
+шалець	ʂ a lʲ ɛ tsʲ
+шалёны	ʂ a lʲ ɔ n ɨ
 шалёўка	ʂ a lʲ ɔ w k a
 шалі	ʂ a lʲ i
 шалік	ʂ a lʲ i k
@@ -4733,11 +6410,14 @@
 шалупайка	ʂ a ɫ u p a j k a
 шалупінне	ʂ a ɫ u pʲ i nʲː ɛ
 шальнік	ʂ a lʲ nʲ i k
+шамацець	ʂ a m a tsʲ ɛ tsʲ
 шампанскае	ʂ a m p a n s k a j ɛ
+шанаваць	ʂ a n a v a tsʲ
 шаноўны	ʂ a n ɔ w n ɨ
 шанцаваць	ʂ a n ts a v a tsʲ
 шапаткі	ʂ a p a t kʲ i
 шапатлівы	ʂ a p a t lʲ i v ɨ
+шапацець	ʂ a p a tsʲ ɛ tsʲ
 шапка	ʂ a p k a
 шар	ʂ a r
 шараваты	ʂ a r a v a t ɨ
