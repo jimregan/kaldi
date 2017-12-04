@@ -20,6 +20,7 @@ while(<>) {
     for(my $i = 0; $i <= $#chars; $i++) {
         $cur = '';
         next if($i == 0 && $chars[$i] eq 'ʲ');
+        next if($chars[$i] eq '-');
         $cur .= $chars[$i];
         if((($i + 2) <= $#chars) && $chars[$i+1] eq $tie) {
             $i++;
