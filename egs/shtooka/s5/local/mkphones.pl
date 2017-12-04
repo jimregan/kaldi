@@ -22,7 +22,6 @@ while(<>) {
         next if($i == 0 && $chars[$i] eq 'ʲ');
         $cur .= $chars[$i];
         if((($i + 2) <= $#chars) && $chars[$i+1] eq $tie) {
-            $cur .= $chars[$i+1];
             $i++;
             $cur .= $chars[$i+1];
             $i++;
