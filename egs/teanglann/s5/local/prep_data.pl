@@ -7,6 +7,7 @@ use utf8;
 use URI::Escape;
 
 open(IN, '<', $ARGV[0]) or die "No input file provided";
+binmode(IN, ":utf8");
 binmode(STDIN, ":utf8");
 binmode(STDOUT, ":utf8");
 
