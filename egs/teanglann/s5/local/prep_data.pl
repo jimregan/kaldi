@@ -1,4 +1,6 @@
-#!/usr/bin/perl
+#!/usr/bin/env perl
+# Copyright 2017 Jim O'Regan
+# Apache 2.0
 
 use warnings;
 use strict;
