@@ -19,10 +19,11 @@ if [ $stage -le 0 ]; then
   mkdir -p audio
 
   local/prep_data.pl local/pron.tsv
-  pushd
-  cd audio
-  wget -x -c -i urls
-  popd
+  if [ ! -d audio/www.teanglann.ie ]; then
+    pushd audio
+    wget -x -c -i urls
+    popd
+  fi
 fi
 
 exit
