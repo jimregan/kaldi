@@ -6,6 +6,7 @@ use utf8;
 
 use URI::Escape;
 
+open(IN, '<', $ARGV[0]) or die "No input file provided";
 binmode(STDIN, ":utf8");
 binmode(STDOUT, ":utf8");
 
@@ -98,7 +99,7 @@ binmode(WAVSCP, ":utf8");
 
 my %spkutt = ();
 
-while(<>) {
+while(<IN>) {
     chomp;
     my $dialect = '';
     my ($file, $speaker) = split/\t/;
