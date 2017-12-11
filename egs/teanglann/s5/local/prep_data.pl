@@ -111,7 +111,7 @@ while(<IN>) {
     }
 
     my $utt = sprintf("%s-%06d", $speaker, $out);
-    print UTT "$utt $spk\n";
+    print UTT "$utt $speaker\n";
 
     if(exists $spkutt{$speaker}) {
         $spkutt{$speaker} .= " $utt";
