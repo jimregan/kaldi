@@ -9,6 +9,8 @@ use utf8;
 use URI::Escape;
 
 open(IN, '<', $ARGV[0]) or die "No input file provided";
+my $target = $ARGV[1];
+
 binmode(IN, ":utf8");
 binmode(STDIN, ":utf8");
 binmode(STDOUT, ":utf8");
@@ -86,18 +88,15 @@ my $spk = 1;
 if (! -d "audio") {
     mkdir "audio";
 }
-if (! -d "data") {
-    mkdir "data";
-}
-if (! -d "data/train") {
-    mkdir "data/train";
+if (! -d $target) {
+    mkdir $target;
 }
 
-open(UTT, '>', 'data/train/utt2spk');
-open(TEXT, '>', 'data/train/text');
+open(UTT, '>', "$target/utt2spk");
+open(TEXT, '>', "$target/text");
 binmode(TEXT, ":utf8");
 open(URLS, '>', 'audio/urls');
-open(WAVSCP, '>', 'data/train/wav.scp');
+open(WAVSCP, '>', "$target/wav.scp");
 binmode(WAVSCP, ":utf8");
 
 my %spkutt = ();
