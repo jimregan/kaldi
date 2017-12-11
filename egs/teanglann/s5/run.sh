@@ -49,12 +49,6 @@ fi
 
 if [ $stage -le 2 ]; then
   mfccdir=mfcc
-  # spread the mfccs over various machines, as this data-set is quite large.
-  if [[  $(hostname -f) ==  *.clsp.jhu.edu ]]; then
-    mfcc=$(basename mfccdir) # in case was absolute pathname (unlikely), get basename.
-    utils/create_split_dir.pl /export/b{07,14,16,17}/$USER/kaldi-data/mfcc/commonvoice/s5/$mfcc/storage \
-      $mfccdir/storage
-  fi
 
   for part in valid_train valid_dev valid_test; do
     steps/make_mfcc.sh --cmd "$train_cmd" --nj 20 data/$part exp/make_mfcc/$part $mfccdir
