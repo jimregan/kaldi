@@ -7,9 +7,16 @@ use strict;
 use utf8;
 
 use URI::Escape;
+use Getopt::Long;
+
+my $every_n = 10;
+GetOptions("every_n=i" => \$every_n)
+  or die("Error in command line arguments");
+
 
 open(IN, '<', $ARGV[0]) or die "No input file provided";
-my $target = $ARGV[1];
+my $train = $ARGV[1];
+my $test = $ARGV[2];
 
 binmode(IN, ":utf8");
 binmode(STDIN, ":utf8");
@@ -26,6 +33,7 @@ my %fixC = (
     'zúm' => 'súm',
     'zipeáil' => 'sipeáil',
     'zip' => 'sip',
+    'agam' => "a'am",
     #vótóir = wótóir
 
 );
@@ -92,17 +100,24 @@ if (! -d $target) {
     mkdir $target;
 }
 
-open(UTT, '>', "$target/utt2spk");
-open(TEXT, '>', "$target/text");
+open(UTT, '>', "$train/utt2spk");
+open(TEXT, '>', "$train/text");
 binmode(TEXT, ":utf8");
 open(URLS, '>', 'audio/urls');
-open(WAVSCP, '>', "$target/wav.scp");
+open(WAVSCP, '>', "$train/wav.scp");
 binmode(WAVSCP, ":utf8");
+open(TUTT, '>', "$test/utt2spk");
+open(TTEXT, '>', "$test/text");
+binmode(TTEXT, ":utf8");
+open(TWAVSCP, '>', "$test/wav.scp");
+binmode(TWAVSCP, ":utf8");
 
 my %spkutt = ();
 
+my $count = 0;
 while(<IN>) {
     chomp;
+    $count++;
     my $dialect = '';
     my ($file, $speaker) = split/\t/;
     if (!defined $speaker || $speaker eq '') {
@@ -111,7 +126,11 @@ while(<IN>) {
     }
 
     my $utt = sprintf("%s-%06d", $speaker, $out);
-    print UTT "$utt $speaker\n";
+    if($count =~ /$every_n$/) {
+        print TUTT "$utt $speaker\n";
+    } else {
+        print UTT "$utt $speaker\n";
+    }
 
     if(exists $spkutt{$speaker}) {
         $spkutt{$speaker} .= " $utt";
@@ -126,8 +145,11 @@ while(<IN>) {
     $base =~ s/\.mp3$//;
     my $text = '';
 
-    print WAVSCP "$utt sox \"$file\" -t wav - |\n";
-
+    if($count =~ /$every_n$/) {
+        print TWAVSCP "$utt sox \"$file\" -t wav - |\n";
+    } else {
+        print WAVSCP "$utt sox \"$file\" -t wav - |\n";
+    }
     if($base =~ /\/([^\/]*)$/) {
         $text = $1;
     }
@@ -145,6 +167,10 @@ while(<IN>) {
     } else {
         $outtext = clean(get_replacement($text, $dialect));
     }
-    print TEXT "$utt\t$outtext\n";
+    if($count =~ /$every_n$/) {
+        print TTEXT "$utt\t$outtext\n";
+    } else {
+        print TEXT "$utt\t$outtext\n";
+    }
     $out++;
 }
