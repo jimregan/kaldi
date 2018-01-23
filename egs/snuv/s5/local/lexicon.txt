@@ -1,0 +1,95 @@
+a a
+ą O~
+b b E
+by b 1
+c t_s 1
+c t_s E
+ć t_s\ i
+czterdzieści t_s` t E r d_z\ E s\ t_s\ i
+czternaście t_s` t E r n a s\ t_s\ E
+czterysta t_s` t E r 1 s t a
+cztery t_s` t E r 1
+d d 1
+d d E
+dwa d v a
+dwadzieścia d v a d_z\ E s\ t_s\ a
+dwanaście d v a n a s\ t_s\ E
+dwieście d v' E s\ t_s\ E
+dziesięć d_z\ E s\ E J t_s\
+dziewięć d_z\ E v' E J t_s\
+dziewięćdziesiąt d_z\ E v' E J d_z\ E s\ O n t
+dziewięćset d_z\ E v' E J t_s\ s E t
+dziewiętnaście d_z\ E v' E n t n a s\ t_s\ E
+e E
+ę E
+f E f
+f f 1
+g g 1
+g g' E
+h x 1
+h x a
+i i
+jedenaście j E d E n a s\ t_s\ E
+jeden j E d E n
+j j i
+j j O t
+k k 1
+k k a
+kreską k r E s k O~
+kreskowane k r E s k O v a n E
+l E l
+ł E w
+l l 1
+ł w 1
+m E m
+m m 1
+ń E J
+n E n
+ń J i
+n n 1
+o O
+osiemdziesiąt O s\ E m d_z\ E s\ O n t
+osiemnaście O s\ E m n a s\ t_s\ E
+osiem O s\ E m
+osiemset O s\ E m s E t
+pięćdziesiąt p' E J d_z\ E s\ O n t
+pięć p' E J t_s\
+pięćset p' E J t_s\ s E t
+piętnaście p' E n t n a s\ t_s\ E
+p p 1
+p p E
+r E r
+r r 1
+s E s
+ś E s\
+siedemdziesiąt s\ E d E m d_z\ E s\ O n t
+siedemnaście s\ E d E m n a s\ t_s\ E
+siedem s\ E d E m
+siedemset s\ E d E m s E t
+s s 1
+ś s\ i
+sto s t O
+sześćdziesiąt s` E z\ d_z\ E s\ O n t
+sześć s` E s\ t_s\
+sześćset s` E j s E t
+sześćset s` E s\ t_s\ s E t
+szesnaście s` E s n a s\ t_s\ E
+trzydzieści t s` 1 d_z\ E s\ t_s\ i
+trzynaście t s` 1 n a s\ t_s\ E
+trzysta t s` 1 s t a
+trzy t s` 1
+t t 1
+t t E
+u u
+w v 1
+w v u
+y 1
+y i g r E k
+zero z E r O
+z z
+z z 1
+ż z` 1
+z z E t
+ź z\ E t
+ż z` E t
+ź z\ i
